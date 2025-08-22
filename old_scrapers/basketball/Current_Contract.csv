@@ -1,0 +1,656 @@
+﻿name,experince,team_name,birth_day,player_id,2024-25,2025-26
+Jaylen Brown,9 years,Boston Celtics,1996-10-24,brownja02,,"$53,142,264"
+Torrey Craig,8 years,,1990-12-19,craigto01,,
+JD Davison,3 years,Houston Rockets,2002-10-03,davisjd01,,"$2,270,735"
+Sam Hauser,4 years,Boston Celtics,1997-12-08,hausesa01,,"$10,044,644"
+Jrue Holiday,16 years,Portland Trail Blazers,1990-06-12,holidjr01,,"$32,400,000"
+Al Horford,18 years,,1986-06-03,horfoal01,,
+Luke Kornet,8 years,San Antonio Spurs,1995-07-15,kornelu01,,"$11,000,000"
+Miles Norris,1 year,Boston Celtics,2000-04-15,norrimi01,,
+Drew Peterson,2 years,Charlotte Hornets,1999-11-09,peterdr01,,
+Kristaps Porziņģis,9 years,Atlanta Hawks,1995-08-02,porzikr01,,"$30,731,707"
+Payton Pritchard,5 years,Boston Celtics,1998-01-28,pritcpa01,,"$7,232,143"
+Neemias Queta,4 years,Boston Celtics,1999-07-13,quetane01,,"$2,349,578"
+Baylor Scheierman,1 year,Boston Celtics,2000-09-26,scheiba01,,"$2,619,000"
+Jaden Springer,4 years,New Orleans Pelicans,2002-09-25,sprinja01,,
+Jayson Tatum,8 years,Boston Celtics,1998-03-03,tatumja01,,"$54,126,450"
+Xavier Tillman Sr.,5 years,Boston Celtics,1999-01-12,tillmxa01,,"$2,546,675"
+Jordan Walsh,2 years,Boston Celtics,2004-03-03,walshjo01,,"$2,221,677"
+Derrick White,8 years,Boston Celtics,1994-07-02,whitede01,,"$28,100,000"
+Reece Beekman,1 year,,2001-10-08,beekmre01,,
+Nic Claxton,6 years,Brooklyn Nets,1999-04-17,claxtni01,,"$25,352,272"
+Noah Clowney,2 years,Brooklyn Nets,2004-07-14,clownno01,,"$3,398,640"
+Cui Yongxi,1 year,,2003-05-28,cuiyo01,,
+Tyson Etienne,1 year,Brooklyn Nets,1999-09-17,etienty01,,
+Tosan Evbuomwan,2 years,Brooklyn Nets,2001-02-16,evbuoto01,,
+Dorian Finney-Smith,9 years,Houston Rockets,1993-05-04,finnedo01,,
+Killian Hayes,5 years,,2001-07-27,hayeski01,,
+Cameron Johnson,6 years,Denver Nuggets,1996-03-03,johnsca02,,"$20,543,478"
+Keon Johnson,4 years,Brooklyn Nets,2002-03-10,johnske07,,"$2,349,578"
+Maxwell Lewis,2 years,,2002-07-27,lewisma05,,
+Jaylen Martin,1 year,Washington Wizards,2004-01-28,martija02,,
+Tyrese Martin,2 years,Brooklyn Nets,1999-03-07,martity01,,"$2,191,897"
+Dariq Whitehead,2 years,Brooklyn Nets,2004-08-01,whiteda01,,"$3,262,560"
+Shake Milton,7 years,,1996-09-26,miltosh01,,"$3,000,000"
+D'Angelo Russell,10 years,Dallas Mavericks,1996-02-23,russeda01,,
+Dennis Schröder,12 years,Sacramento Kings,1993-09-15,schrode01,,
+Day'Ron Sharpe,4 years,,2001-11-06,sharpda01,,
+Ben Simmons,7 years,,1996-07-20,simmobe01,,
+Cam Thomas,4 years,,2001-10-13,thomaca02,,
+Drew Timme,1 year,Brooklyn Nets,2000-09-09,timmedr01,,"$1,955,377"
+Trendon Watford,4 years,Philadelphia 76ers,2000-11-09,watfotr01,,
+Ziaire Williams,4 years,,2001-09-12,willizi02,,
+Jalen Wilson,2 years,Brooklyn Nets,2000-11-04,wilsoja03,,"$2,221,677"
+Ochai Agbaji,3 years,Toronto Raptors,2000-04-20,agbajoc01,,"$6,383,525"
+Scottie Barnes,4 years,Toronto Raptors,2001-08-01,barnesc01,,"$38,661,750"
+RJ Barrett,6 years,Toronto Raptors,2000-06-14,barrerj01,,"$27,705,357"
+Jamison Battle,1 year,Toronto Raptors,2001-05-10,battlja01,,"$1,955,377"
+Chris Boucher,8 years,,1993-01-11,bouchch01,,
+Bruce Brown,7 years,Denver Nuggets,1996-08-15,brownbr01,,
+D.J. Carton,2 years,,2000-08-05,cartodj01,,
+Colin Castleton,2 years,,2000-05-25,castlco01,,
+Ulrich Chomche,1 year,Toronto Raptors,2005-12-30,chomcul01,,
+Gradey Dick,2 years,Toronto Raptors,2003-11-20,dickgr01,,"$4,990,560"
+Bruno Fernando,6 years,,1998-08-15,fernabr01,,
+A.J. Lawson,3 years,Toronto Raptors,2000-07-15,lawsoaj01,,"$2,270,735"
+Davion Mitchell,4 years,Miami Heat,1998-09-05,mitchda01,,
+Jonathan Mogbo,1 year,Toronto Raptors,2001-10-29,mogbojo01,,"$1,955,377"
+Kelly Olynyk,12 years,San Antonio Spurs,1991-04-19,olynyke01,,"$13,445,122"
+Jakob Poeltl,9 years,Toronto Raptors,1995-10-15,poeltja01,,"$19,500,000"
+Immanuel Quickley,5 years,Toronto Raptors,1999-06-17,quickim01,,"$32,500,000"
+Jared Rhoden,3 years,,1999-08-27,rhodeja01,,
+Orlando Robinson,3 years,Orlando Magic,2000-07-10,robinor01,,
+Jamal Shead,1 year,Toronto Raptors,2002-06-24,sheadja01,,"$1,955,377"
+Cole Swider,3 years,,1999-05-08,swideco01,,
+Garrett Temple,15 years,Toronto Raptors,1986-05-08,templga01,,
+Ja'Kobe Walter,1 year,Toronto Raptors,2004-09-04,walteja01,,"$3,638,160"
+Marcus Bagley,1 year,,2001-10-23,baglema02,,
+Adem Bona,1 year,Philadelphia 76ers,2003-03-28,bonaad01,,"$1,955,377"
+Oshae Brissett,6 years,,1998-06-20,brissos01,,
+Jared Butler,4 years,Phoenix Suns,2000-08-25,butleja02,,
+Colin Castleton,2 years,,2000-05-25,castlco01,,
+Ricky Council IV,2 years,,2001-08-03,councri01,,"$2,221,677"
+Jeff Dowtin Jr.,4 years,,1997-05-10,dowtije01,,
+Andre Drummond,13 years,Philadelphia 76ers,1993-08-10,drumman01,,"$5,000,000"
+Justin Edwards,1 year,Philadelphia 76ers,2003-12-16,edwarju01,,
+Joel Embiid,9 years,Philadelphia 76ers,1994-03-16,embiijo01,,"$55,224,526"
+Paul George,15 years,Philadelphia 76ers,1990-05-02,georgpa01,,"$51,666,090"
+Eric Gordon,17 years,Philadelphia 76ers,1988-12-25,gordoer01,,
+Quentin Grimes,4 years,,2000-05-08,grimequ01,,
+Jalen Hood-Schifino,2 years,,2003-06-19,hoodsja01,,
+Reggie Jackson,14 years,,1990-04-16,jacksre01,,
+Kyle Lowry,19 years,Philadelphia 76ers,1986-03-25,lowryky01,,
+Caleb Martin,6 years,Dallas Mavericks,1995-09-28,martica02,,"$9,594,044"
+KJ Martin,5 years,Utah Jazz,2001-01-06,martike04,,"$8,025,000"
+Tyrese Maxey,5 years,Philadelphia 76ers,2000-11-04,maxeyty01,,"$37,958,760"
+Jared McCain,1 year,Philadelphia 76ers,2004-02-20,mccaija01,,"$4,221,360"
+Isaiah Mobley,3 years,,1999-09-24,mobleis01,,
+Pete Nance,2 years,Milwaukee Bucks,2000-02-19,nancepe01,,
+Chuma Okeke,5 years,Cleveland Cavaliers,1998-08-18,okekech01,,"$2,546,675"
+Kelly Oubre Jr.,10 years,Philadelphia 76ers,1995-12-09,oubreke01,,"$8,382,150"
+Lester Quiñones,3 years,,2000-11-16,quinole01,,
+Alex Reese,1 year,,1999-05-21,reeseal01,,
+David Roddy,3 years,Toronto Raptors,2001-03-27,roddyda01,,
+Lonnie Walker IV,7 years,Philadelphia 76ers,1998-12-14,walkelo01,,"$2,940,876"
+Phillip Wheeler,1 year,,2002-04-23,wheelph02,,
+Guerschon Yabusele,3 years,New York Knicks,1995-12-17,yabusgu01,,
+Precious Achiuwa,5 years,,1999-09-19,achiupr01,,
+OG Anunoby,8 years,New York Knicks,1997-07-17,anunoog01,,"$39,568,966"
+MarJon Beauchamp,3 years,,2000-10-12,beaucma01,,
+Mikal Bridges,7 years,New York Knicks,1996-08-30,bridgmi01,,"$24,900,000"
+Jalen Brunson,7 years,New York Knicks,1996-08-31,brunsja01,,"$34,944,001"
+Pacome Dadiet,1 year,New York Knicks,2005-07-27,dadiepa01,,"$2,847,600"
+Josh Hart,8 years,New York Knicks,1995-03-06,hartjo01,,"$19,472,240"
+Ariel Hukporti,1 year,New York Knicks,2002-04-11,hukpoar01,,"$1,955,377"
+Tyler Kolek,1 year,New York Knicks,2001-03-27,kolekty01,,"$2,191,897"
+Miles McBride,4 years,New York Knicks,2000-09-08,mcbrimi01,,"$4,333,333"
+Kevin McCullar Jr.,1 year,,2001-03-15,mcculke01,,
+Cameron Payne,10 years,,1994-08-08,payneca01,,
+Mitchell Robinson,7 years,New York Knicks,1998-04-01,robinmi01,,"$12,954,546"
+Matt Ryan,4 years,,1997-04-17,ryanma01,,
+Landry Shamet,7 years,,1997-03-13,shamela01,,
+Jericho Sims,4 years,Milwaukee Bucks,1998-10-20,simsje01,,
+Jacob Toppin,2 years,Atlanta Hawks,2000-05-08,toppija01,,
+Karl-Anthony Towns,10 years,New York Knicks,1995-11-15,townska01,,"$53,142,264"
+P.J. Tucker,14 years,New York Knicks,1985-05-05,tuckepj01,,"$3,468,960"
+Anton Watson,1 year,,2000-10-06,watsoan02,,
+Delon Wright,10 years,,1992-04-26,wrighde01,,
+Lonzo Ball,6 years,Cleveland Cavaliers,1997-10-27,balllo01,,"$10,000,000"
+Matas Buzelis,1 year,Chicago Bulls,2004-10-13,buzelma01,,"$5,455,560"
+Jevon Carter,7 years,Chicago Bulls,1995-09-14,carteje01,,"$6,809,524"
+Zach Collins,7 years,Chicago Bulls,1997-11-19,colliza01,,"$18,080,496"
+Torrey Craig,8 years,,1990-12-19,craigto01,,
+Ayo Dosunmu,4 years,Chicago Bulls,2000-01-17,dosunay01,,"$7,518,518"
+Chris Duarte,4 years,,1997-06-13,duartch01,,
+Josh Giddey,4 years,,2002-10-10,giddejo01,,
+Talen Horton-Tucker,6 years,,2000-11-25,hortota01,,
+Kevin Huerter,7 years,Chicago Bulls,1998-08-27,huertke01,,"$17,991,071"
+Tre Jones,5 years,Chicago Bulls,2000-01-08,jonestr01,,
+Zach LaVine,11 years,Sacramento Kings,1995-03-10,lavinza01,,"$47,499,660"
+E.J. Liddell,2 years,,2000-12-18,liddeej01,,"$706,898"
+Emanuel Miller,1 year,Chicago Bulls,2000-06-19,milleem01,,
+Julian Phillips,2 years,Chicago Bulls,2003-11-05,phillju01,,"$2,221,677"
+Adama Sanogo,2 years,,2002-02-12,sanogad01,,
+Jalen Smith,5 years,Chicago Bulls,2000-03-16,smithja04,,"$9,000,000"
+Dalen Terry,3 years,Chicago Bulls,2002-07-12,terryda01,,"$5,399,118"
+Nikola Vučević,14 years,Chicago Bulls,1990-10-24,vucevni01,,"$21,481,481"
+Coby White,6 years,Chicago Bulls,2000-02-16,whiteco01,,"$12,888,889"
+Patrick Williams,5 years,Chicago Bulls,2001-08-26,willipa01,,"$18,000,000"
+Jahmir Young,1 year,,2000-10-07,youngja05,,
+Jarrett Allen,8 years,Cleveland Cavaliers,1998-04-21,allenja01,,"$20,000,000"
+Emoni Bates,2 years,,2004-01-28,batesem01,,
+Darius Garland,6 years,Cleveland Cavaliers,2000-01-26,garlada01,,"$39,446,090"
+Javonte Green,6 years,,1993-07-23,greenja02,,
+De'Andre Hunter,6 years,Cleveland Cavaliers,1997-12-02,huntede01,,"$23,303,571"
+Ty Jerome,6 years,Memphis Grizzlies,1997-07-08,jeromty01,,
+Caris LeVert,9 years,Detroit Pistons,1994-08-25,leverca01,,
+Sam Merrill,5 years,Cleveland Cavaliers,1996-05-15,merrisa01,,
+Donovan Mitchell,8 years,Cleveland Cavaliers,1996-09-07,mitchdo01,,"$46,394,100"
+Evan Mobley,4 years,Cleveland Cavaliers,2001-06-18,mobleev01,,"$46,394,100"
+Georges Niang,9 years,Boston Celtics,1993-06-17,niangge01,,"$8,200,000"
+Chuma Okeke,5 years,Cleveland Cavaliers,1998-08-18,okekech01,,"$2,546,675"
+Isaac Okoro,5 years,Chicago Bulls,2001-01-26,okorois01,,"$11,000,000"
+Craig Porter Jr.,2 years,Cleveland Cavaliers,2000-02-26,portecr01,,"$2,221,677"
+Max Strus,6 years,Cleveland Cavaliers,1996-03-28,strusma01,,"$15,936,452"
+Tristan Thompson,14 years,,1991-03-13,thomptr01,,
+JT Thor,4 years,,2002-08-26,thorjt01,,
+Nae'Qwan Tomlin,1 year,Cleveland Cavaliers,2000-12-10,tomlina01,,
+Luke Travers,1 year,Cleveland Cavaliers,2001-09-03,travelu01,,
+Jaylon Tyson,1 year,Cleveland Cavaliers,2002-12-02,tysonja01,,"$3,492,480"
+Dean Wade,6 years,Cleveland Cavaliers,1996-11-20,wadede01,,"$6,623,456"
+Malik Beasley,9 years,,1996-11-26,beaslma01,,
+Cade Cunningham,4 years,Detroit Pistons,2001-09-25,cunnica01,,"$38,661,750"
+Jalen Duren,3 years,Detroit Pistons,2003-11-18,durenja01,,"$6,483,144"
+Simone Fontecchio,3 years,Miami Heat,1995-12-09,fontesi01,,"$8,307,692"
+Tim Hardaway Jr.,12 years,Denver Nuggets,1992-03-16,hardati02,,
+Ron Harper Jr.,3 years,,2000-04-12,harpero02,,
+Tobias Harris,14 years,Detroit Pistons,1992-07-15,harrito02,,"$26,634,146"
+Ron Holland,1 year,Detroit Pistons,2005-07-07,hollaro01,,"$8,657,280"
+Jaden Ivey,3 years,Detroit Pistons,2002-02-13,iveyja01,,"$10,107,163"
+Daniss Jenkins,1 year,,2001-08-17,jenkida01,,
+Bobi Klintman,1 year,Detroit Pistons,2003-03-06,klintbo01,,"$1,955,377"
+Wendell Moore Jr.,3 years,,2001-09-18,moorewe01,,
+Paul Reed,5 years,Detroit Pistons,1999-06-14,reedpa01,,
+Marcus Sasser,2 years,Detroit Pistons,2000-09-21,sassema01,,"$2,886,720"
+Dennis Schröder,12 years,Sacramento Kings,1993-09-15,schrode01,,
+Tolu Smith,1 year,Detroit Pistons,2000-07-26,smithto05,,
+Isaiah Stewart,5 years,Detroit Pistons,2001-05-22,stewais01,,"$15,000,000"
+Cole Swider,3 years,,1999-05-08,swideco01,,
+Ausar Thompson,2 years,Detroit Pistons,2003-01-30,thompau01,,"$8,775,000"
+Lindy Waters III,4 years,San Antonio Spurs,1997-07-28,waterli01,,
+Alondes Williams,3 years,,1999-06-19,willial06,,
+Tony Bradley,7 years,Indiana Pacers,1998-01-08,bradlto01,,"$2,940,876"
+Moses Brown,6 years,,1999-10-13,brownmo01,,
+Thomas Bryant,8 years,,1997-07-31,bryanth01,,
+RayJ Dennis,1 year,Indiana Pacers,2001-03-30,dennira01,,
+Enrique Freeman,1 year,Minnesota Timberwolves,2000-07-29,freemen01,,
+Johnny Furphy,1 year,Indiana Pacers,2004-12-08,furphjo01,,"$1,955,377"
+Tyrese Haliburton,5 years,Indiana Pacers,2000-02-29,halibty01,,"$45,550,512"
+Isaiah Jackson,4 years,Indiana Pacers,2002-01-10,jacksis01,,
+Quenton Jackson,3 years,Indiana Pacers,1998-09-15,jacksqu01,,
+James Johnson,16 years,,1987-02-20,johnsja01,,
+Bennedict Mathurin,3 years,Indiana Pacers,2002-06-19,mathube01,,"$9,187,573"
+T.J. McConnell,10 years,Indiana Pacers,1992-03-25,mccontj01,,"$10,200,000"
+Andrew Nembhard,3 years,Indiana Pacers,2000-01-16,nembhan01,,"$18,102,000"
+Aaron Nesmith,5 years,Indiana Pacers,1999-10-16,nesmiaa01,,"$11,000,000"
+Tristen Newton,1 year,,2001-04-26,newtotr01,,
+Jahlil Okafor,7 years,,1995-12-15,okafoja01,,
+Ben Sheppard,2 years,Indiana Pacers,2001-07-16,sheppbe01,,"$2,790,720"
+Pascal Siakam,9 years,Indiana Pacers,1994-04-02,siakapa01,,"$45,550,512"
+Obi Toppin,5 years,Indiana Pacers,1998-03-04,toppiob01,,"$14,000,000"
+Myles Turner,10 years,Milwaukee Bucks,1996-03-24,turnemy01,,
+Jarace Walker,2 years,Indiana Pacers,2003-09-04,walkeja02,,"$6,665,520"
+James Wiseman,4 years,Indiana Pacers,2001-03-31,wisemja01,,"$2,667,947"
+Giannis Antetokounmpo,12 years,Milwaukee Bucks,1994-12-06,antetgi01,,"$54,126,450"
+MarJon Beauchamp,3 years,,2000-10-12,beaucma01,,
+Jamaree Bouyea,3 years,Milwaukee Bucks,1999-06-27,bouyeja01,,
+Pat Connaughton,10 years,Charlotte Hornets,1993-01-06,connapa01,,"$9,423,869"
+A.J. Green,3 years,Milwaukee Bucks,1999-09-27,greenaj01,,"$2,301,587"
+Andre Jackson Jr.,2 years,Milwaukee Bucks,2001-11-13,jacksan01,,"$2,221,677"
+AJ Johnson,1 year,Washington Wizards,2004-12-01,johnsaj01,,"$3,090,480"
+Kyle Kuzma,8 years,Milwaukee Bucks,1995-07-24,kuzmaky01,,"$22,410,605"
+Damian Lillard,13 years,Portland Trail Blazers,1990-07-15,lillada01,,"$54,126,450"
+Chris Livingston,2 years,Milwaukee Bucks,2003-10-15,livinch01,,
+Brook Lopez,17 years,Los Angeles Clippers,1988-04-01,lopezbr01,,
+Khris Middleton,13 years,Washington Wizards,1991-08-12,middlkh01,,"$33,296,296"
+Pete Nance,2 years,Milwaukee Bucks,2000-02-19,nancepe01,,
+Kevin Porter Jr.,5 years,Milwaukee Bucks,2000-05-04,porteke02,,
+Bobby Portis,10 years,Milwaukee Bucks,1995-02-10,portibo01,,
+Taurean Prince,9 years,Milwaukee Bucks,1994-03-22,princta02,,
+Liam Robbins,1 year,,1999-07-12,robbili01,,
+Ryan Rollins,3 years,Milwaukee Bucks,2002-07-03,rolliry01,,
+Jericho Sims,4 years,Milwaukee Bucks,1998-10-20,simsje01,,
+Tyler Smith,1 year,Milwaukee Bucks,2004-11-02,smithty02,,"$1,955,377"
+Gary Trent Jr.,7 years,Milwaukee Bucks,1999-01-18,trentga02,,
+Stanley Umude,3 years,,1999-04-12,umudest01,,
+Delon Wright,10 years,,1992-04-26,wrighde01,,
+Marvin Bagley III,7 years,Washington Wizards,1999-03-14,baglema01,,
+Patrick Baldwin Jr.,3 years,,2002-11-18,baldwpa01,,
+Malcolm Brogdon,9 years,,1992-12-11,brogdma01,,
+Jared Butler,4 years,Phoenix Suns,2000-08-25,butleja02,,
+Bub Carrington,1 year,Washington Wizards,2005-07-21,carrica01,,"$4,677,600"
+Justin Champagnie,4 years,Washington Wizards,2001-06-29,champju01,,"$2,349,578"
+Bilal Coulibaly,2 years,Washington Wizards,2004-07-26,coulibi01,,"$7,275,600"
+Johnny Davis,3 years,,2002-02-27,davisjo06,,
+Kyshawn George,1 year,Washington Wizards,2003-12-12,georgky01,,"$2,966,760"
+Anthony Gill,5 years,,1992-10-17,gillan01,,
+Richaun Holmes,10 years,,1993-10-15,holmeri01,,
+AJ Johnson,1 year,Washington Wizards,2004-12-01,johnsaj01,,"$3,090,480"
+Colby Jones,2 years,Detroit Pistons,2002-05-28,jonesco02,,
+Corey Kispert,4 years,Washington Wizards,1999-03-03,kispeco01,,"$13,975,000"
+Kyle Kuzma,8 years,Milwaukee Bucks,1995-07-24,kuzmaky01,,"$22,410,605"
+Jaylen Martin,1 year,Washington Wizards,2004-01-28,martija02,,
+Jalen McDaniels,6 years,,1998-01-31,mcdanja01,,
+Khris Middleton,13 years,Washington Wizards,1991-08-12,middlkh01,,"$33,296,296"
+Jordan Poole,6 years,New Orleans Pelicans,1999-06-19,poolejo01,,"$31,848,215"
+Alex Sarr,1 year,Washington Wizards,2005-04-26,sarral01,,"$11,808,240"
+Marcus Smart,11 years,Los Angeles Lakers,1994-03-06,smartma01,,"$21,586,855"
+JT Thor,4 years,,2002-08-26,thorjt01,,
+Jonas Valančiūnas,13 years,Denver Nuggets,1992-05-06,valanjo01,,"$10,395,000"
+Tristan Vukcevic,2 years,Washington Wizards,2003-03-11,vukcetr01,,
+Dominick Barlow,3 years,Philadelphia 76ers,2003-05-26,barlodo01,,
+Bogdan Bogdanović,8 years,Los Angeles Clippers,1992-08-18,bogdabo01,,"$16,020,000"
+Kobe Bufkin,2 years,Atlanta Hawks,2003-09-21,bufkiko01,,"$4,503,720"
+Clint Capela,11 years,Houston Rockets,1994-05-18,capelca01,,
+Dyson Daniels,3 years,Atlanta Hawks,2003-03-17,daniedy01,,"$7,707,709"
+Mouhamed Gueye,2 years,Atlanta Hawks,2002-11-09,gueyemo02,,"$2,221,677"
+De'Andre Hunter,6 years,Cleveland Cavaliers,1997-12-02,huntede01,,"$23,303,571"
+Jalen Johnson,4 years,Atlanta Hawks,2001-12-18,johnsja05,,"$30,000,000"
+Vit Krejci,4 years,Atlanta Hawks,2000-06-19,krejcvi01,,"$2,349,578"
+Caris LeVert,9 years,Detroit Pistons,1994-08-25,leverca01,,
+Terance Mann,6 years,Brooklyn Nets,1996-10-18,mannte01,,"$15,500,000"
+Garrison Mathews,6 years,,1996-10-24,mathega01,,
+Larry Nance Jr.,10 years,Cleveland Cavaliers,1993-01-01,nancela02,,
+Georges Niang,9 years,Boston Celtics,1993-06-17,niangge01,,"$8,200,000"
+Onyeka Okongwu,5 years,Atlanta Hawks,2000-12-11,okongon01,,"$15,000,000"
+Daeqwon Plowden,1 year,Sacramento Kings,1998-08-29,plowdda01,,
+Zaccharie Risacher,1 year,Atlanta Hawks,2005-04-08,risacza01,,"$13,197,720"
+David Roddy,3 years,Toronto Raptors,2001-03-27,roddyda01,,
+Jacob Toppin,2 years,Atlanta Hawks,2000-05-08,toppija01,,
+Keaton Wallace,1 year,Atlanta Hawks,1999-02-26,wallake01,,
+Trae Young,7 years,Atlanta Hawks,1998-09-19,youngtr01,,"$45,999,660"
+Cole Anthony,5 years,Milwaukee Bucks,2000-05-15,anthoco01,,"$13,100,000"
+Paolo Banchero,3 years,Orlando Magic,2002-11-12,banchpa01,,"$15,334,769"
+Goga Bitadze,6 years,Orlando Magic,1999-07-20,bitadgo01,,"$8,333,333"
+Anthony Black,2 years,Orlando Magic,2004-01-20,blackan01,,"$7,970,280"
+Kentavious Caldwell-Pope,12 years,Memphis Grizzlies,1993-02-18,caldwke01,,"$21,621,500"
+Wendell Carter Jr.,7 years,Orlando Magic,1999-04-16,cartewe01,,"$10,850,000"
+Tristan Da Silva,1 year,Orlando Magic,2001-05-15,dasiltr01,,"$3,809,520"
+Gary Harris,11 years,Milwaukee Bucks,1994-09-14,harriga01,,
+Caleb Houstan,3 years,Orlando Magic,2003-01-09,houstca01,,"$2,187,699"
+Jett Howard,2 years,Orlando Magic,2003-09-14,howarje01,,"$5,529,720"
+Jonathan Isaac,6 years,Orlando Magic,1997-10-03,isaacjo01,,"$15,000,000"
+Cory Joseph,14 years,,1991-08-20,josepco01,,
+Mac McClung,3 years,,1999-01-06,mccluma01,,
+Trevelin Queen,4 years,,1997-02-25,queentr01,,
+Jalen Suggs,4 years,Orlando Magic,2001-06-03,suggsja01,,"$35,000,000"
+Franz Wagner,4 years,Orlando Magic,2001-08-27,wagnefr01,,"$38,661,750"
+Moritz Wagner,7 years,Orlando Magic,1997-04-26,wagnemo01,,"$5,000,000"
+Bam Adebayo,8 years,Miami Heat,1997-07-18,adebaba01,,"$37,096,620"
+Kyle Anderson,11 years,Utah Jazz,1993-09-20,anderky01,,"$9,219,512"
+Thomas Bryant,8 years,,1997-07-31,bryanth01,,
+Alec Burks,14 years,,1991-07-20,burksal01,,
+Jimmy Butler,14 years,Golden State Warriors,1989-09-14,butleji01,,"$54,126,450"
+Josh Christopher,3 years,,2001-12-08,chrisjo01,,
+Tyler Herro,6 years,Miami Heat,2000-01-20,herroty01,,"$31,000,000"
+Haywood Highsmith,5 years,Miami Heat,1996-12-09,highsha01,,"$5,616,000"
+Jaime Jaquez Jr.,2 years,Miami Heat,2001-02-18,jaqueja01,,"$3,861,600"
+Keshad Johnson,1 year,Miami Heat,2001-06-23,johnske10,,"$1,955,377"
+Nikola Jović,3 years,Miami Heat,2003-06-09,jovicni01,,"$4,445,417"
+Pelle Larsson,1 year,Miami Heat,2001-02-23,larsspe01,,"$1,955,377"
+Kevin Love,17 years,Utah Jazz,1988-09-07,loveke01,,"$4,150,000"
+Davion Mitchell,4 years,Miami Heat,1998-09-05,mitchda01,,
+Josh Richardson,10 years,,1993-09-15,richajo01,,
+Duncan Robinson,7 years,Detroit Pistons,1994-04-22,robindu01,,"$9,888,000"
+Terry Rozier,10 years,Miami Heat,1994-03-17,roziete01,,"$26,643,031"
+Dru Smith,3 years,,1997-12-30,smithdr01,,
+Isaiah Stevens,1 year,Sacramento Kings,2000-11-01,steveis01,,
+Kel'el Ware,1 year,Miami Heat,2004-04-20,wareke01,,"$4,443,360"
+Andrew Wiggins,11 years,Miami Heat,1995-02-23,wiggian01,,"$28,223,215"
+LaMelo Ball,5 years,Charlotte Hornets,2001-08-22,ballla01,,"$37,958,760"
+Damion Baugh,1 year,,2000-08-03,baughda01,,
+Miles Bridges,6 years,Charlotte Hornets,1998-03-21,bridgmi02,,"$25,000,000"
+Seth Curry,11 years,,1990-08-23,curryse01,,
+Moussa Diabaté,3 years,Charlotte Hornets,2002-01-21,diabamo01,,"$2,270,735"
+Malachi Flynn,5 years,,1998-05-10,flynnma01,,
+Marcus Garrett,2 years,,1998-11-09,garrema01,,
+Taj Gibson,16 years,,1985-06-24,gibsota01,,
+Josh Green,5 years,Charlotte Hornets,2000-11-16,greenjo02,,"$13,666,667"
+DaQuan Jeffries,6 years,Charlotte Hornets,1997-08-30,jeffrda01,,"$2,743,776"
+Tre Mann,4 years,,2001-02-03,manntr01,,
+Cody Martin,6 years,,1995-09-28,martico01,,
+Vasilije Micić,2 years,,1994-01-13,micicva01,,"$8,109,150"
+Brandon Miller,2 years,Charlotte Hornets,2002-11-22,millebr02,,"$11,968,800"
+Wendell Moore Jr.,3 years,,2001-09-18,moorewe01,,
+Jusuf Nurkić,11 years,Charlotte Hornets,1994-08-23,nurkiju01,,"$19,375,000"
+Josh Okogie,7 years,Houston Rockets,1998-09-01,okogijo01,,
+Elfrid Payton,9 years,New Orleans Pelicans,1994-02-22,paytoel01,,"$3,153,598"
+Jared Rhoden,3 years,,1999-08-27,rhodeja01,,
+Nick Richards,5 years,Phoenix Suns,1997-11-29,richani01,,"$5,000,000"
+Tidjane Salaün,1 year,Charlotte Hornets,2005-08-10,salauti01,,"$7,863,240"
+KJ Simpson,1 year,Charlotte Hornets,2002-08-08,simpskj01,,
+Jaylen Sims,1 year,,1998-12-11,simsja01,,
+Nick Smith Jr.,2 years,Charlotte Hornets,2004-04-18,smithni01,,"$2,710,680"
+Grant Williams,6 years,Charlotte Hornets,1998-11-30,willigr01,,"$13,645,500"
+Mark Williams,3 years,Phoenix Suns,2001-12-16,willima07,,"$6,276,531"
+Isaiah Wong,2 years,,2001-01-28,wongis01,,
+Nickeil Alexander-Walker,6 years,Atlanta Hawks,1998-09-02,alexani01,,
+Jaylen Clark,1 year,Minnesota Timberwolves,2001-10-13,clarkja02,,"$2,191,897"
+Mike Conley,18 years,Minnesota Timberwolves,1987-10-11,conlemi01,,"$10,774,038"
+Rob Dillingham,1 year,Minnesota Timberwolves,2005-01-04,dilliro01,,"$6,576,120"
+Donte DiVincenzo,7 years,Minnesota Timberwolves,1997-01-31,divindo01,,"$11,990,000"
+PJ Dozier,7 years,,1996-10-25,doziepj01,,
+Anthony Edwards,5 years,Minnesota Timberwolves,2001-08-05,edwaran01,,"$45,550,512"
+Jesse Edwards,1 year,Minnesota Timberwolves,2000-03-18,edwarje01,,
+Luka Garza,4 years,Boston Celtics,1998-12-27,garzalu01,,
+Rudy Gobert,12 years,Minnesota Timberwolves,1992-06-26,goberru01,,"$35,000,000"
+Bones Hyland,4 years,,2000-09-14,hylanbo01,,
+Joe Ingles,11 years,Minnesota Timberwolves,1987-10-02,inglejo01,,
+Jaden McDaniels,5 years,Minnesota Timberwolves,2000-09-29,mcdanja02,,"$24,858,622"
+Leonard Miller,2 years,Minnesota Timberwolves,2003-11-26,millele01,,"$2,221,677"
+Josh Minott,3 years,Boston Celtics,2002-11-25,minotjo01,,
+Tristen Newton,1 year,,2001-04-26,newtotr01,,
+Daishen Nix,4 years,,2002-02-13,nixda01,,
+Julius Randle,11 years,Minnesota Timberwolves,1994-11-29,randlju01,,
+Naz Reid,6 years,Minnesota Timberwolves,1999-08-26,reidna01,,
+Terrence Shannon Jr.,1 year,Minnesota Timberwolves,2000-07-30,shannte01,,"$2,674,080"
+Branden Carlson,1 year,Oklahoma City Thunder,1999-06-14,carlsbr01,,
+Alex Caruso,8 years,Oklahoma City Thunder,1994-02-28,carusal01,,"$18,102,000"
+Ousmane Dieng,3 years,Oklahoma City Thunder,2003-05-21,diengou01,,"$6,670,882"
+Luguentz Dort,6 years,Oklahoma City Thunder,1999-04-19,dortlu01,,"$17,722,222"
+Alex Ducas,1 year,,2000-12-11,ducasal01,,
+Adam Flagler,2 years,,1999-12-01,flaglad01,,
+Shai Gilgeous-Alexander,7 years,Oklahoma City Thunder,1998-07-12,gilgesh01,,"$38,333,050"
+Isaiah Hartenstein,7 years,Oklahoma City Thunder,1998-05-05,harteis01,,"$28,500,000"
+Chet Holmgren,2 years,Oklahoma City Thunder,2002-05-01,holmgch01,,"$13,731,368"
+Isaiah Joe,5 years,Oklahoma City Thunder,1999-07-02,joeis01,,"$12,362,338"
+Dillon Jones,1 year,Oklahoma City Thunder,2001-10-29,jonesdi01,,"$2,753,280"
+Malevy Leons,1 year,Oklahoma City Thunder,1999-09-23,leonsma01,,
+Ajay Mitchell,1 year,Oklahoma City Thunder,2002-06-25,mitchaj01,,
+Alex Reese,1 year,,1999-05-21,reeseal01,,
+Cason Wallace,2 years,Oklahoma City Thunder,2003-11-07,wallaca01,,"$5,820,240"
+Aaron Wiggins,4 years,Oklahoma City Thunder,1999-01-02,wiggiaa01,,"$9,672,897"
+Jalen Williams,3 years,Oklahoma City Thunder,2001-04-14,willija06,,"$6,580,997"
+Jaylin Williams,3 years,Oklahoma City Thunder,2002-06-29,willija07,,
+Kenrich Williams,7 years,Oklahoma City Thunder,1994-12-02,willike04,,"$7,163,000"
+Trey Alexander,1 year,New Orleans Pelicans,2003-05-02,alexatr01,,
+Christian Braun,3 years,Denver Nuggets,2001-04-17,braunch01,,"$4,921,797"
+Vlatko Čančar,5 years,,1997-04-10,cancavl01,,
+Aaron Gordon,11 years,Denver Nuggets,1995-09-16,gordoaa01,,"$22,841,455"
+PJ Hall,1 year,Memphis Grizzlies,2002-02-21,hallpj01,,
+Nikola Jokić,10 years,Denver Nuggets,1995-02-19,jokicni01,,"$55,224,526"
+Spencer Jones,1 year,Denver Nuggets,2001-06-14,jonessp01,,
+DeAndre Jordan,17 years,,1988-07-21,jordade01,,
+Jamal Murray,8 years,Denver Nuggets,1997-02-23,murraja01,,"$46,394,100"
+Zeke Nnaji,5 years,Denver Nuggets,2001-01-09,nnajize01,,"$8,177,778"
+Jalen Pickett,2 years,Denver Nuggets,1999-10-22,pickeja02,,"$2,221,677"
+Michael Porter Jr.,6 years,Brooklyn Nets,1998-06-29,portemi01,,"$38,333,050"
+Dario Šarić,8 years,Sacramento Kings,1994-04-08,saricda01,,"$5,426,400"
+Julian Strawther,2 years,Denver Nuggets,2002-04-18,strawju01,,"$2,674,200"
+Hunter Tyson,2 years,Denver Nuggets,2000-06-13,tysonhu01,,"$2,221,677"
+Peyton Watson,3 years,Denver Nuggets,2002-09-11,watsope01,,"$4,356,476"
+Russell Westbrook,17 years,Denver Nuggets,1988-11-12,westbru01,,"$3,468,960"
+Deni Avdija,5 years,Portland Trail Blazers,2001-01-03,avdijde01,,"$14,375,000"
+Deandre Ayton,7 years,Los Angeles Lakers,1998-07-23,aytonde01,,"$35,550,814"
+Dalano Banton,4 years,,1999-11-07,bantoda01,,
+Toumani Camara,2 years,Portland Trail Blazers,2000-05-08,camarto01,,"$2,221,677"
+Sidy Cissoko,2 years,Portland Trail Blazers,2004-04-02,cissosi01,,
+Donovan Clingan,1 year,Portland Trail Blazers,2004-02-23,clingdo01,,"$7,178,400"
+Jerami Grant,11 years,Portland Trail Blazers,1994-03-12,grantje01,,"$32,000,001"
+Scoot Henderson,2 years,Portland Trail Blazers,2004-02-03,hendesc01,,"$10,748,040"
+Bryce McGowens,3 years,New Orleans Pelicans,2002-11-08,mcgowbr01,,
+Justin Minaya,3 years,,1999-03-26,minayju01,,
+Taze Moore,2 years,,1998-06-29,mooreta02,,
+Kris Murray,2 years,Portland Trail Blazers,2000-08-19,murrakr01,,"$3,132,000"
+Duop Reath,2 years,Portland Trail Blazers,1996-06-26,reathdu01,,"$2,221,677"
+Rayan Rupert,2 years,Portland Trail Blazers,2004-05-31,ruperra01,,"$2,221,677"
+Shaedon Sharpe,3 years,Portland Trail Blazers,2003-05-30,sharpsh01,,"$8,399,983"
+Anfernee Simons,7 years,Boston Celtics,1999-06-08,simonan01,,"$27,678,571"
+Matisse Thybulle,6 years,Portland Trail Blazers,1997-03-04,thybuma01,,"$11,550,000"
+Jabari Walker,3 years,Philadelphia 76ers,2002-07-30,walkeja01,,
+Robert Williams,7 years,Portland Trail Blazers,1997-10-17,williro04,,"$13,285,713"
+Jordan Clarkson,11 years,New York Knicks,1992-06-07,clarkjo01,,"$14,285,714"
+Isaiah Collier,1 year,Utah Jazz,2004-10-08,colliis01,,"$2,638,200"
+John Collins,8 years,Los Angeles Clippers,1997-09-23,collijo01,,"$26,580,000"
+Drew Eubanks,7 years,Sacramento Kings,1997-02-01,eubandr01,,
+Kyle Filipowski,1 year,Utah Jazz,2003-11-07,filipky01,,"$3,000,000"
+Keyonte George,2 years,Utah Jazz,2003-11-08,georgke01,,"$4,278,960"
+Elijah Harkless,1 year,Utah Jazz,2000-02-03,harklej01,,
+Taylor Hendricks,2 years,Utah Jazz,2003-11-22,hendrta01,,"$6,127,080"
+Johnny Juzang,3 years,,2001-03-17,juzanjo01,,
+Walker Kessler,3 years,Utah Jazz,2001-07-26,kesslwa01,,"$4,878,938"
+Lauri Markkanen,8 years,Utah Jazz,1997-05-22,markkla01,,"$46,394,100"
+KJ Martin,5 years,Utah Jazz,2001-01-06,martike04,,"$8,025,000"
+Patty Mills,16 years,,1988-08-11,millspa02,,
+Svi Mykhailiuk,7 years,Utah Jazz,1997-06-10,mykhasv01,,"$3,675,000"
+Micah Potter,4 years,,1998-04-06,pottemi01,,
+Brice Sensabaugh,2 years,Utah Jazz,2003-10-30,sensabr01,,"$2,693,760"
+Collin Sexton,7 years,Utah Jazz,1999-01-04,sextoco01,,"$19,175,000"
+Jaden Springer,4 years,New Orleans Pelicans,2002-09-25,sprinja01,,
+Oscar Tshiebwe,2 years,,1999-11-27,tshieos01,,
+Cody Williams,1 year,Utah Jazz,2004-11-20,willico04,,"$5,742,480"
+Max Christie,3 years,Dallas Mavericks,2003-02-10,chrisma02,,"$7,714,286"
+Anthony Davis,13 years,Dallas Mavericks,1993-03-11,davisan02,,"$54,126,450"
+Luka Dončić,7 years,Los Angeles Lakers,1999-02-28,doncilu01,,"$45,999,660"
+Dorian Finney-Smith,9 years,Houston Rockets,1993-05-04,finnedo01,,
+Jordan Goodwin,4 years,Phoenix Suns,1998-10-23,goodwjo01,,"$2,349,578"
+Rui Hachimura,6 years,Los Angeles Lakers,1998-02-08,hachiru01,,"$18,259,259"
+Jaxson Hayes,6 years,Los Angeles Lakers,2000-05-23,hayesja02,,
+Jalen Hood-Schifino,2 years,,2003-06-19,hoodsja01,,
+Bronny James,1 year,Los Angeles Lakers,2004-10-06,jamesbr02,,"$1,955,377"
+LeBron James,22 years,Los Angeles Lakers,1984-12-30,jamesle01,,"$52,627,153"
+Trey Jemison,2 years,,1999-11-28,jemistr01,,
+Maxi Kleber,8 years,Los Angeles Lakers,1992-01-29,klebima01,,"$11,000,000"
+Dalton Knecht,1 year,Los Angeles Lakers,2001-04-19,knechda01,,"$4,010,160"
+Christian Koloko,2 years,Los Angeles Lakers,2000-06-20,kolokch01,,
+Alex Len,12 years,,1993-06-16,lenal01,,
+Maxwell Lewis,2 years,,2002-07-27,lewisma05,,
+Shake Milton,7 years,,1996-09-26,miltosh01,,"$3,000,000"
+Markieff Morris,14 years,,1989-09-02,morrima02,,
+Quincy Olivari,1 year,,2001-05-27,olivaqu01,,
+Austin Reaves,4 years,Los Angeles Lakers,1998-05-29,reaveau01,,"$13,937,574"
+Cam Reddish,6 years,,1999-09-01,reddica01,,
+D'Angelo Russell,10 years,Dallas Mavericks,1996-02-23,russeda01,,
+Armel Traoré,1 year,,2003-01-23,armeltr01,,
+Jarred Vanderbilt,7 years,Los Angeles Lakers,1999-04-03,vandeja01,,"$11,571,429"
+Gabe Vincent,6 years,Los Angeles Lakers,1996-06-14,vincega01,,"$11,500,000"
+Patrick Baldwin Jr.,3 years,,2002-11-18,baldwpa01,,
+Mo Bamba,7 years,,1998-05-12,bambamo01,,
+Nicolas Batum,17 years,Los Angeles Clippers,1988-12-14,batumni01,,
+MarJon Beauchamp,3 years,,2000-10-12,beaucma01,,
+Bogdan Bogdanović,8 years,Los Angeles Clippers,1992-08-18,bogdabo01,,"$16,020,000"
+Kobe Brown,2 years,Los Angeles Clippers,2000-01-01,brownko01,,"$2,654,880"
+Cam Christie,1 year,Los Angeles Clippers,2005-07-24,chrisca02,,"$1,955,377"
+Amir Coffey,6 years,,1997-06-17,coffeam01,,
+Kris Dunn,9 years,Los Angeles Clippers,1994-03-18,dunnkr01,,"$5,426,400"
+Drew Eubanks,7 years,Sacramento Kings,1997-02-01,eubandr01,,
+Trentyn Flowers,1 year,Los Angeles Clippers,2005-03-08,flowetr01,,
+James Harden,16 years,Los Angeles Clippers,1989-08-26,hardeja01,,
+Bones Hyland,4 years,,2000-09-14,hylanbo01,,
+Derrick Jones Jr.,9 years,Los Angeles Clippers,1997-02-15,jonesde02,,"$10,000,000"
+Kai Jones,3 years,,2001-01-19,joneska01,,
+Kawhi Leonard,13 years,Los Angeles Clippers,1991-06-29,leonaka01,,"$50,000,000"
+Terance Mann,6 years,Brooklyn Nets,1996-10-18,mannte01,,"$15,500,000"
+Jordan Miller,2 years,Los Angeles Clippers,2000-01-23,millejo02,,
+Patty Mills,16 years,,1988-08-11,millspa02,,
+Kevin Porter Jr.,5 years,Milwaukee Bucks,2000-05-04,porteke02,,
+Norman Powell,10 years,Miami Heat,1993-05-25,powelno01,,"$20,482,758"
+Ben Simmons,7 years,,1996-07-20,simmobe01,,
+Ivica Zubac,9 years,Los Angeles Clippers,1997-03-18,zubaciv01,,"$18,102,000"
+Kyle Anderson,11 years,Utah Jazz,1993-09-20,anderky01,,"$9,219,512"
+Reece Beekman,1 year,,2001-10-08,beekmre01,,
+Jimmy Butler,14 years,Golden State Warriors,1989-09-14,butleji01,,"$54,126,450"
+Yuri Collins,1 year,,2001-03-07,colliyu01,,
+Stephen Curry,16 years,Golden State Warriors,1988-03-14,curryst01,,"$59,606,817"
+Draymond Green,13 years,Golden State Warriors,1990-03-04,greendr01,,"$25,892,857"
+Buddy Hield,9 years,Golden State Warriors,1992-12-17,hieldbu01,,"$9,219,512"
+Trayce Jackson-Davis,2 years,Golden State Warriors,2000-02-22,jackstr02,,"$2,221,677"
+Braxton Key,4 years,,1997-02-14,keybr01,,
+Kevin Knox,7 years,,1999-08-11,knoxke01,,
+Jonathan Kuminga,4 years,,2002-10-06,kuminjo01,,
+Kevon Looney,10 years,New Orleans Pelicans,1996-02-06,looneke01,,
+De'Anthony Melton,7 years,,1998-05-28,meltode01,,
+Moses Moody,4 years,Golden State Warriors,2002-05-31,moodymo01,,"$11,574,075"
+Gary Payton II,9 years,,1992-12-01,paytoga02,,
+Brandin Podziemski,2 years,Golden State Warriors,2003-02-25,podzibr01,,"$3,687,960"
+Quinten Post,1 year,Golden State Warriors,2000-03-21,postqu01,,"$1,955,377"
+Jackson Rowe,1 year,Golden State Warriors,1997-01-04,roweja01,,
+Gui Santos,2 years,Golden State Warriors,2002-06-22,santogu01,,"$2,221,677"
+Dennis Schröder,12 years,Sacramento Kings,1993-09-15,schrode01,,
+Pat Spencer,2 years,,1996-07-04,spencpa01,,
+Lindy Waters III,4 years,San Antonio Spurs,1997-07-28,waterli01,,
+Andrew Wiggins,11 years,Miami Heat,1995-02-23,wiggian01,,"$28,223,215"
+Grayson Allen,7 years,Phoenix Suns,1995-10-08,allengr01,,"$16,875,000"
+Bradley Beal,13 years,Los Angeles Clippers,1993-06-28,bealbr01,,"$53,666,270"
+Bol Bol,6 years,,1999-11-16,bolbo01,,
+Devin Booker,10 years,Phoenix Suns,1996-10-30,bookede01,,"$53,142,264"
+Jalen Bridges,1 year,,2001-05-14,bridgja01,,
+Ryan Dunn,1 year,Phoenix Suns,2003-01-07,dunnry01,,"$2,657,760"
+Kevin Durant,17 years,Houston Rockets,1988-09-29,duranke01,,"$54,708,609"
+Collin Gillespie,2 years,Phoenix Suns,1999-06-25,gilleco01,,
+Oso Ighodaro,1 year,Phoenix Suns,2002-07-14,ighodos01,,"$1,955,377"
+Tyus Jones,10 years,Orlando Magic,1996-05-10,jonesty01,,
+Damion Lee,7 years,,1992-10-21,leeda03,,
+Cody Martin,6 years,,1995-09-28,martico01,,
+Vasilije Micić,2 years,,1994-01-13,micicva01,,"$8,109,150"
+Monte Morris,8 years,,1995-06-27,morrimo01,,
+Jusuf Nurkić,11 years,Charlotte Hornets,1994-08-23,nurkiju01,,"$19,375,000"
+Royce O'Neale,8 years,Phoenix Suns,1993-06-05,onealro01,,"$10,125,000"
+Josh Okogie,7 years,Houston Rockets,1998-09-01,okogijo01,,
+Mason Plumlee,12 years,Charlotte Hornets,1990-03-05,plumlma01,,
+Nick Richards,5 years,Phoenix Suns,1997-11-29,richani01,,"$5,000,000"
+TyTy Washington Jr.,3 years,,2001-11-15,washity02,,
+Devin Carter,1 year,Sacramento Kings,2002-03-18,cartede02,,"$4,923,720"
+Isaiah Crawford,1 year,Houston Rockets,2001-11-01,crawfis01,,
+Jae Crowder,13 years,,1990-07-06,crowdja01,,
+Terence Davis,5 years,Sacramento Kings,1997-05-16,daviste02,,"$2,546,675"
+DeMar DeRozan,16 years,Sacramento Kings,1989-08-07,derozde01,,"$24,570,000"
+Keon Ellis,3 years,Sacramento Kings,2000-01-08,elliske01,,"$2,301,587"
+De'Aaron Fox,8 years,San Antonio Spurs,1997-12-20,foxde01,,"$37,096,620"
+Markelle Fultz,8 years,,1998-05-29,fultzma01,,
+Kevin Huerter,7 years,Chicago Bulls,1998-08-27,huertke01,,"$17,991,071"
+Colby Jones,2 years,Detroit Pistons,2002-05-28,jonesco02,,
+Isaac Jones,1 year,Sacramento Kings,2000-07-11,jonesis01,,"$1,955,377"
+Mason Jones,4 years,,1998-07-21,jonesma05,,
+Skal Labissière,,,1996-03-18,labissk01,,
+Jake LaRavia,3 years,Los Angeles Lakers,2001-11-03,laravja01,,
+Zach LaVine,11 years,Sacramento Kings,1995-03-10,lavinza01,,"$47,499,660"
+Alex Len,12 years,,1993-06-16,lenal01,,
+Trey Lyles,10 years,,1995-11-05,lylestr01,,
+Doug McDermott,11 years,Sacramento Kings,1992-01-03,mcderdo01,,
+Jordan McLaughlin,6 years,San Antonio Spurs,1996-04-09,mclaujo01,,
+Malik Monk,8 years,Sacramento Kings,1998-02-04,monkma01,,"$18,797,619"
+Keegan Murray,3 years,Sacramento Kings,2000-08-19,murrake02,,"$11,144,093"
+Orlando Robinson,3 years,Orlando Magic,2000-07-10,robinor01,,
+Domantas Sabonis,9 years,Sacramento Kings,1996-05-03,sabondo01,,"$43,636,000"
+Terry Taylor,4 years,,1999-09-23,taylote01,,
+Jonas Valančiūnas,13 years,Denver Nuggets,1992-05-06,valanjo01,,"$10,395,000"
+Santi Aldama,4 years,Memphis Grizzlies,2001-01-10,aldamsa01,,
+Marvin Bagley III,7 years,Washington Wizards,1999-03-14,baglema01,,
+Desmond Bane,5 years,Orlando Magic,1998-06-25,banede01,,"$36,725,670"
+Colin Castleton,2 years,,2000-05-25,castlco01,,
+Brandon Clarke,6 years,Memphis Grizzlies,1996-09-19,clarkbr01,,"$12,500,000"
+Zach Edey,1 year,Memphis Grizzlies,2002-05-14,edeyza01,,"$6,045,000"
+Jay Huff,4 years,Indiana Pacers,1998-08-25,huffja01,,"$2,349,578"
+GG Jackson II,2 years,Memphis Grizzlies,2004-12-17,jacksgg01,,"$2,221,677"
+Jaren Jackson Jr.,7 years,Memphis Grizzlies,1999-09-15,jacksja02,,"$35,000,000"
+Yuki Kawamura,1 year,Chicago Bulls,2001-05-02,kawamyu01,,
+Luke Kennard,8 years,Atlanta Hawks,1996-06-24,kennalu01,,
+John Konchar,6 years,Memphis Grizzlies,1996-03-22,konchjo01,,"$6,165,000"
+Jake LaRavia,3 years,Los Angeles Lakers,2001-11-03,laravja01,,
+Ja Morant,6 years,Memphis Grizzlies,1999-08-10,moranja01,,"$39,446,090"
+Scotty Pippen Jr.,3 years,Memphis Grizzlies,2000-11-10,pippesc02,,"$2,270,735"
+Zyon Pullin,1 year,,2001-03-03,pullizy01,,
+Marcus Smart,11 years,Los Angeles Lakers,1994-03-06,smartma01,,"$21,586,855"
+Cam Spencer,1 year,Memphis Grizzlies,2000-04-06,spencca01,,
+Lamar Stevens,5 years,,1997-07-09,stevela01,,
+Jaylen Wells,1 year,Memphis Grizzlies,2003-08-26,wellsja01,,"$1,955,377"
+Vince Williams Jr.,3 years,Memphis Grizzlies,2000-08-30,willivi01,,"$2,301,587"
+Jose Alvarado,4 years,New Orleans Pelicans,1998-04-12,alvarjo01,,"$4,500,000"
+Mo Bamba,7 years,,1998-05-12,bambamo01,,
+Brandon Boston Jr.,4 years,New Orleans Pelicans,2001-11-28,bostobr01,,"$2,349,578"
+Keion Brooks Jr.,1 year,,2000-08-07,brookke02,,
+Bruce Brown,7 years,Denver Nuggets,1996-08-15,brownbr01,,
+Jamal Cain,3 years,Orlando Magic,1999-03-20,cainja01,,
+Javonte Green,6 years,,1993-07-23,greenja02,,
+Jordan Hawkins,2 years,New Orleans Pelicans,2002-04-29,hawkijo01,,"$4,741,320"
+Brandon Ingram,9 years,Toronto Raptors,1997-09-02,ingrabr01,,"$38,095,238"
+Trey Jemison,2 years,,1999-11-28,jemistr01,,
+Herbert Jones,4 years,New Orleans Pelicans,1998-10-06,joneshe01,,"$13,937,574"
+Kylor Kelley,1 year,,1997-08-26,kelleky01,,
+Karlo Matković,1 year,New Orleans Pelicans,2001-03-30,matkoka01,,"$1,955,377"
+CJ McCollum,12 years,Washington Wizards,1991-09-19,mccolcj01,,"$30,666,666"
+Yves Missi,1 year,New Orleans Pelicans,2004-05-14,missiyv01,,"$3,353,040"
+Trey Murphy III,4 years,New Orleans Pelicans,2000-06-18,murphtr02,,"$25,000,000"
+Dejounte Murray,8 years,New Orleans Pelicans,1996-09-19,murrade01,,"$31,557,103"
+Jaylen Nowell,6 years,,1999-07-09,nowelja01,,
+Kelly Olynyk,12 years,San Antonio Spurs,1991-04-19,olynyke01,,"$13,445,122"
+Elfrid Payton,9 years,New Orleans Pelicans,1994-02-22,paytoel01,,"$3,153,598"
+Lester Quiñones,3 years,,2000-11-16,quinole01,,
+Antonio Reeves,1 year,Charlotte Hornets,2000-11-20,reevean01,,
+Jeremiah Robinson-Earl,4 years,,2000-11-03,robinje02,,
+Daniel Theis,8 years,,1992-04-04,theisda01,,
+Zion Williamson,5 years,New Orleans Pelicans,2000-07-06,willizi01,,"$39,446,090"
+Steven Adams,11 years,Houston Rockets,1993-07-20,adamsst01,,
+Dillon Brooks,8 years,Phoenix Suns,1996-01-22,brookdi01,,"$21,124,110"
+N'Faly Dante,1 year,,2001-10-19,nfalyda01,,
+Tari Eason,3 years,Houston Rockets,2001-05-10,easonta01,,"$5,675,766"
+Jalen Green,4 years,Phoenix Suns,2002-02-09,greenja05,,"$33,333,333"
+Jeff Green,17 years,Houston Rockets,1986-08-28,greenje02,,
+Aaron Holiday,7 years,Houston Rockets,1996-09-30,holidaa01,,
+Jock Landale,4 years,Memphis Grizzlies,1995-10-25,landajo01,,"$8,000,000"
+Jack McVeigh,1 year,,1996-06-27,mcveija01,,
+David Roddy,3 years,Toronto Raptors,2001-03-27,roddyda01,,
+Alperen Şengün,4 years,Houston Rockets,2002-07-25,sengual01,,"$33,944,954"
+Reed Sheppard,1 year,Houston Rockets,2004-06-24,sheppre01,,"$10,603,560"
+Jabari Smith Jr.,3 years,Houston Rockets,2003-05-13,smithja05,,"$12,350,392"
+Jae'Sean Tate,5 years,Houston Rockets,1995-10-28,tateja01,,
+Amen Thompson,2 years,Houston Rockets,2003-01-30,thompam01,,"$9,690,600"
+Fred VanVleet,9 years,Houston Rockets,1994-02-25,vanvlfr01,,
+Cam Whitmore,2 years,Washington Wizards,2004-07-08,whitmca01,,"$3,539,760"
+Jeenathan Williams,3 years,,1999-02-12,willije02,,
+Harrison Barnes,13 years,San Antonio Spurs,1992-05-30,barneha02,,"$19,000,000"
+Charles Bassey,4 years,San Antonio Spurs,2000-10-28,bassech01,,"$2,500,000"
+Bismack Biyombo,14 years,,1992-08-28,biyombi01,,
+Malaki Branham,3 years,Washington Wizards,2003-05-12,branhma01,,"$4,962,033"
+Stephon Castle,1 year,San Antonio Spurs,2004-11-01,castlst01,,"$9,560,520"
+Julian Champagnie,3 years,San Antonio Spurs,2001-06-29,champju02,,"$3,000,000"
+Sidy Cissoko,2 years,Portland Trail Blazers,2004-04-02,cissosi01,,
+Zach Collins,7 years,Chicago Bulls,1997-11-19,colliza01,,"$18,080,496"
+David Duke Jr.,4 years,,1999-10-13,dukeda01,,
+De'Aaron Fox,8 years,San Antonio Spurs,1997-12-20,foxde01,,"$37,096,620"
+Harrison Ingram,1 year,,2002-11-27,ingraha01,,
+Keldon Johnson,6 years,San Antonio Spurs,1999-10-11,johnske04,,"$17,500,000"
+Tre Jones,5 years,Chicago Bulls,2000-01-08,jonestr01,,
+Sandro Mamukelashvili,4 years,Toronto Raptors,1999-05-23,mamuksa01,,
+Jordan McLaughlin,6 years,San Antonio Spurs,1996-04-09,mclaujo01,,
+Riley Minix,1 year,,2000-09-22,minixri01,,
+Chris Paul,20 years,Los Angeles Clippers,1985-05-06,paulch01,,
+Jeremy Sochan,3 years,San Antonio Spurs,2003-05-20,sochaje01,,"$7,096,231"
+Devin Vassell,5 years,San Antonio Spurs,2000-08-23,vassede01,,"$27,000,000"
+Victor Wembanyama,2 years,San Antonio Spurs,2004-01-04,wembavi01,,"$13,376,880"
+Blake Wesley,3 years,Portland Trail Blazers,2003-03-16,weslebl01,,"$4,726,328"
+Moses Brown,6 years,,1999-10-13,brownmo01,,
+Max Christie,3 years,Dallas Mavericks,2003-02-10,chrisma02,,"$7,714,286"
+Anthony Davis,13 years,Dallas Mavericks,1993-03-11,davisan02,,"$54,126,450"
+Spencer Dinwiddie,11 years,,1993-04-06,dinwisp01,,
+Luka Dončić,7 years,Los Angeles Lakers,1999-02-28,doncilu01,,"$45,999,660"
+Kessler Edwards,4 years,,2000-08-09,edwarke02,,
+Dante Exum,8 years,,1995-07-13,exumda01,,
+Daniel Gafford,6 years,Dallas Mavericks,1998-10-01,gaffoda01,,"$14,386,320"
+Jazian Gortman,1 year,,2003-04-14,gortmja01,,
+Quentin Grimes,4 years,,2000-05-08,grimequ01,,
+Jaden Hardy,3 years,Dallas Mavericks,2002-07-05,hardyja02,,"$6,000,000"
+Kyrie Irving,14 years,Dallas Mavericks,1992-03-23,irvinky01,,
+Kai Jones,3 years,,2001-01-19,joneska01,,
+Kylor Kelley,1 year,,1997-08-26,kelleky01,,
+Maxi Kleber,8 years,Los Angeles Lakers,1992-01-29,klebima01,,"$11,000,000"
+Dereck Lively II,2 years,Dallas Mavericks,2004-02-12,livelde01,,"$5,253,360"
+Naji Marshall,5 years,Dallas Mavericks,1998-01-24,marshna01,,"$9,000,000"
+Caleb Martin,6 years,Dallas Mavericks,1995-09-28,martica02,,"$9,594,044"
+Markieff Morris,14 years,,1989-09-02,morrima02,,
+Dwight Powell,11 years,Dallas Mavericks,1991-07-20,poweldw01,,"$4,000,000"
+Olivier-Maxence Prosper,2 years,Dallas Mavericks,2002-07-03,prospol01,,"$3,007,080"
+Klay Thompson,12 years,Dallas Mavericks,1990-02-08,thompkl01,,"$16,666,667"
+P.J. Washington,6 years,Dallas Mavericks,1998-08-23,washipj01,,"$14,152,174"
+Brandon Williams,3 years,Dallas Mavericks,1999-11-22,willibr03,,"$2,270,735"
