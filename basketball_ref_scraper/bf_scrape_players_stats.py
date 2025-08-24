@@ -142,7 +142,8 @@ def players_personal_info(
         "player_name": player_name or None,
         "team": team or None,
         "birth_day": birth_day or None,
-        "years_experience": years_experience
+        "years_experience": years_experience,
+        "url": url
     }
 
 
@@ -1219,7 +1220,7 @@ def _read_urls_from_file(
 def basketball_ref_all_players_stats(
     urls: Optional[List[str]] = None,
     api_key: Optional[str] = None,
-    csv_path: str = "output_data/all_nba_players_stats.csv",
+    csv_path: str = "basketball_ref_scraper/output_data/all_nba_players_stats.csv",
     prefer_tot: bool = True,
 ) -> None:
     """
@@ -1284,7 +1285,7 @@ def basketball_ref_all_players_stats(
                         "salary",                     # from player_salary()
                         "current_contract",    # from current_contract()
                         "season","age","team_id","lg_id","pos","g","gs",
-                        "was_traded","teams_count","teams_played"
+                        "was_traded","teams_count","teams_played","url"
                     ]
 
                     pergame_cols = []
