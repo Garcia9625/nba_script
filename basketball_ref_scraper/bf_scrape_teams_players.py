@@ -2,7 +2,7 @@ import os, re, time, random, requests
 from bs4 import BeautifulSoup
 from urllib.parse import urlencode, urljoin
 
-SCRAPERAPI_KEY = "a625415884b38180387e0f8a04290d7a"
+SCRAPERAPI_KEY = "b75bd47ce065ec63f921e2902a8602d2"
 BASE = "https://www.basketball-reference.com"
 YEAR = 2025  # 👈 change the year here
 
@@ -111,8 +111,8 @@ def get_roster_player_hrefs(team_code: str, year: int) -> list[str]:
 
 def basketball_ref_players_urls(
     year: int = YEAR,
-    teams_path: str = "data/teams.txt",
-    players_path: str = "data/players.txt",
+    teams_path: str = "data/bf_teams.txt",
+    players_path: str = "data/bf_players.txt",
 ):
     """Main orchestration function for scraping and saving results (sequential)."""
     # Ensure output folder exists

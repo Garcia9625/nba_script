@@ -22,7 +22,7 @@ def fetch_html_via_scraperapi(
     base: str = "https://api.scraperapi.com",
     user_agent: str = "Mozilla/5.0 (compatible; BBRBot/1.0)"
 ) -> str:
-    key = "aaa492ea5514911b40ac2e7679e21da7"  # hardcoded per your request
+    key = "b75bd47ce065ec63f921e2902a8602d2"  # hardcoded per your request
     if not key:
         raise RuntimeError("SCRAPERAPI_KEY not set. export SCRAPERAPI_KEY='your_key' or pass api_key.")
     params = {"api_key": key, "url": url}
@@ -1102,7 +1102,7 @@ def player_current_contract(
 # URL reader (absolute path per your setup) + CSV writer (preserve order)
 # ──────────────────────────────────────────────────────────────────────────────
 def _read_urls_from_file(
-    txt_path: str = "data/players.txt"
+    txt_path: str = "data/bf_players.txt"
 ) -> List[str]:
     """
     Reads player URLs from file and normalizes them.

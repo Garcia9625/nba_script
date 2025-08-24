@@ -1,0 +1,31 @@
+season,conference,team_name,team_url,team_abbr,clinched_flag,wins,losses,win_loss_pct,gb,pts_per_g,opp_pts_per_g,srs
+2025,East,Cleveland Cavaliers*,https://www.basketball-reference.com/teams/CLE/2025.html,CLE,,64,18,0.78,0.0,121.9,112.4,8.81
+2025,East,Boston Celtics*,https://www.basketball-reference.com/teams/BOS/2025.html,BOS,,61,21,0.744,3.0,116.3,107.2,8.28
+2025,East,New York Knicks*,https://www.basketball-reference.com/teams/NYK/2025.html,NYK,,51,31,0.622,13.0,115.8,111.7,3.59
+2025,East,Indiana Pacers*,https://www.basketball-reference.com/teams/IND/2025.html,IND,,50,32,0.61,14.0,117.4,115.1,1.68
+2025,East,Milwaukee Bucks*,https://www.basketball-reference.com/teams/MIL/2025.html,MIL,,48,34,0.585,16.0,115.5,113.0,2.12
+2025,East,Detroit Pistons*,https://www.basketball-reference.com/teams/DET/2025.html,DET,,44,38,0.537,20.0,115.5,113.6,1.73
+2025,East,Orlando Magic*,https://www.basketball-reference.com/teams/ORL/2025.html,ORL,,41,41,0.5,23.0,105.4,105.5,-0.7
+2025,East,Atlanta Hawks,https://www.basketball-reference.com/teams/ATL/2025.html,ATL,,40,42,0.488,24.0,118.2,119.3,-1.41
+2025,East,Chicago Bulls,https://www.basketball-reference.com/teams/CHI/2025.html,CHI,,39,43,0.476,25.0,117.8,119.4,-1.83
+2025,East,Miami Heat*,https://www.basketball-reference.com/teams/MIA/2025.html,MIA,,37,45,0.451,27.0,110.6,110.0,0.11
+2025,East,Toronto Raptors,https://www.basketball-reference.com/teams/TOR/2025.html,TOR,,30,52,0.366,34.0,110.9,115.2,-4.4
+2025,East,Brooklyn Nets,https://www.basketball-reference.com/teams/BRK/2025.html,BRK,,26,56,0.317,38.0,105.1,112.2,-6.95
+2025,East,Philadelphia 76ers,https://www.basketball-reference.com/teams/PHI/2025.html,PHI,,24,58,0.293,40.0,109.6,115.8,-6.29
+2025,East,Charlotte Hornets,https://www.basketball-reference.com/teams/CHO/2025.html,CHO,,19,63,0.232,45.0,105.1,114.2,-9.1
+2025,East,Washington Wizards,https://www.basketball-reference.com/teams/WAS/2025.html,WAS,,18,64,0.22,46.0,108.0,120.4,-12.14
+2025,West,Oklahoma City Thunder*,https://www.basketball-reference.com/teams/OKC/2025.html,OKC,,68,14,0.829,0.0,120.5,107.6,12.7
+2025,West,Houston Rockets*,https://www.basketball-reference.com/teams/HOU/2025.html,HOU,,52,30,0.634,16.0,114.3,109.8,4.97
+2025,West,Los Angeles Lakers*,https://www.basketball-reference.com/teams/LAL/2025.html,LAL,,50,32,0.61,18.0,113.4,112.2,1.45
+2025,West,Denver Nuggets*,https://www.basketball-reference.com/teams/DEN/2025.html,DEN,,50,32,0.61,18.0,120.8,116.9,3.97
+2025,West,Los Angeles Clippers*,https://www.basketball-reference.com/teams/LAC/2025.html,LAC,,50,32,0.61,18.0,112.9,108.2,4.84
+2025,West,Minnesota Timberwolves*,https://www.basketball-reference.com/teams/MIN/2025.html,MIN,,49,33,0.598,19.0,114.3,109.3,5.15
+2025,West,Golden State Warriors*,https://www.basketball-reference.com/teams/GSW/2025.html,GSW,,48,34,0.585,20.0,113.8,110.5,3.56
+2025,West,Memphis Grizzlies*,https://www.basketball-reference.com/teams/MEM/2025.html,MEM,,48,34,0.585,20.0,121.7,116.9,4.79
+2025,West,Sacramento Kings,https://www.basketball-reference.com/teams/SAC/2025.html,SAC,,40,42,0.488,28.0,115.7,115.3,0.58
+2025,West,Dallas Mavericks,https://www.basketball-reference.com/teams/DAL/2025.html,DAL,,39,43,0.476,29.0,114.2,115.4,-0.74
+2025,West,Phoenix Suns,https://www.basketball-reference.com/teams/PHO/2025.html,PHO,,36,46,0.439,32.0,113.6,116.6,-2.55
+2025,West,Portland Trail Blazers,https://www.basketball-reference.com/teams/POR/2025.html,POR,,36,46,0.439,32.0,110.9,113.9,-2.67
+2025,West,San Antonio Spurs,https://www.basketball-reference.com/teams/SAS/2025.html,SAS,,34,48,0.415,34.0,113.9,116.7,-2.45
+2025,West,New Orleans Pelicans,https://www.basketball-reference.com/teams/NOP/2025.html,NOP,,21,61,0.256,47.0,109.8,119.3,-8.59
+2025,West,Utah Jazz,https://www.basketball-reference.com/teams/UTA/2025.html,UTA,,17,65,0.207,51.0,111.9,121.2,-8.51
