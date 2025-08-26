@@ -7,7 +7,7 @@ import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse
 
-SCRAPERAPI_KEY = os.getenv("SCRAPERAPI_KEY") or "b75bd47ce065ec63f921e2902a8602d2"
+SCRAPERAPI_KEY = os.getenv("SCRAPERAPI_KEY") or "aaa492ea5514911b40ac2e7679e21da7"
 TARGET_URL = "https://www.spotrac.com/nba/teams"
 
 # ---- Config ----
@@ -19,6 +19,11 @@ USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/124.0"
 TEAMS_OUT_FILE = "data/spotrac_teams.txt"
 PLAYERS_OUT_FILE = "data/spotrac_players.txt"
 
+# ---- ScraperAPI toggles (same style as before) ----
+USE_PREMIUM = True       # True => premium pool (10 credits/request)
+USE_RENDER  = False       # True => JS render (Spotrac is mostly static; keep False)
+COUNTRY_CODE = None       # e.g., "us" or None to disable
+
 def ensure_dir(path: str) -> None:
     d = os.path.dirname(path)
     if d and not os.path.exists(d):
@@ -27,7 +32,14 @@ def ensure_dir(path: str) -> None:
 def scraperapi_get(url: str, **params) -> requests.Response:
     endpoint = "https://api.scraperapi.com/"
     q = {"api_key": SCRAPERAPI_KEY, "url": url, "keep_headers": "true"}
+    if USE_PREMIUM:
+        q["premium"] = "true"
+    if USE_RENDER:
+        q["render"] = "true"
+    if COUNTRY_CODE:
+        q["country_code"] = COUNTRY_CODE
     q.update(params)
+
     headers = {
         "User-Agent": USER_AGENT,
         "Accept": "text/html,application/xhtml+xml",
@@ -40,7 +52,8 @@ def fetch_html(url: str) -> str:
     for attempt in range(1, MAX_RETRIES + 1):
         try:
             r = scraperapi_get(url)
-            if r.status_code in (429, 503):
+            # retry on common transient statuses
+            if r.status_code in (429, 503, 502, 500, 504, 403):
                 time.sleep(backoff + random.uniform(0, 0.5))
                 backoff = min(backoff * 2, 60)
                 continue
@@ -106,7 +119,7 @@ def write_players_snapshot(path: str, urls: Set[str]) -> None:
             f.write(u + "\n")
         f.flush()
 
-def sportrac_players_urls(year: int):
+def spotrac_players_urls(year: int):
     ensure_dir(TEAMS_OUT_FILE)
     ensure_dir(PLAYERS_OUT_FILE)
 
@@ -156,4 +169,4 @@ def sportrac_players_urls(year: int):
     print(f"💾 Final snapshot saved to {PLAYERS_OUT_FILE}")
 
 if __name__ == "__main__":
-    sportrac_players_urls(2024)
+    spotrac_players_urls(2024)

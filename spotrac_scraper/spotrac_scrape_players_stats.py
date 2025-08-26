@@ -12,17 +12,23 @@ from lxml import html as lxml_html
 from urllib.parse import urlparse
 
 # ---------- Config ----------
-SCRAPERAPI_KEY = os.getenv("SCRAPERAPI_KEY") or "b75bd47ce065ec63f921e2902a8602d2"
+# ---------- Config ----------
+SCRAPERAPI_KEY = os.getenv("SCRAPERAPI_KEY") or "aaa492ea5514911b40ac2e7679e21da7"
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/124.0"
 REQUEST_TIMEOUT = 45
 MAX_RETRIES = 5
 BACKOFF_BASE = 1.0  # seconds
 
+# Premium/Render toggles (simple switches)
+USE_PREMIUM = True        # <-- set True to use premium pool (10 credits/request)
+USE_RENDER  = False        # <-- JS rendering (not needed for Spotrac; 5 or 15 credits)
+COUNTRY_CODE = None        # e.g., "us" or None to disable
+
 PLAYERS_IN_FILE = "data/spotrac_players.txt"
 OUT_CSV_FILE = "spotrac_scraper/output_data/spotrac_player_details.csv"
 
-# Season label to extract the Cap Hit card
 CAP_HIT_SEASON = "2025-26"  # change if needed (e.g., "2024-25")
+
 
 # ---------- Helpers ----------
 def ensure_dir(path: str) -> None:
@@ -33,13 +39,23 @@ def ensure_dir(path: str) -> None:
 def scraperapi_get(url: str, **params) -> requests.Response:
     endpoint = "https://api.scraperapi.com/"
     q = {"api_key": SCRAPERAPI_KEY, "url": url, "keep_headers": "true"}
+    # apply toggles
+    if USE_PREMIUM:
+        q["premium"] = "true"
+    if USE_RENDER:
+        q["render"] = "true"
+    if COUNTRY_CODE:
+        q["country_code"] = COUNTRY_CODE
+    # allow call-site to add/override params if needed
     q.update(params)
+
     headers = {
         "User-Agent": USER_AGENT,
         "Accept": "text/html,application/xhtml+xml",
         "Accept-Language": "en-US,en;q=0.8",
     }
     return requests.get(endpoint, params=q, headers=headers, timeout=REQUEST_TIMEOUT)
+
 
 def fetch_html(url: str) -> str:
     backoff = BACKOFF_BASE

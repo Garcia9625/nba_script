@@ -11,18 +11,41 @@ EAST_TABLE_ID = "confs_standings_E"
 WEST_TABLE_ID = "confs_standings_W"
 HEADERS = {"User-Agent": "Mozilla/5.0 (standings-scraper)"}
 
-
 # get absolute path of the script directory
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 OUTPUT_CSV = os.path.join(BASE_DIR, "output_data", "all_nba_teams_standings.csv")
 
+# --------- HARDCODED ScraperAPI CONFIG ---------
+USE_SCRAPERAPI = True  # set False if you want to bypass and hit site directly
+SCRAPERAPI_KEY = "aaa492ea5514911b40ac2e7679e21da7"   # <<< PUT YOUR KEY HERE
+SCRAPERAPI_PREMIUM = True              # or False
+SCRAPERAPI_RENDER = False              # BBRef is static, so leave False
+SCRAPERAPI_COUNTRY =  None           # or None
+# -----------------------------------------------
 
+def wrap_with_scraperapi(url: str) -> str:
+    if not USE_SCRAPERAPI or not SCRAPERAPI_KEY:
+        return url
+    params = {
+        "api_key": SCRAPERAPI_KEY,
+        "url": url,
+    }
+    if SCRAPERAPI_PREMIUM:
+        params["premium"] = "true"
+    if SCRAPERAPI_RENDER:
+        params["render"] = "true"
+    if SCRAPERAPI_COUNTRY:
+        params["country_code"] = SCRAPERAPI_COUNTRY
 
-def fetch_html(url: str, timeout: int = 30, retries: int = 3, backoff: float = 2.0) -> str:
+    q = "&".join(f"{k}={requests.utils.quote(str(v))}" for k, v in params.items())
+    return f"https://api.scraperapi.com/?{q}"
+
+def fetch_html(url: str, timeout: int = 45, retries: int = 4, backoff: float = 1.8) -> str:
+    target = wrap_with_scraperapi(url)
     last = None
     for i in range(retries):
         try:
-            r = requests.get(url, headers=HEADERS, timeout=timeout)
+            r = requests.get(target, headers=HEADERS, timeout=timeout)
             if r.status_code == 200 and r.text:
                 return r.text
             if r.status_code in (429, 500, 502, 503, 504):
@@ -31,9 +54,8 @@ def fetch_html(url: str, timeout: int = 30, retries: int = 3, backoff: float = 2
             return r.text
         except Exception as e:
             last = e
-            time.sleep(min(backoff ** i, 15))
+            time.sleep(min(backoff ** i, 20))
     raise RuntimeError(f"Failed GET {url}: {last}")
-
 
 def uncomment_html(html_text: str) -> str:
     soup = BeautifulSoup(html_text, "lxml")
@@ -42,10 +64,7 @@ def uncomment_html(html_text: str) -> str:
             c.replace_with(BeautifulSoup(c, "lxml"))
     return str(soup)
 
-
 def extract_table(table):
-    header_ths = table.find("thead").find_all("th")
-    columns = [th.get("data-stat") for th in header_ths if th.get("data-stat")]
     rows = []
     for tr in table.find("tbody").find_all("tr"):
         if "class" in tr.attrs and "thead" in tr["class"]:
@@ -67,12 +86,11 @@ def extract_table(table):
                 row["clinched_flag"] = "*" in cell.get_text()
         if row:
             rows.append(row)
-    return columns, rows
-
+    return rows
 
 def coerce_numeric(df: pd.DataFrame) -> pd.DataFrame:
     def parse_gb(x: str):
-        if not x or x in {"—", "-"}:   # em dash or lone dash means leader/NA
+        if not x or x in {"—", "-"}:
             return 0.0
         try:
             return float(x)
@@ -87,16 +105,13 @@ def coerce_numeric(df: pd.DataFrame) -> pd.DataFrame:
         else:
             df[col] = (
                 df[col].astype(str)
-                .str.replace(",", "", regex=False)    # remove thousands separator
-                .str.replace("—", "", regex=False)    # remove em-dash (NA)
-                # ⚠️ do NOT strip "-" here → keep negative numbers intact
+                .str.replace(",", "", regex=False)
+                .str.replace("—", "", regex=False)
             )
             df[col] = pd.to_numeric(df[col], errors="coerce")
     return df
 
-
 def basketball_ref_teams_stats(year: int):
-    # ensure parent folder exists
     os.makedirs(os.path.dirname(OUTPUT_CSV), exist_ok=True)
     url = f"{BR_BASE}/leagues/NBA_{year}_standings.html"
     html = uncomment_html(fetch_html(url))
@@ -111,7 +126,7 @@ def basketball_ref_teams_stats(year: int):
     for conf, tb in tables.items():
         if tb is None:
             raise ValueError(f"Could not find {conf} table.")
-        cols, rows = extract_table(tb)
+        rows = extract_table(tb)
         df = pd.DataFrame(rows)
         df.insert(0, "conference", conf)
         df.insert(0, "season", year)
@@ -121,7 +136,6 @@ def basketball_ref_teams_stats(year: int):
     out = pd.concat(frames, ignore_index=True)
     out.to_csv(OUTPUT_CSV, index=False)
     print(f"✅ Saved standings for {year} to {OUTPUT_CSV}")
-
 
 if __name__ == "__main__":
     basketball_ref_teams_stats(2025)

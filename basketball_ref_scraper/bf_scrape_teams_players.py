@@ -2,7 +2,7 @@ import os, re, time, random, requests
 from bs4 import BeautifulSoup
 from urllib.parse import urlencode, urljoin
 
-SCRAPERAPI_KEY = "b75bd47ce065ec63f921e2902a8602d2"
+SCRAPERAPI_KEY = "aaa492ea5514911b40ac2e7679e21da7"
 BASE = "https://www.basketball-reference.com"
 YEAR = 2025  # 👈 change the year here
 
@@ -17,8 +17,8 @@ CONNECT_TIMEOUT = 8
 READ_TIMEOUT = 25          # a bit lower than 45 so retry sooner on slow hops
 
 # Optional ScraperAPI tuning (safe defaults)
-USE_PREMIUM = False        # set True if your plan supports premium proxies
-COUNTRY_CODE = "us"        # or None
+USE_PREMIUM = True        # set True if your plan supports premium proxies
+COUNTRY_CODE = None        # or None
 KEEP_HEADERS = True        # forward headers (harmless here)
 
 # Fix BBR quirks (historical codes vs NBA codes)
@@ -41,7 +41,7 @@ def get_html(url: str) -> str:
     if COUNTRY_CODE:
         params["country_code"] = COUNTRY_CODE
     if USE_PREMIUM:
-        params["premium"] = "false"
+        params["premium"] = "true"
     # NOTE: Basketball-Reference is static, so we don’t set render=true
 
     proxy_url = f"https://api.scraperapi.com/?{urlencode(params)}"

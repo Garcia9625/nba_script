@@ -9,6 +9,14 @@ import requests
 from lxml import html
 
 
+
+
+# ── ScraperAPI options (hardcoded toggles) ────────────────────────────────────
+USE_PREMIUM = True          # set False to use the standard proxy pool
+USE_RENDER = False          # BBRef is static → keep False
+COUNTRY_CODE = None        # e.g. "us", "ca", "gb"; or None to disable
+SCRAPERAPI_KEY_HARDCODED = "aaa492ea5514911b40ac2e7679e21da7"  # your key
+
 # ──────────────────────────────────────────────────────────────────────────────
 # Networking + DOM helpers
 # ──────────────────────────────────────────────────────────────────────────────
@@ -22,23 +30,46 @@ def fetch_html_via_scraperapi(
     base: str = "https://api.scraperapi.com",
     user_agent: str = "Mozilla/5.0 (compatible; BBRBot/1.0)"
 ) -> str:
-    key = "b75bd47ce065ec63f921e2902a8602d2"  # hardcoded per your request
+    """
+    Fetches a URL via ScraperAPI with optional premium, render, and geo routing.
+    Uses exponential backoff + jitter and retries on transient HTTPs.
+    """
+    key = SCRAPERAPI_KEY_HARDCODED or (api_key or "")
     if not key:
-        raise RuntimeError("SCRAPERAPI_KEY not set. export SCRAPERAPI_KEY='your_key' or pass api_key.")
-    params = {"api_key": key, "url": url}
+        raise RuntimeError("SCRAPERAPI_KEY not set. Provide a key in SCRAPERAPI_KEY_HARDCODED or pass api_key.")
+
+    params = {
+        "api_key": key,
+        "url": url,
+    }
+    if USE_PREMIUM:
+        params["premium"] = "true"
+    if USE_RENDER:
+        params["render"] = "false"
+    if COUNTRY_CODE:
+        params["country_code"] = COUNTRY_CODE
+
     headers = {"User-Agent": user_agent}
 
     last_err: Optional[Exception] = None
     for attempt in range(1, retries + 1):
         try:
             r = requests.get(base, params=params, headers=headers, timeout=timeout)
-            if r.status_code == 200 and r.text:
+            # Retry on common transient statuses
+            if r.status_code in (429, 500, 502, 503, 504, 403):
+                last_err = RuntimeError(f"HTTP {r.status_code} for {url}")
+                raise last_err
+            r.raise_for_status()
+            if r.text:
                 return r.text
-            last_err = RuntimeError(f"HTTP {r.status_code} for {url}")
+            last_err = RuntimeError("Empty response body")
         except requests.RequestException as e:
             last_err = e
+        # backoff + jitter
         time.sleep(min(1.5 ** attempt, 12) + random.uniform(*jitter_range))
+
     raise RuntimeError(f"Failed to fetch {url} after {retries} attempts. Last error: {last_err}")
+
 
 
 def _build_dom(html_text: str) -> html.HtmlElement:
