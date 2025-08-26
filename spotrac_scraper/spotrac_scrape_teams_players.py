@@ -35,7 +35,7 @@ def scraperapi_get(url: str, **params) -> requests.Response:
     if USE_PREMIUM:
         q["premium"] = "true"
     if USE_RENDER:
-        q["render"] = "true"
+        q["render"] = "false"
     if COUNTRY_CODE:
         q["country_code"] = COUNTRY_CODE
     q.update(params)

@@ -12,7 +12,6 @@ from lxml import html as lxml_html
 from urllib.parse import urlparse
 
 # ---------- Config ----------
-# ---------- Config ----------
 SCRAPERAPI_KEY = os.getenv("SCRAPERAPI_KEY") or "aaa492ea5514911b40ac2e7679e21da7"
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/124.0"
 REQUEST_TIMEOUT = 45
@@ -20,8 +19,8 @@ MAX_RETRIES = 5
 BACKOFF_BASE = 1.0  # seconds
 
 # Premium/Render toggles (simple switches)
-USE_PREMIUM = True        # <-- set True to use premium pool (10 credits/request)
-USE_RENDER  = False        # <-- JS rendering (not needed for Spotrac; 5 or 15 credits)
+USE_PREMIUM = True         # True => premium pool (10 credits/request)
+USE_RENDER  = False        # JS rendering (not needed for Spotrac)
 COUNTRY_CODE = None        # e.g., "us" or None to disable
 
 PLAYERS_IN_FILE = "data/spotrac_players.txt"
@@ -43,7 +42,7 @@ def scraperapi_get(url: str, **params) -> requests.Response:
     if USE_PREMIUM:
         q["premium"] = "true"
     if USE_RENDER:
-        q["render"] = "true"
+        q["render"] = "false"
     if COUNTRY_CODE:
         q["country_code"] = COUNTRY_CODE
     # allow call-site to add/override params if needed
@@ -55,7 +54,6 @@ def scraperapi_get(url: str, **params) -> requests.Response:
         "Accept-Language": "en-US,en;q=0.8",
     }
     return requests.get(endpoint, params=q, headers=headers, timeout=REQUEST_TIMEOUT)
-
 
 def fetch_html(url: str) -> str:
     backoff = BACKOFF_BASE
@@ -97,7 +95,7 @@ def extract_fields(html_text: str, url: str) -> Dict[str, str]:
     name_candidates = doc.xpath("//h1[@id='team-name-logo']//div[contains(@class,'text-white')]//text()")
     player_name = clean_text(" ".join([t for t in name_candidates if clean_text(t)]))
 
-    # Birthday: find div with strong 'Age:' then span text like '26y-... (Sep 19, 1998)'
+    # Birthday (MM-DD-YYYY) from the 'Age:' block, e.g. "... (Sep 19, 1998)"
     age_texts = doc.xpath("//div[strong[contains(normalize-space(.),'Age:')]]/span[contains(@class,'text-yellow')]/text()")
     birthday_mmddyyyy = ""
     if age_texts:
@@ -105,26 +103,22 @@ def extract_fields(html_text: str, url: str) -> Dict[str, str]:
         if m:
             birthday_mmddyyyy = to_mm_dd_yyyy(m.group(1)) or ""
 
-    # Team: within a highlighted yellow block; take the <a> text (team name)
+    # Team (yellow block -> <a> text)
     team_texts = doc.xpath("//div[contains(@class,'text-yellow') and contains(@class,'fw-bold')]//a/text()")
     team_name = clean_text(team_texts[0]) if team_texts else ""
 
-    # Current contract (years + type) from the same <h2>
+    # Current contract: years + type from <h2>
     contract_years = ""
     contract_type = ""
     years_nodes = doc.xpath("//h2//span[contains(@class,'years')]/text()")
     if years_nodes:
         contract_years = clean_text(years_nodes[0])
-
-        # Within the same h2, the <small class='ms-2'> has the type (may include '(CURRENT)')
         type_nodes = doc.xpath("//h2[.//span[contains(@class,'years')]]//small[contains(@class,'ms-2')]/text()")
         if type_nodes:
             raw = clean_text(type_nodes[0])
-            # Remove trailing '(CURRENT)' if present
             contract_type = clean_text(re.sub(r"\(CURRENT\)\s*$", "", raw, flags=re.IGNORECASE))
 
     # Cap Hit for CAP_HIT_SEASON
-    # Find card where h5 contains "<SEASON> Cap Hit", then the following p[1]
     cap_hit_val = ""
     cap_hit_nodes = doc.xpath(f"//h5[contains(normalize-space(.), '{CAP_HIT_SEASON} Cap Hit')]/following-sibling::p[1]/text()")
     if cap_hit_nodes:
@@ -151,17 +145,15 @@ def load_player_urls(path: str) -> List[str]:
     return urls
 
 def write_csv_header(path: str, fieldnames: List[str]) -> None:
-    new_file = not os.path.exists(path) or os.path.getsize(path) == 0
-    if new_file:
-        with open(path, "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=fieldnames)
-            writer.writeheader()
+    """Always overwrite the CSV with a fresh header at the start of each run."""
+    with open(path, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
 
 def append_csv_row(path: str, fieldnames: List[str], row: Dict[str, str]) -> None:
     with open(path, "a", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writerow(row)
-    
 
 def spotrac_all_players_stats():
     ensure_dir(OUT_CSV_FILE)
@@ -177,6 +169,8 @@ def spotrac_all_players_stats():
         "cap_hit_" + CAP_HIT_SEASON.replace("-", "_"),
         "source_url",
     ]
+
+    # Overwrite the CSV every run (fresh file + header)
     write_csv_header(OUT_CSV_FILE, fields)
 
     total = 0
@@ -189,7 +183,7 @@ def spotrac_all_players_stats():
             print(f"[{i}/{len(player_urls)}] ✅ {data['player_name'] or data['player_id']}  -> saved")
         except Exception as e:
             print(f"[{i}/{len(player_urls)}] ⚠️ Error for {url}: {e}")
-        #time.sleep(0.4 + random.uniform(0, 0.4))  # be nice
+        # time.sleep(0.4 + random.uniform(0, 0.4))  # be nice
 
     print(f"\nDone. Saved {total} players to {OUT_CSV_FILE}")
 

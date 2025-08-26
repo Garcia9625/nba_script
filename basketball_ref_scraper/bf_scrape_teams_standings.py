@@ -33,7 +33,7 @@ def wrap_with_scraperapi(url: str) -> str:
     if SCRAPERAPI_PREMIUM:
         params["premium"] = "true"
     if SCRAPERAPI_RENDER:
-        params["render"] = "true"
+        params["render"] = "false"
     if SCRAPERAPI_COUNTRY:
         params["country_code"] = SCRAPERAPI_COUNTRY
 
