@@ -17,7 +17,7 @@ CONNECT_TIMEOUT = 8
 READ_TIMEOUT = 25          # a bit lower than 45 so retry sooner on slow hops
 
 # Optional ScraperAPI tuning (safe defaults)
-USE_PREMIUM = True        # set True if your plan supports premium proxies
+USE_PREMIUM = False        # set True if your plan supports premium proxies
 COUNTRY_CODE = None        # or None
 KEEP_HEADERS = True        # forward headers (harmless here)
 
@@ -41,7 +41,7 @@ def get_html(url: str) -> str:
     if COUNTRY_CODE:
         params["country_code"] = COUNTRY_CODE
     if USE_PREMIUM:
-        params["premium"] = "true"
+        params["premium"] = "false"
     # NOTE: Basketball-Reference is static, so we don’t set render=true
 
     proxy_url = f"https://api.scraperapi.com/?{urlencode(params)}"

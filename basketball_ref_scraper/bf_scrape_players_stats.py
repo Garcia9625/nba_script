@@ -12,7 +12,7 @@ from lxml import html
 
 
 # ── ScraperAPI options (hardcoded toggles) ────────────────────────────────────
-USE_PREMIUM = True          # set False to use the standard proxy pool
+USE_PREMIUM = False          # set False to use the standard proxy pool
 USE_RENDER = False          # BBRef is static → keep False
 COUNTRY_CODE = None        # e.g. "us", "ca", "gb"; or None to disable
 SCRAPERAPI_KEY_HARDCODED = "aaa492ea5514911b40ac2e7679e21da7"  # your key
@@ -43,7 +43,7 @@ def fetch_html_via_scraperapi(
         "url": url,
     }
     if USE_PREMIUM:
-        params["premium"] = "true"
+        params["premium"] = "false"
     if USE_RENDER:
         params["render"] = "false"
     if COUNTRY_CODE:

@@ -19,7 +19,7 @@ MAX_RETRIES = 5
 BACKOFF_BASE = 1.0  # seconds
 
 # Premium/Render toggles (simple switches)
-USE_PREMIUM = True         # True => premium pool (10 credits/request)
+USE_PREMIUM = False         # True => premium pool (10 credits/request)
 USE_RENDER  = False        # JS rendering (not needed for Spotrac)
 COUNTRY_CODE = None        # e.g., "us" or None to disable
 
@@ -40,7 +40,7 @@ def scraperapi_get(url: str, **params) -> requests.Response:
     q = {"api_key": SCRAPERAPI_KEY, "url": url, "keep_headers": "true"}
     # apply toggles
     if USE_PREMIUM:
-        q["premium"] = "true"
+        q["premium"] = "false"
     if USE_RENDER:
         q["render"] = "false"
     if COUNTRY_CODE:

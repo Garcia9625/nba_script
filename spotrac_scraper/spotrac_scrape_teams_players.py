@@ -20,7 +20,7 @@ TEAMS_OUT_FILE = "data/spotrac_teams.txt"
 PLAYERS_OUT_FILE = "data/spotrac_players.txt"
 
 # ---- ScraperAPI toggles (same style as before) ----
-USE_PREMIUM = True       # True => premium pool (10 credits/request)
+USE_PREMIUM = False       # True => premium pool (10 credits/request)
 USE_RENDER  = False       # True => JS render (Spotrac is mostly static; keep False)
 COUNTRY_CODE = None       # e.g., "us" or None to disable
 
@@ -33,7 +33,7 @@ def scraperapi_get(url: str, **params) -> requests.Response:
     endpoint = "https://api.scraperapi.com/"
     q = {"api_key": SCRAPERAPI_KEY, "url": url, "keep_headers": "true"}
     if USE_PREMIUM:
-        q["premium"] = "true"
+        q["premium"] = "false"
     if USE_RENDER:
         q["render"] = "false"
     if COUNTRY_CODE:

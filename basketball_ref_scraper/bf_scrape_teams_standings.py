@@ -18,7 +18,7 @@ OUTPUT_CSV = os.path.join(BASE_DIR, "output_data", "all_nba_teams_standings.csv"
 # --------- HARDCODED ScraperAPI CONFIG ---------
 USE_SCRAPERAPI = True  # set False if you want to bypass and hit site directly
 SCRAPERAPI_KEY = "aaa492ea5514911b40ac2e7679e21da7"   # <<< PUT YOUR KEY HERE
-SCRAPERAPI_PREMIUM = True              # or False
+SCRAPERAPI_PREMIUM = False              # or False
 SCRAPERAPI_RENDER = False              # BBRef is static, so leave False
 SCRAPERAPI_COUNTRY =  None           # or None
 # -----------------------------------------------
@@ -31,7 +31,7 @@ def wrap_with_scraperapi(url: str) -> str:
         "url": url,
     }
     if SCRAPERAPI_PREMIUM:
-        params["premium"] = "true"
+        params["premium"] = "false"
     if SCRAPERAPI_RENDER:
         params["render"] = "false"
     if SCRAPERAPI_COUNTRY:
