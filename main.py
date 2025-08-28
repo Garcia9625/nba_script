@@ -3,10 +3,10 @@ import time
 from datetime import timedelta
 
 from basketball_ref_scraper.bf_scrape_teams_players import basketball_ref_players_urls
-from basketball_ref_scraper.bf_scrape_players_stats import basketball_ref_all_players_stats
+from basketball_ref_scraper.bf_scrape_players_stats_v2 import basketball_ref_all_players_stats
 from basketball_ref_scraper.bf_scrape_teams_standings import basketball_ref_teams_stats
 from spotrac_scraper.spotrac_scrape_teams_players import spotrac_players_urls
-from spotrac_scraper.spotrac_scrape_players_stats import spotrac_all_players_stats
+from spotrac_scraper.spotrac_scrape_players_stats_v2 import spotrac_all_players_stats
 
 
 def _fmt(secs: float) -> str:

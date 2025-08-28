@@ -1,540 +1,540 @@
 player_id,player_name,birthday,team,current_contract_years,current_contract_type,cap_hit_2025_26,source_url
-10809,Anthony Davis,03-11-1993,Dallas Mavericks,2025-2027,Maximum Veteran Extension,"$54,126,450",https://www.spotrac.com/nba/player/_/id/10809/anthony-davis
-10811,Bradley Beal,06-28-1993,LA Clippers,2025-2026,Free Agent,"$5,354,000",https://www.spotrac.com/nba/player/_/id/10811/bradley-beal
-10814,Damian Lillard,07-15-1990,Portland Trail Blazers,2025-2027,Free Agent,"$14,104,000",https://www.spotrac.com/nba/player/_/id/10814/damian-lillard
-10815,Harrison Barnes,05-30-1992,San Antonio Spurs,2023-2025,Veteran Extension,"$19,000,000",https://www.spotrac.com/nba/player/_/id/10815/harrison-barnes
-10817,Andre Drummond,08-10-1993,Philadelphia 76ers,2024-2025,Free Agent,"$5,000,000",https://www.spotrac.com/nba/player/_/id/10817/andre-drummond
 10859,Jae Crowder,07-06-1990,Sacramento Kings,2024-2024,rest-of-season,,https://www.spotrac.com/nba/player/_/id/10859/jae-crowder
-10860,Draymond Green,03-04-1990,Golden State Warriors,2023-2026,Free Agent,"$25,892,857",https://www.spotrac.com/nba/player/_/id/10860/draymond-green
-10864,Khris Middleton,08-12-1991,Washington Wizards,2023-2025,Free Agent,"$33,296,296",https://www.spotrac.com/nba/player/_/id/10864/khris-middleton
+10814,Damian Lillard,07-15-1990,Portland Trail Blazers,2025-2027,Free Agent,"$14,104,000",https://www.spotrac.com/nba/player/_/id/10814/damian-lillard
 11059,P.J. Tucker,05-05-1985,New York Knicks,2024-2025,rest-of-season,,https://www.spotrac.com/nba/player/_/id/11059/pj-tucker
+10817,Andre Drummond,08-10-1993,Philadelphia 76ers,2024-2025,Free Agent,"$5,000,000",https://www.spotrac.com/nba/player/_/id/10817/andre-drummond
+10860,Draymond Green,03-04-1990,Golden State Warriors,2023-2026,Free Agent,"$25,892,857",https://www.spotrac.com/nba/player/_/id/10860/draymond-green
+10811,Bradley Beal,06-28-1993,LA Clippers,2025-2026,Free Agent,"$5,354,000",https://www.spotrac.com/nba/player/_/id/10811/bradley-beal
 13318,Alex Len,06-16-1993,Los Angeles Lakers,2024-2024,rest-of-season,,https://www.spotrac.com/nba/player/_/id/13318/alex-len
-13321,Kentavious Caldwell-Pope,02-18-1993,Memphis Grizzlies,2024-2026,Free Agent,"$21,621,500",https://www.spotrac.com/nba/player/_/id/13321/kentavious-caldwell-pope
-13323,C.J. McCollum,09-19-1991,Washington Wizards,2024-2025,Veteran Extension,"$30,666,666",https://www.spotrac.com/nba/player/_/id/13323/cj-mccollum
+10809,Anthony Davis,03-11-1993,Dallas Mavericks,2025-2027,Maximum Veteran Extension,"$54,126,450",https://www.spotrac.com/nba/player/_/id/10809/anthony-davis
+10864,Khris Middleton,08-12-1991,Washington Wizards,2023-2025,Free Agent,"$33,296,296",https://www.spotrac.com/nba/player/_/id/10864/khris-middleton
 13325,Steven Adams,07-20-1993,Houston Rockets,2025-2027,Veteran Extension,"$14,130,435",https://www.spotrac.com/nba/player/_/id/13325/steven-adams
-13326,Kelly Olynyk,04-19-1991,San Antonio Spurs,2024-2025,Veteran Extension,"$13,445,122",https://www.spotrac.com/nba/player/_/id/13326/kelly-olynyk
-13328,Giannis Antetokounmpo,12-06-1994,Milwaukee Bucks,2025-2027,Maximum Veteran Extension,"$54,126,450",https://www.spotrac.com/nba/player/_/id/13328/giannis-antetokounmpo
+13321,Kentavious Caldwell-Pope,02-18-1993,Memphis Grizzlies,2024-2026,Free Agent,"$21,621,500",https://www.spotrac.com/nba/player/_/id/13321/kentavious-caldwell-pope
+10815,Harrison Barnes,05-30-1992,San Antonio Spurs,2023-2025,Veteran Extension,"$19,000,000",https://www.spotrac.com/nba/player/_/id/10815/harrison-barnes
 13330,Dennis Schröder,09-15-1993,Sacramento Kings,2025-2027,Free Agent,"$14,104,000",https://www.spotrac.com/nba/player/_/id/13330/dennis-schr%C3%B6der
-13335,Mason Plumlee,03-05-1990,Charlotte Hornets,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/13335/mason-plumlee
 13337,Tim Hardaway Jr.,03-16-1992,Detroit Pistons,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/13337/tim-hardaway-jr
 13340,Rudy Gobert,06-26-1992,Minnesota Timberwolves,2025-2027,Veteran Extension,"$35,000,000",https://www.spotrac.com/nba/player/_/id/13340/rudy-gobert
+13323,C.J. McCollum,09-19-1991,Washington Wizards,2024-2025,Veteran Extension,"$30,666,666",https://www.spotrac.com/nba/player/_/id/13323/cj-mccollum
+13326,Kelly Olynyk,04-19-1991,San Antonio Spurs,2024-2025,Veteran Extension,"$13,445,122",https://www.spotrac.com/nba/player/_/id/13326/kelly-olynyk
+13335,Mason Plumlee,03-05-1990,Charlotte Hornets,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/13335/mason-plumlee
 13512,Seth Curry,08-23-1990,Charlotte Hornets,2024-2024,Free Agent,,https://www.spotrac.com/nba/player/_/id/13512/seth-curry
-15353,Andrew Wiggins,02-23-1995,Miami Heat,2023-2026,Veteran Extension,"$28,223,215",https://www.spotrac.com/nba/player/_/id/15353/andrew-wiggins
 15355,Joel Embiid,03-16-1994,Philadelphia 76ers,2026-2028,Maximum Veteran Extension,"$55,224,526",https://www.spotrac.com/nba/player/_/id/15355/joel-embiid
-15356,Aaron Gordon,09-16-1995,Denver Nuggets,2026-2028,Maximum Veteran Extension,"$22,841,455",https://www.spotrac.com/nba/player/_/id/15356/aaron-gordon
 15357,Dante Exum,07-13-1995,Dallas Mavericks,2025-2025,Free Agent,"$4,095,000",https://www.spotrac.com/nba/player/_/id/15357/dante-exum
-15358,Marcus Smart,03-06-1994,Los Angeles Lakers,2025-2026,Free Agent,"$5,134,000",https://www.spotrac.com/nba/player/_/id/15358/marcus-smart
+15353,Andrew Wiggins,02-23-1995,Miami Heat,2023-2026,Veteran Extension,"$28,223,215",https://www.spotrac.com/nba/player/_/id/15353/andrew-wiggins
 15359,Julius Randle,11-29-1994,Minnesota Timberwolves,2025-2027,Free Agent,"$30,864,198",https://www.spotrac.com/nba/player/_/id/15359/julius-randle
 15362,Elfrid Payton,02-22-1994,New Orleans Pelicans,2024-2025,rest-of-season,,https://www.spotrac.com/nba/player/_/id/15362/elfrid-payton
-15363,Doug McDermott,01-03-1992,Sacramento Kings,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/15363/doug-mcdermott
-15364,Dario Saric,04-08-1994,Sacramento Kings,2024-2025,Free Agent,"$5,426,400",https://www.spotrac.com/nba/player/_/id/15364/dario-saric
-15365,Zach LaVine,03-10-1995,Sacramento Kings,2022-2026,maximum,"$47,499,660",https://www.spotrac.com/nba/player/_/id/15365/zach-lavine
+15356,Aaron Gordon,09-16-1995,Denver Nuggets,2026-2028,Maximum Veteran Extension,"$22,841,455",https://www.spotrac.com/nba/player/_/id/15356/aaron-gordon
 15368,Jusuf Nurkic,08-23-1994,Utah Jazz,2022-2025,Free Agent,"$19,375,000",https://www.spotrac.com/nba/player/_/id/15368/jusuf-nurkic
 15371,Gary Harris,09-14-1994,Milwaukee Bucks,2025-2026,Free Agent,"$3,634,153",https://www.spotrac.com/nba/player/_/id/15371/gary-harris
+15363,Doug McDermott,01-03-1992,Sacramento Kings,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/15363/doug-mcdermott
 15377,Clint Capela,05-18-1994,Houston Rockets,2025-2027,sign-and-trade,"$6,700,000",https://www.spotrac.com/nba/player/_/id/15377/clint-capela
-15379,Bogdan Bogdanovic,08-18-1992,LA Clippers,2023-2026,Veteran Extension,"$16,020,000",https://www.spotrac.com/nba/player/_/id/15379/bogdan-bogdanovic
 15382,Kyle Anderson,09-20-1993,Utah Jazz,2024-2026,sign-and-trade,"$9,219,512",https://www.spotrac.com/nba/player/_/id/15382/kyle-anderson
 15390,Spencer Dinwiddie,04-06-1993,Dallas Mavericks,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/15390/spencer-dinwiddie
 15391,Jerami Grant,03-12-1994,Portland Trail Blazers,2023-2027,Free Agent,"$32,000,001",https://www.spotrac.com/nba/player/_/id/15391/jerami-grant
-15393,Nikola Jokic,02-19-1995,Denver Nuggets,2023-2027,Designated Veteran Extension,"$55,224,526",https://www.spotrac.com/nba/player/_/id/15393/nikola-jokic
+15379,Bogdan Bogdanovic,08-18-1992,LA Clippers,2023-2026,Veteran Extension,"$16,020,000",https://www.spotrac.com/nba/player/_/id/15379/bogdan-bogdanovic
 15397,Dwight Powell,07-20-1991,Dallas Mavericks,2023-2025,Free Agent,"$4,000,000",https://www.spotrac.com/nba/player/_/id/15397/dwight-powell
+15364,Dario Saric,04-08-1994,Sacramento Kings,2024-2025,Free Agent,"$5,426,400",https://www.spotrac.com/nba/player/_/id/15364/dario-saric
+15365,Zach LaVine,03-10-1995,Sacramento Kings,2022-2026,maximum,"$47,499,660",https://www.spotrac.com/nba/player/_/id/15365/zach-lavine
+13328,Giannis Antetokounmpo,12-06-1994,Milwaukee Bucks,2025-2027,Maximum Veteran Extension,"$54,126,450",https://www.spotrac.com/nba/player/_/id/13328/giannis-antetokounmpo
 15398,Jordan Clarkson,06-07-1992,New York Knicks,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/15398/jordan-clarkson
-15404,Vasilije Micic,01-13-1994,Milwaukee Bucks,2023-2025,Free Agent,,https://www.spotrac.com/nba/player/_/id/15404/vasilije-micic
+15393,Nikola Jokic,02-19-1995,Denver Nuggets,2023-2027,Designated Veteran Extension,"$55,224,526",https://www.spotrac.com/nba/player/_/id/15393/nikola-jokic
 15852,Joe Ingles,10-02-1987,Minnesota Timberwolves,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/15852/joe-ingles
+15404,Vasilije Micic,01-13-1994,Milwaukee Bucks,2023-2025,Free Agent,,https://www.spotrac.com/nba/player/_/id/15404/vasilije-micic
 17829,Karl-Anthony Towns,11-15-1995,New York Knicks,2024-2027,Designated Veteran Extension,"$53,142,264",https://www.spotrac.com/nba/player/_/id/17829/karl-anthony-towns
+17841,Devin Booker,10-30-1996,Phoenix Suns,2028-2029,Maximum Veteran Extension,"$53,142,264",https://www.spotrac.com/nba/player/_/id/17841/devin-booker
 17830,D'Angelo Russell,02-23-1996,Dallas Mavericks,2025-2026,Free Agent,"$5,685,000",https://www.spotrac.com/nba/player/_/id/17830/dangelo-russell
+17840,Trey Lyles,11-05-1995,Sacramento Kings,2023-2024,Free Agent,,https://www.spotrac.com/nba/player/_/id/17840/trey-lyles
 17832,Kristaps Porzingis,08-02-1995,Atlanta Hawks,2024-2025,Veteran Extension,"$30,731,707",https://www.spotrac.com/nba/player/_/id/17832/kristaps-porzingis
 17839,Myles Turner,03-24-1996,Milwaukee Bucks,2025-2028,Free Agent,"$25,318,251",https://www.spotrac.com/nba/player/_/id/17839/myles-turner
-17840,Trey Lyles,11-05-1995,Sacramento Kings,2023-2024,Free Agent,,https://www.spotrac.com/nba/player/_/id/17840/trey-lyles
-17841,Devin Booker,10-30-1996,Phoenix Suns,2028-2029,Maximum Veteran Extension,"$53,142,264",https://www.spotrac.com/nba/player/_/id/17841/devin-booker
 17842,Cameron Payne,08-08-1994,New York Knicks,2024-2024,Free Agent,,https://www.spotrac.com/nba/player/_/id/17842/cameron-payne
-17843,Kelly Oubre Jr.,12-09-1995,Philadelphia 76ers,2024-2025,Free Agent,"$8,382,150",https://www.spotrac.com/nba/player/_/id/17843/kelly-oubre-jr
-17844,Terry Rozier,03-17-1994,Miami Heat,2022-2025,Veteran Extension,"$26,643,031",https://www.spotrac.com/nba/player/_/id/17844/terry-rozier
 17848,Delon Wright,04-26-1992,New York Knicks,2024-2024,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/17848/delon-wright
-17850,Bobby Portis,02-10-1995,Milwaukee Bucks,2025-2027,Free Agent,"$13,445,754",https://www.spotrac.com/nba/player/_/id/17850/bobby-portis
-17852,Tyus Jones,05-10-1996,Orlando Magic,2025-2025,Free Agent,"$7,000,000",https://www.spotrac.com/nba/player/_/id/17852/tyus-jones
-17855,Larry Nance Jr.,01-01-1993,Atlanta Hawks,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/17855/larry-nance-jr
 17858,Kevon Looney,02-06-1996,New Orleans Pelicans,2025-2026,Free Agent,"$8,000,000",https://www.spotrac.com/nba/player/_/id/17858/kevon-looney
-17865,Richaun Holmes,10-15-1993,Washington Wizards,2024-2025,Veteran Extension,,https://www.spotrac.com/nba/player/_/id/17865/richaun-holmes
+17844,Terry Rozier,03-17-1994,Miami Heat,2022-2025,Veteran Extension,"$26,643,031",https://www.spotrac.com/nba/player/_/id/17844/terry-rozier
+17843,Kelly Oubre Jr.,12-09-1995,Philadelphia 76ers,2024-2025,Free Agent,"$8,382,150",https://www.spotrac.com/nba/player/_/id/17843/kelly-oubre-jr
 17869,Pat Connaughton,01-06-1993,Charlotte Hornets,2023-2025,Veteran Extension,"$9,423,869",https://www.spotrac.com/nba/player/_/id/17869/pat-connaughton
-17874,Norman Powell,05-25-1993,Miami Heat,2021-2025,Free Agent,"$20,482,758",https://www.spotrac.com/nba/player/_/id/17874/norman-powell
-18252,T.J. McConnell,03-25-1992,Indiana Pacers,2025-2028,Veteran Extension,"$10,200,000",https://www.spotrac.com/nba/player/_/id/18252/tj-mcconnell
+17852,Tyus Jones,05-10-1996,Orlando Magic,2025-2025,Free Agent,"$7,000,000",https://www.spotrac.com/nba/player/_/id/17852/tyus-jones
 20206,Ben Simmons,07-20-1996,LA Clippers,2024-2024,rest-of-season,,https://www.spotrac.com/nba/player/_/id/20206/ben-simmons
-20207,Brandon Ingram,09-02-1997,Toronto Raptors,2025-2027,Veteran Extension,"$38,095,238",https://www.spotrac.com/nba/player/_/id/20207/brandon-ingram
-20208,Jaylen Brown,10-24-1996,Boston Celtics,2024-2028,Designated Veteran Extension,"$53,142,264",https://www.spotrac.com/nba/player/_/id/20208/jaylen-brown
-20210,Kris Dunn,03-18-1994,LA Clippers,2024-2026,sign-and-trade,"$5,426,400",https://www.spotrac.com/nba/player/_/id/20210/kris-dunn
-20211,Buddy Hield,12-17-1992,Golden State Warriors,2024-2027,sign-and-trade,"$9,219,512",https://www.spotrac.com/nba/player/_/id/20211/buddy-hield
-20212,Jamal Murray,02-23-1997,Denver Nuggets,2025-2028,Maximum Veteran Extension,"$46,394,100",https://www.spotrac.com/nba/player/_/id/20212/jamal-murray
+17874,Norman Powell,05-25-1993,Miami Heat,2021-2025,Free Agent,"$20,482,758",https://www.spotrac.com/nba/player/_/id/17874/norman-powell
+15358,Marcus Smart,03-06-1994,Los Angeles Lakers,2025-2026,Free Agent,"$5,134,000",https://www.spotrac.com/nba/player/_/id/15358/marcus-smart
+17850,Bobby Portis,02-10-1995,Milwaukee Bucks,2025-2027,Free Agent,"$13,445,754",https://www.spotrac.com/nba/player/_/id/17850/bobby-portis
+17865,Richaun Holmes,10-15-1993,Washington Wizards,2024-2025,Veteran Extension,,https://www.spotrac.com/nba/player/_/id/17865/richaun-holmes
 20214,Jakob Poeltl,10-15-1995,Toronto Raptors,2027-2029,Veteran Extension,"$19,500,000",https://www.spotrac.com/nba/player/_/id/20214/jakob-poeltl
+20208,Jaylen Brown,10-24-1996,Boston Celtics,2024-2028,Designated Veteran Extension,"$53,142,264",https://www.spotrac.com/nba/player/_/id/20208/jaylen-brown
+20207,Brandon Ingram,09-02-1997,Toronto Raptors,2025-2027,Veteran Extension,"$38,095,238",https://www.spotrac.com/nba/player/_/id/20207/brandon-ingram
+20211,Buddy Hield,12-17-1992,Golden State Warriors,2024-2027,sign-and-trade,"$9,219,512",https://www.spotrac.com/nba/player/_/id/20211/buddy-hield
+18252,T.J. McConnell,03-25-1992,Indiana Pacers,2025-2028,Veteran Extension,"$10,200,000",https://www.spotrac.com/nba/player/_/id/18252/tj-mcconnell
+17855,Larry Nance Jr.,01-01-1993,Atlanta Hawks,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/17855/larry-nance-jr
+20210,Kris Dunn,03-18-1994,LA Clippers,2024-2026,sign-and-trade,"$5,426,400",https://www.spotrac.com/nba/player/_/id/20210/kris-dunn
+20225,Caris LeVert,08-25-1994,Detroit Pistons,2025-2026,Free Agent,"$14,104,000",https://www.spotrac.com/nba/player/_/id/20225/caris-levert
 20216,Domantas Sabonis,05-03-1996,Sacramento Kings,2024-2027,Veteran Extension,"$42,336,000",https://www.spotrac.com/nba/player/_/id/20216/domantas-sabonis
+20212,Jamal Murray,02-23-1997,Denver Nuggets,2025-2028,Maximum Veteran Extension,"$46,394,100",https://www.spotrac.com/nba/player/_/id/20212/jamal-murray
 20217,Taurean Prince,03-22-1994,Milwaukee Bucks,2025-2026,Free Agent,"$3,303,774",https://www.spotrac.com/nba/player/_/id/20217/taurean-prince
 20221,Guerschon Yabusele,12-17-1995,Philadelphia 76ers,2025-2026,Free Agent,"$5,500,000",https://www.spotrac.com/nba/player/_/id/20221/guerschon-yabusele
 20224,Malik Beasley,11-26-1996,Detroit Pistons,2024-2024,Free Agent,"$7,200,000",https://www.spotrac.com/nba/player/_/id/20224/malik-beasley
-20225,Caris LeVert,08-25-1994,Detroit Pistons,2025-2026,Free Agent,"$14,104,000",https://www.spotrac.com/nba/player/_/id/20225/caris-levert
-20232,Pascal Siakam,04-02-1994,Indiana Pacers,2024-2027,Free Agent,"$45,550,512",https://www.spotrac.com/nba/player/_/id/20232/pascal-siakam
 20234,Dejounte Murray,09-19-1996,New Orleans Pelicans,2024-2027,Veteran Extension,"$30,801,103",https://www.spotrac.com/nba/player/_/id/20234/dejounte-murray
-20238,Ivica Zubac,03-18-1997,LA Clippers,2025-2027,Veteran Extension,"$18,102,000",https://www.spotrac.com/nba/player/_/id/20238/ivica-zubac
-20242,Malcolm Brogdon,12-11-1992,Washington Wizards,2023-2024,Veteran Extension,,https://www.spotrac.com/nba/player/_/id/20242/malcolm-brogdon
-20256,Georges Niang,06-17-1993,Utah Jazz,2023-2025,Free Agent,"$8,200,000",https://www.spotrac.com/nba/player/_/id/20256/georges-niang
-20272,Gary Payton II,12-01-1992,Golden State Warriors,2022-2024,Free Agent,,https://www.spotrac.com/nba/player/_/id/20272/gary-payton-ii
-20757,Dorian Finney-Smith,05-04-1993,Houston Rockets,2025-2028,Free Agent,"$12,700,000",https://www.spotrac.com/nba/player/_/id/20757/dorian-finney-smith
 20778,Fred VanVleet,02-25-1994,Houston Rockets,2025-2026,Free Agent,"$25,000,000",https://www.spotrac.com/nba/player/_/id/20778/fred-vanvleet
-21063,Damion Lee,10-21-1992,Phoenix Suns,2024-2024,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/21063/damion-lee
+20238,Ivica Zubac,03-18-1997,LA Clippers,2025-2027,Veteran Extension,"$18,102,000",https://www.spotrac.com/nba/player/_/id/20238/ivica-zubac
+20272,Gary Payton II,12-01-1992,Golden State Warriors,2022-2024,Free Agent,,https://www.spotrac.com/nba/player/_/id/20272/gary-payton-ii
+20256,Georges Niang,06-17-1993,Utah Jazz,2023-2025,Free Agent,"$8,200,000",https://www.spotrac.com/nba/player/_/id/20256/georges-niang
+20242,Malcolm Brogdon,12-11-1992,Washington Wizards,2023-2024,Veteran Extension,,https://www.spotrac.com/nba/player/_/id/20242/malcolm-brogdon
 21067,Derrick Jones Jr.,02-15-1997,LA Clippers,2024-2026,Free Agent,"$10,000,000",https://www.spotrac.com/nba/player/_/id/21067/derrick-jones-jr
 21076,Alex Caruso,02-28-1994,Oklahoma City Thunder,2025-2028,Veteran Extension,"$18,102,000",https://www.spotrac.com/nba/player/_/id/21076/alex-caruso
-2199,Al Horford,06-03-1986,Boston Celtics,2023-2024,Veteran Extension,,https://www.spotrac.com/nba/player/_/id/2199/al-horford
 2257,LeBron James,12-30-1984,Los Angeles Lakers,2024-2025,maximum,"$52,627,153",https://www.spotrac.com/nba/player/_/id/2257/lebron-james
-23596,Markelle Fultz,05-29-1998,Sacramento Kings,2024-2024,rest-of-season,,https://www.spotrac.com/nba/player/_/id/23596/markelle-fultz
+2199,Al Horford,06-03-1986,Boston Celtics,2023-2024,Veteran Extension,,https://www.spotrac.com/nba/player/_/id/2199/al-horford
+21063,Damion Lee,10-21-1992,Phoenix Suns,2024-2024,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/21063/damion-lee
+20757,Dorian Finney-Smith,05-04-1993,Houston Rockets,2025-2028,Free Agent,"$12,700,000",https://www.spotrac.com/nba/player/_/id/20757/dorian-finney-smith
 23597,Lonzo Ball,10-27-1997,Cleveland Cavaliers,2025-2026,Extension,"$10,000,000",https://www.spotrac.com/nba/player/_/id/23597/lonzo-ball
 23598,Jayson Tatum,03-03-1998,Boston Celtics,2025-2029,Designated Veteran Extension,"$54,126,450",https://www.spotrac.com/nba/player/_/id/23598/jayson-tatum
 23600,De'Aaron Fox,12-20-1997,San Antonio Spurs,2026-2029,Maximum Veteran Extension,"$37,096,620",https://www.spotrac.com/nba/player/_/id/23600/deaaron-fox
 23601,Jonathan Isaac,10-03-1997,Orlando Magic,2025-2028,Veteran Extension,"$15,000,000",https://www.spotrac.com/nba/player/_/id/23601/jonathan-isaac
-23602,Lauri Markkanen,05-22-1997,Utah Jazz,2025-2028,Veteran Extension,"$46,394,100",https://www.spotrac.com/nba/player/_/id/23602/lauri-markkanen
 23605,Zach Collins,11-19-1997,Chicago Bulls,2024-2025,Veteran Extension,"$18,080,496",https://www.spotrac.com/nba/player/_/id/23605/zach-collins
-23606,Malik Monk,02-04-1998,Sacramento Kings,2024-2027,Free Agent,"$18,797,619",https://www.spotrac.com/nba/player/_/id/23606/malik-monk
 23607,Luke Kennard,06-24-1996,Atlanta Hawks,2025-2025,Free Agent,"$11,000,000",https://www.spotrac.com/nba/player/_/id/23607/luke-kennard
-23608,Donovan Mitchell,09-07-1996,Cleveland Cavaliers,2025-2027,Maximum Veteran Extension,"$46,394,100",https://www.spotrac.com/nba/player/_/id/23608/donovan-mitchell
 23609,Bam Adebayo,07-18-1997,Miami Heat,2026-2028,Maximum Veteran Extension,"$37,096,620",https://www.spotrac.com/nba/player/_/id/23609/bam-adebayo
-23614,John Collins,09-23-1997,LA Clippers,2021-2025,Free Agent,"$26,580,000",https://www.spotrac.com/nba/player/_/id/23614/john-collins
-23617,Jarrett Allen,04-21-1998,Cleveland Cavaliers,2026-2028,Veteran Extension,"$20,000,000",https://www.spotrac.com/nba/player/_/id/23617/jarrett-allen
-23618,OG Anunoby,07-17-1997,New York Knicks,2024-2028,Free Agent,"$39,568,966",https://www.spotrac.com/nba/player/_/id/23618/og-anunoby
+23606,Malik Monk,02-04-1998,Sacramento Kings,2024-2027,Free Agent,"$18,797,619",https://www.spotrac.com/nba/player/_/id/23606/malik-monk
+20232,Pascal Siakam,04-02-1994,Indiana Pacers,2024-2027,Free Agent,"$45,550,512",https://www.spotrac.com/nba/player/_/id/20232/pascal-siakam
+23602,Lauri Markkanen,05-22-1997,Utah Jazz,2025-2028,Veteran Extension,"$46,394,100",https://www.spotrac.com/nba/player/_/id/23602/lauri-markkanen
 23622,Kyle Kuzma,07-24-1995,Milwaukee Bucks,2023-2026,Free Agent,"$22,410,605",https://www.spotrac.com/nba/player/_/id/23622/kyle-kuzma
-23623,Tony Bradley,01-08-1998,Indiana Pacers,2024-2024,rest-of-season,"$2,940,876",https://www.spotrac.com/nba/player/_/id/23623/tony-bradley
+23617,Jarrett Allen,04-21-1998,Cleveland Cavaliers,2026-2028,Veteran Extension,"$20,000,000",https://www.spotrac.com/nba/player/_/id/23617/jarrett-allen
+23596,Markelle Fultz,05-29-1998,Sacramento Kings,2024-2024,rest-of-season,,https://www.spotrac.com/nba/player/_/id/23596/markelle-fultz
 23624,Derrick White,07-02-1994,Boston Celtics,2025-2028,Veteran Extension,"$28,100,000",https://www.spotrac.com/nba/player/_/id/23624/derrick-white
-23625,Josh Hart,03-06-1995,New York Knicks,2024-2027,Veteran Extension,"$19,472,240",https://www.spotrac.com/nba/player/_/id/23625/josh-hart
 23643,Thomas Bryant,07-31-1997,Indiana Pacers,2024-2024,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/23643/thomas-bryant
-23644,Isaiah Hartenstein,05-05-1998,Oklahoma City Thunder,2024-2026,Free Agent,"$28,500,000",https://www.spotrac.com/nba/player/_/id/23644/isaiah-hartenstein
-23646,Dillon Brooks,01-22-1996,Phoenix Suns,2023-2026,sign-and-trade,"$21,124,110",https://www.spotrac.com/nba/player/_/id/23646/dillon-brooks
+23614,John Collins,09-23-1997,LA Clippers,2021-2025,Free Agent,"$26,580,000",https://www.spotrac.com/nba/player/_/id/23614/john-collins
+23623,Tony Bradley,01-08-1998,Indiana Pacers,2024-2024,rest-of-season,"$2,940,876",https://www.spotrac.com/nba/player/_/id/23623/tony-bradley
 23650,Vlatko Cancar,04-10-1997,Denver Nuggets,2024-2024,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/23650/vlatko-cancar
-23652,Monte Morris,06-27-1995,Phoenix Suns,2024-2024,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/23652/monte-morris
+23646,Dillon Brooks,01-22-1996,Phoenix Suns,2023-2026,sign-and-trade,"$21,124,110",https://www.spotrac.com/nba/player/_/id/23646/dillon-brooks
 23670,Luke Kornet,07-15-1995,San Antonio Spurs,2025-2028,Free Agent,"$11,000,000",https://www.spotrac.com/nba/player/_/id/23670/luke-kornet
-23671,Chris Boucher,01-11-1993,Toronto Raptors,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/23671/chris-boucher
-24212,Maxi Kleber,01-29-1992,Los Angeles Lakers,2023-2025,Veteran Extension,"$11,000,000",https://www.spotrac.com/nba/player/_/id/24212/maxi-kleber
-24230,Torrey Craig,12-19-1990,Boston Celtics,2024-2024,rest-of-season,,https://www.spotrac.com/nba/player/_/id/24230/torrey-craig
-24240,Royce O'Neale,06-05-1993,Phoenix Suns,2024-2027,Free Agent,"$10,125,000",https://www.spotrac.com/nba/player/_/id/24240/royce-oneale
-2532,Mike Conley,10-11-1987,Minnesota Timberwolves,2024-2025,Veteran Extension,"$10,774,038",https://www.spotrac.com/nba/player/_/id/2532/mike-conley
+23625,Josh Hart,03-06-1995,New York Knicks,2024-2027,Veteran Extension,"$19,472,240",https://www.spotrac.com/nba/player/_/id/23625/josh-hart
+23644,Isaiah Hartenstein,05-05-1998,Oklahoma City Thunder,2024-2026,Free Agent,"$28,500,000",https://www.spotrac.com/nba/player/_/id/23644/isaiah-hartenstein
+23618,OG Anunoby,07-17-1997,New York Knicks,2024-2028,Free Agent,"$39,568,966",https://www.spotrac.com/nba/player/_/id/23618/og-anunoby
 2536,Kyle Lowry,03-25-1986,Philadelphia 76ers,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/2536/kyle-lowry
+24212,Maxi Kleber,01-29-1992,Los Angeles Lakers,2023-2025,Veteran Extension,"$11,000,000",https://www.spotrac.com/nba/player/_/id/24212/maxi-kleber
+24240,Royce O'Neale,06-05-1993,Phoenix Suns,2024-2027,Free Agent,"$10,125,000",https://www.spotrac.com/nba/player/_/id/24240/royce-oneale
+24230,Torrey Craig,12-19-1990,Boston Celtics,2024-2024,rest-of-season,,https://www.spotrac.com/nba/player/_/id/24230/torrey-craig
+2532,Mike Conley,10-11-1987,Minnesota Timberwolves,2024-2025,Veteran Extension,"$10,774,038",https://www.spotrac.com/nba/player/_/id/2532/mike-conley
+23608,Donovan Mitchell,09-07-1996,Cleveland Cavaliers,2025-2027,Maximum Veteran Extension,"$46,394,100",https://www.spotrac.com/nba/player/_/id/23608/donovan-mitchell
+23652,Monte Morris,06-27-1995,Phoenix Suns,2024-2024,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/23652/monte-morris
 2609,Chris Paul,05-06-1985,LA Clippers,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/2609/chris-paul
-26967,Deandre Ayton,07-23-1998,Los Angeles Lakers,2025-2026,Free Agent,"$8,104,000",https://www.spotrac.com/nba/player/_/id/26967/deandre-ayton
-26968,Marvin Bagley III,03-14-1999,Memphis Grizzlies,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/26968/marvin-bagley-iii
-26969,Luka Doncic,02-28-1999,Los Angeles Lakers,2026-2028,Maximum Veteran Extension,"$45,999,660",https://www.spotrac.com/nba/player/_/id/26969/luka-doncic
-26970,Jaren Jackson Jr.,09-15-1999,Memphis Grizzlies,2025-2029,Veteran Extension,"$35,000,000",https://www.spotrac.com/nba/player/_/id/26970/jaren-jackson-jr
-26971,Trae Young,09-19-1998,Atlanta Hawks,2022-2026,Designated Rookie Extension,"$45,999,660",https://www.spotrac.com/nba/player/_/id/26971/trae-young
+23671,Chris Boucher,01-11-1993,Toronto Raptors,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/23671/chris-boucher
 26972,Mohamed Bamba,05-12-1998,New Orleans Pelicans,2024-2024,ten-day,,https://www.spotrac.com/nba/player/_/id/26972/mohamed-bamba
 26973,Wendell Carter Jr.,04-16-1999,Orlando Magic,2026-2028,Veteran Extension,"$10,850,000",https://www.spotrac.com/nba/player/_/id/26973/wendell-carter-jr
-26974,Collin Sexton,01-04-1999,Charlotte Hornets,2022-2025,sign-and-trade,"$18,975,000",https://www.spotrac.com/nba/player/_/id/26974/collin-sexton
+26970,Jaren Jackson Jr.,09-15-1999,Memphis Grizzlies,2025-2029,Veteran Extension,"$35,000,000",https://www.spotrac.com/nba/player/_/id/26970/jaren-jackson-jr
+26968,Marvin Bagley III,03-14-1999,Memphis Grizzlies,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/26968/marvin-bagley-iii
+26969,Luka Doncic,02-28-1999,Los Angeles Lakers,2026-2028,Maximum Veteran Extension,"$45,999,660",https://www.spotrac.com/nba/player/_/id/26969/luka-doncic
 26975,Kevin Knox,08-11-1999,Golden State Warriors,2024-2024,rest-of-season,,https://www.spotrac.com/nba/player/_/id/26975/kevin-knox
-26976,Mikal Bridges,08-30-1996,New York Knicks,2026-2029,Veteran Extension,"$24,900,000",https://www.spotrac.com/nba/player/_/id/26976/mikal-bridges
+26967,Deandre Ayton,07-23-1998,Los Angeles Lakers,2025-2026,Free Agent,"$8,104,000",https://www.spotrac.com/nba/player/_/id/26967/deandre-ayton
+26971,Trae Young,09-19-1998,Atlanta Hawks,2022-2026,Designated Rookie Extension,"$45,999,660",https://www.spotrac.com/nba/player/_/id/26971/trae-young
 26977,Shai Gilgeous-Alexander,07-12-1998,Oklahoma City Thunder,2027-2030,Designated Veteran Extension,"$38,333,050",https://www.spotrac.com/nba/player/_/id/26977/shai-gilgeous-alexander
-26978,Miles Bridges,03-21-1998,Charlotte Hornets,2024-2026,Free Agent,"$25,000,000",https://www.spotrac.com/nba/player/_/id/26978/miles-bridges
-26980,Michael Porter Jr.,06-29-1998,Brooklyn Nets,2022-2026,Designated Rookie Extension,"$38,333,050",https://www.spotrac.com/nba/player/_/id/26980/michael-porter-jr
+26974,Collin Sexton,01-04-1999,Charlotte Hornets,2022-2025,sign-and-trade,"$18,975,000",https://www.spotrac.com/nba/player/_/id/26974/collin-sexton
 26983,Donte DiVincenzo,01-31-1997,Minnesota Timberwolves,2023-2026,Free Agent,"$11,990,000",https://www.spotrac.com/nba/player/_/id/26983/donte-divincenzo
-26984,Lonnie Walker IV,12-14-1998,Philadelphia 76ers,2024-2025,rest-of-season,,https://www.spotrac.com/nba/player/_/id/26984/lonnie-walker-iv
 26985,Kevin Huerter,08-27-1998,Chicago Bulls,2022-2025,Rookie Extension,"$17,991,071",https://www.spotrac.com/nba/player/_/id/26985/kevin-huerter
+26989,Aaron Holiday,09-30-1996,Houston Rockets,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/26989/aaron-holiday
+26984,Lonnie Walker IV,12-14-1998,Philadelphia 76ers,2024-2025,rest-of-season,,https://www.spotrac.com/nba/player/_/id/26984/lonnie-walker-iv
+26980,Michael Porter Jr.,06-29-1998,Brooklyn Nets,2022-2026,Designated Rookie Extension,"$38,333,050",https://www.spotrac.com/nba/player/_/id/26980/michael-porter-jr
+26978,Miles Bridges,03-21-1998,Charlotte Hornets,2024-2026,Free Agent,"$25,000,000",https://www.spotrac.com/nba/player/_/id/26978/miles-bridges
+26991,Moritz Wagner,04-26-1997,Orlando Magic,2025-2025,Free Agent,"$5,000,000",https://www.spotrac.com/nba/player/_/id/26991/moritz-wagner
 26986,Josh Okogie,09-01-1998,Houston Rockets,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/26986/josh-okogie
 26987,Grayson Allen,10-08-1995,Phoenix Suns,2024-2027,Veteran Extension,"$16,875,000",https://www.spotrac.com/nba/player/_/id/26987/grayson-allen
-26989,Aaron Holiday,09-30-1996,Houston Rockets,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/26989/aaron-holiday
-26990,Anfernee Simons,06-08-1999,Boston Celtics,2022-2025,Free Agent,"$27,678,571",https://www.spotrac.com/nba/player/_/id/26990/anfernee-simons
-26991,Moritz Wagner,04-26-1997,Orlando Magic,2025-2025,Free Agent,"$5,000,000",https://www.spotrac.com/nba/player/_/id/26991/moritz-wagner
-26992,Landry Shamet,03-13-1997,New York Knicks,2024-2024,rest-of-season,,https://www.spotrac.com/nba/player/_/id/26992/landry-shamet
-26993,Robert Williams III,10-17-1997,Portland Trail Blazers,2022-2025,Rookie Extension,"$13,285,713",https://www.spotrac.com/nba/player/_/id/26993/robert-williams-iii
 26998,Jevon Carter,09-14-1995,Chicago Bulls,2023-2025,Free Agent,"$6,809,524",https://www.spotrac.com/nba/player/_/id/26998/jevon-carter
+26993,Robert Williams III,10-17-1997,Portland Trail Blazers,2022-2025,Rookie Extension,"$13,285,713",https://www.spotrac.com/nba/player/_/id/26993/robert-williams-iii
 26999,Jalen Brunson,08-31-1996,New York Knicks,2025-2028,Veteran Extension,"$34,944,001",https://www.spotrac.com/nba/player/_/id/26999/jalen-brunson
-27002,Mitchell Robinson,04-01-1998,New York Knicks,2022-2025,Free Agent,"$12,954,546",https://www.spotrac.com/nba/player/_/id/27002/mitchell-robinson
 27003,Gary Trent Jr.,01-18-1999,Milwaukee Bucks,2025-2026,Free Agent,"$3,697,105",https://www.spotrac.com/nba/player/_/id/27003/gary-trent-jr
-27007,Jarred Vanderbilt,04-03-1999,Los Angeles Lakers,2024-2027,Veteran Extension,"$11,571,429",https://www.spotrac.com/nba/player/_/id/27007/jarred-vanderbilt
+26976,Mikal Bridges,08-30-1996,New York Knicks,2026-2029,Veteran Extension,"$24,900,000",https://www.spotrac.com/nba/player/_/id/26976/mikal-bridges
+27002,Mitchell Robinson,04-01-1998,New York Knicks,2022-2025,Free Agent,"$12,954,546",https://www.spotrac.com/nba/player/_/id/27002/mitchell-robinson
 27008,Bruce Brown Jr.,08-15-1996,Denver Nuggets,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/27008/bruce-brown-jr
-27012,De'Anthony Melton,05-28-1998,Brooklyn Nets,2024-2024,Free Agent,,https://www.spotrac.com/nba/player/_/id/27012/deanthony-melton
 27013,Sviatoslav Mykhailiuk,06-10-1997,Utah Jazz,2024-2027,Free Agent,"$3,675,000",https://www.spotrac.com/nba/player/_/id/27013/sviatoslav-mykhailiuk
+27007,Jarred Vanderbilt,04-03-1999,Los Angeles Lakers,2024-2027,Veteran Extension,"$11,571,429",https://www.spotrac.com/nba/player/_/id/27007/jarred-vanderbilt
+26990,Anfernee Simons,06-08-1999,Boston Celtics,2022-2025,Free Agent,"$27,678,571",https://www.spotrac.com/nba/player/_/id/26990/anfernee-simons
 27020,Shake Milton,09-26-1996,Los Angeles Lakers,2024-2026,sign-and-trade,,https://www.spotrac.com/nba/player/_/id/27020/shake-milton
-2717,Kevin Durant,09-29-1988,Houston Rockets,2022-2025,Maximum Veteran Extension,"$54,708,609",https://www.spotrac.com/nba/player/_/id/2717/kevin-durant
 2720,Jeff Green,08-28-1986,Houston Rockets,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/2720/jeff-green
-27658,Duncan Robinson,04-22-1994,Detroit Pistons,2025-2027,sign-and-trade,"$16,834,692",https://www.spotrac.com/nba/player/_/id/27658/duncan-robinson
-27758,Kenrich Williams,12-02-1994,Oklahoma City Thunder,2023-2026,Veteran Extension,"$7,163,000",https://www.spotrac.com/nba/player/_/id/27758/kenrich-williams
-27975,Jordan McLaughlin,04-09-1996,San Antonio Spurs,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/27975/jordan-mclaughlin
-28052,Drew Eubanks,02-01-1997,LA Clippers,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/28052/drew-eubanks
+27012,De'Anthony Melton,05-28-1998,Brooklyn Nets,2024-2024,Free Agent,,https://www.spotrac.com/nba/player/_/id/27012/deanthony-melton
+26992,Landry Shamet,03-13-1997,New York Knicks,2024-2024,rest-of-season,,https://www.spotrac.com/nba/player/_/id/26992/landry-shamet
 28087,Gabe Vincent,06-14-1996,Los Angeles Lakers,2023-2025,Free Agent,"$11,500,000",https://www.spotrac.com/nba/player/_/id/28087/gabe-vincent
 28301,Haywood Highsmith,12-09-1996,Brooklyn Nets,2024-2025,Free Agent,"$5,616,000",https://www.spotrac.com/nba/player/_/id/28301/haywood-highsmith
+28052,Drew Eubanks,02-01-1997,LA Clippers,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/28052/drew-eubanks
 31558,Zion Williamson,07-06-2000,New Orleans Pelicans,2023-2027,Designated Rookie Extension,"$39,446,090",https://www.spotrac.com/nba/player/_/id/31558/zion-williamson
+2717,Kevin Durant,09-29-1988,Houston Rockets,2022-2025,Maximum Veteran Extension,"$54,708,609",https://www.spotrac.com/nba/player/_/id/2717/kevin-durant
+27658,Duncan Robinson,04-22-1994,Detroit Pistons,2025-2027,sign-and-trade,"$16,834,692",https://www.spotrac.com/nba/player/_/id/27658/duncan-robinson
+27758,Kenrich Williams,12-02-1994,Oklahoma City Thunder,2023-2026,Veteran Extension,"$7,163,000",https://www.spotrac.com/nba/player/_/id/27758/kenrich-williams
 31559,Ja Morant,08-10-1999,Memphis Grizzlies,2023-2027,Designated Rookie Extension,"$39,446,090",https://www.spotrac.com/nba/player/_/id/31559/ja-morant
 31560,R.J. Barrett,06-14-2000,Toronto Raptors,2023-2026,Rookie Extension,"$27,705,357",https://www.spotrac.com/nba/player/_/id/31560/rj-barrett
 31561,De'Andre Hunter,12-02-1997,Cleveland Cavaliers,2023-2026,Rookie Extension,"$23,303,571",https://www.spotrac.com/nba/player/_/id/31561/deandre-hunter
-31562,Darius Garland,01-26-2000,Cleveland Cavaliers,2023-2027,Designated Rookie Extension,"$39,446,090",https://www.spotrac.com/nba/player/_/id/31562/darius-garland
 31564,Coby White,02-16-2000,Chicago Bulls,2023-2025,Free Agent,"$12,888,889",https://www.spotrac.com/nba/player/_/id/31564/coby-white
 31565,Jaxson Hayes,05-23-2000,Los Angeles Lakers,2025-2025,Free Agent,"$3,449,323",https://www.spotrac.com/nba/player/_/id/31565/jaxson-hayes
-31566,Rui Hachimura,02-08-1998,Los Angeles Lakers,2023-2025,Free Agent,"$18,259,259",https://www.spotrac.com/nba/player/_/id/31566/rui-hachimura
-31568,Cameron Johnson,03-03-1996,Denver Nuggets,2023-2026,Free Agent,"$21,057,065",https://www.spotrac.com/nba/player/_/id/31568/cameron-johnson
-31569,PJ Washington,08-23-1998,Dallas Mavericks,2023-2025,Free Agent,"$14,152,174",https://www.spotrac.com/nba/player/_/id/31569/pj-washington
 31570,Tyler Herro,01-20-2000,Miami Heat,2023-2026,Rookie Extension,"$31,000,000",https://www.spotrac.com/nba/player/_/id/31570/tyler-herro
-31573,Chuma Okeke,08-18-1998,Cleveland Cavaliers,2024-2025,rest-of-season,,https://www.spotrac.com/nba/player/_/id/31573/chuma-okeke
+31569,PJ Washington,08-23-1998,Dallas Mavericks,2023-2025,Free Agent,"$14,152,174",https://www.spotrac.com/nba/player/_/id/31569/pj-washington
 31574,Nickeil Alexander-Walker,09-02-1998,Atlanta Hawks,2025-2028,sign-and-trade,"$15,161,800",https://www.spotrac.com/nba/player/_/id/31574/nickeil-alexander-walker
-31575,Goga Bitadze,07-20-1999,Orlando Magic,2024-2026,Free Agent,"$8,333,333",https://www.spotrac.com/nba/player/_/id/31575/goga-bitadze
-31577,Matisse Thybulle,03-04-1997,Portland Trail Blazers,2023-2025,Free Agent,"$11,550,000",https://www.spotrac.com/nba/player/_/id/31577/matisse-thybulle
+31566,Rui Hachimura,02-08-1998,Los Angeles Lakers,2023-2025,Free Agent,"$18,259,259",https://www.spotrac.com/nba/player/_/id/31566/rui-hachimura
+31562,Darius Garland,01-26-2000,Cleveland Cavaliers,2023-2027,Designated Rookie Extension,"$39,446,090",https://www.spotrac.com/nba/player/_/id/31562/darius-garland
+31573,Chuma Okeke,08-18-1998,Cleveland Cavaliers,2024-2025,rest-of-season,,https://www.spotrac.com/nba/player/_/id/31573/chuma-okeke
+31568,Cameron Johnson,03-03-1996,Denver Nuggets,2023-2026,Free Agent,"$21,057,065",https://www.spotrac.com/nba/player/_/id/31568/cameron-johnson
 31578,Brandon Clarke,09-19-1996,Memphis Grizzlies,2023-2026,Rookie Extension,"$12,500,000",https://www.spotrac.com/nba/player/_/id/31578/brandon-clarke
 31579,Grant Williams,11-30-1998,Charlotte Hornets,2023-2026,sign-and-trade,"$13,645,500",https://www.spotrac.com/nba/player/_/id/31579/grant-williams
-31582,Ty Jerome,07-07-1997,Memphis Grizzlies,2025-2027,Free Agent,"$8,781,000",https://www.spotrac.com/nba/player/_/id/31582/ty-jerome
-31587,Jordan Poole,06-19-1999,New Orleans Pelicans,2023-2026,Rookie Extension,"$31,848,215",https://www.spotrac.com/nba/player/_/id/31587/jordan-poole
-31588,Keldon Johnson,10-11-1999,San Antonio Spurs,2023-2026,Rookie Extension,"$17,500,000",https://www.spotrac.com/nba/player/_/id/31588/keldon-johnson
+31577,Matisse Thybulle,03-04-1997,Portland Trail Blazers,2023-2025,Free Agent,"$11,550,000",https://www.spotrac.com/nba/player/_/id/31577/matisse-thybulle
 31589,Kevin Porter Jr.,05-04-2000,Milwaukee Bucks,2025-2026,Free Agent,"$5,134,000",https://www.spotrac.com/nba/player/_/id/31589/kevin-porter-jr
-31590,Nicolas Claxton,04-17-1999,Brooklyn Nets,2024-2027,Free Agent,"$25,352,272",https://www.spotrac.com/nba/player/_/id/31590/nicolas-claxton
-31595,Cody Martin,09-28-1995,Phoenix Suns,2022-2025,Free Agent,,https://www.spotrac.com/nba/player/_/id/31595/cody-martin
-31597,Daniel Gafford,10-01-1998,Dallas Mavericks,2026-2028,Veteran Extension,"$14,386,320",https://www.spotrac.com/nba/player/_/id/31597/daniel-gafford
-31603,Bol Bol,11-16-1999,Phoenix Suns,2024-2024,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/31603/bol-bol
-31605,Talen Horton-Tucker,11-25-2000,Chicago Bulls,2024-2024,Free Agent,,https://www.spotrac.com/nba/player/_/id/31605/talen-horton-tucker
+27975,Jordan McLaughlin,04-09-1996,San Antonio Spurs,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/27975/jordan-mclaughlin
+31575,Goga Bitadze,07-20-1999,Orlando Magic,2024-2026,Free Agent,"$8,333,333",https://www.spotrac.com/nba/player/_/id/31575/goga-bitadze
+31587,Jordan Poole,06-19-1999,New Orleans Pelicans,2023-2026,Rookie Extension,"$31,848,215",https://www.spotrac.com/nba/player/_/id/31587/jordan-poole
+31582,Ty Jerome,07-07-1997,Memphis Grizzlies,2025-2027,Free Agent,"$8,781,000",https://www.spotrac.com/nba/player/_/id/31582/ty-jerome
+31588,Keldon Johnson,10-11-1999,San Antonio Spurs,2023-2026,Rookie Extension,"$17,500,000",https://www.spotrac.com/nba/player/_/id/31588/keldon-johnson
 31607,Terance Mann,10-18-1996,Brooklyn Nets,2025-2027,Veteran Extension,"$15,500,000",https://www.spotrac.com/nba/player/_/id/31607/terance-mann
-31611,Jalen McDaniels,01-31-1998,Washington Wizards,2024-2024,ten-day,,https://www.spotrac.com/nba/player/_/id/31611/jalen-mcdaniels
+31605,Talen Horton-Tucker,11-25-2000,Chicago Bulls,2024-2024,Free Agent,,https://www.spotrac.com/nba/player/_/id/31605/talen-horton-tucker
+31597,Daniel Gafford,10-01-1998,Dallas Mavericks,2026-2028,Veteran Extension,"$14,386,320",https://www.spotrac.com/nba/player/_/id/31597/daniel-gafford
 31963,Dean Wade,11-20-1996,Cleveland Cavaliers,2023-2025,Veteran Extension,"$6,623,456",https://www.spotrac.com/nba/player/_/id/31963/dean-wade
+31595,Cody Martin,09-28-1995,Phoenix Suns,2022-2025,Free Agent,,https://www.spotrac.com/nba/player/_/id/31595/cody-martin
 32044,Garrison Mathews,10-24-1996,Atlanta Hawks,2021-2024,rest-of-season,"$4,237,481",https://www.spotrac.com/nba/player/_/id/32044/garrison-mathews
-32045,Naz Reid,08-26-1999,Minnesota Timberwolves,2025-2029,Free Agent,"$21,551,724",https://www.spotrac.com/nba/player/_/id/32045/naz-reid
-32059,Terence Davis,05-16-1997,Sacramento Kings,2024-2025,rest-of-season,"$2,546,675",https://www.spotrac.com/nba/player/_/id/32059/terence-davis
-32170,John Konchar,03-22-1996,Memphis Grizzlies,2024-2026,Veteran Extension,"$6,165,000",https://www.spotrac.com/nba/player/_/id/32170/john-konchar
 32198,Amir Coffey,06-17-1997,Milwaukee Bucks,2025-2025,exhibit-10,$0,https://www.spotrac.com/nba/player/_/id/32198/amir-coffey
-32409,Javonte Green,07-23-1993,Detroit Pistons,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/32409/javonte-green
+31603,Bol Bol,11-16-1999,Phoenix Suns,2024-2024,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/31603/bol-bol
+32170,John Konchar,03-22-1996,Memphis Grizzlies,2024-2026,Veteran Extension,"$6,165,000",https://www.spotrac.com/nba/player/_/id/32170/john-konchar
+32045,Naz Reid,08-26-1999,Minnesota Timberwolves,2025-2029,Free Agent,"$21,551,724",https://www.spotrac.com/nba/player/_/id/32045/naz-reid
+31611,Jalen McDaniels,01-31-1998,Washington Wizards,2024-2024,ten-day,,https://www.spotrac.com/nba/player/_/id/31611/jalen-mcdaniels
 32411,Max Strus,03-28-1996,Cleveland Cavaliers,2023-2026,sign-and-trade,"$15,936,452",https://www.spotrac.com/nba/player/_/id/32411/max-strus
-32680,DaQuan Jeffries,04-30-1997,Charlotte Hornets,2024-2026,sign-and-trade,"$2,743,776",https://www.spotrac.com/nba/player/_/id/32680/daquan-jeffries
-32682,Caleb Martin,09-28-1995,Dallas Mavericks,2024-2027,Free Agent,"$9,594,044",https://www.spotrac.com/nba/player/_/id/32682/caleb-martin
-33033,Luguentz Dort,04-19-1999,Oklahoma City Thunder,2022-2026,Free Agent,"$18,222,222",https://www.spotrac.com/nba/player/_/id/33033/luguentz-dort
-6116,Eric Gordon,12-25-1988,Philadelphia 76ers,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/6116/eric-gordon
 6117,DeAndre Jordan,07-21-1988,Denver Nuggets,2024-2024,Free Agent,,https://www.spotrac.com/nba/player/_/id/6117/deandre-jordan
+32059,Terence Davis,05-16-1997,Sacramento Kings,2024-2025,rest-of-season,"$2,546,675",https://www.spotrac.com/nba/player/_/id/32059/terence-davis
+31590,Nicolas Claxton,04-17-1999,Brooklyn Nets,2024-2027,Free Agent,"$25,352,272",https://www.spotrac.com/nba/player/_/id/31590/nicolas-claxton
+33033,Luguentz Dort,04-19-1999,Oklahoma City Thunder,2022-2026,Free Agent,"$18,222,222",https://www.spotrac.com/nba/player/_/id/33033/luguentz-dort
+32680,DaQuan Jeffries,04-30-1997,Charlotte Hornets,2024-2026,sign-and-trade,"$2,743,776",https://www.spotrac.com/nba/player/_/id/32680/daquan-jeffries
+32409,Javonte Green,07-23-1993,Detroit Pistons,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/32409/javonte-green
+32682,Caleb Martin,09-28-1995,Dallas Mavericks,2024-2027,Free Agent,"$9,594,044",https://www.spotrac.com/nba/player/_/id/32682/caleb-martin
 6132,Kevin Love,09-07-1988,Utah Jazz,2024-2025,Free Agent,"$4,150,000",https://www.spotrac.com/nba/player/_/id/6132/kevin-love
 6136,Brook Lopez,04-01-1988,LA Clippers,2025-2026,Free Agent,"$8,750,000",https://www.spotrac.com/nba/player/_/id/6136/brook-lopez
 6141,Russell Westbrook,11-12-1988,Denver Nuggets,2024-2025,Free Agent,,https://www.spotrac.com/nba/player/_/id/6141/russell-westbrook
 6149,Nicolas Batum,12-14-1988,LA Clippers,2025-2026,Free Agent,"$5,601,600",https://www.spotrac.com/nba/player/_/id/6149/nicolas-batum
-6278,Taj Gibson,06-24-1985,Charlotte Hornets,2024-2024,Free Agent,,https://www.spotrac.com/nba/player/_/id/6278/taj-gibson
-6279,James Johnson,02-20-1987,Indiana Pacers,2024-2024,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/6279/james-johnson
 6287,Stephen Curry,03-14-1988,Golden State Warriors,2026-2026,Veteran Extension,"$59,606,817",https://www.spotrac.com/nba/player/_/id/6287/stephen-curry
+6116,Eric Gordon,12-25-1988,Philadelphia 76ers,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/6116/eric-gordon
 6312,James Harden,08-26-1989,LA Clippers,2025-2026,Free Agent,"$39,182,693",https://www.spotrac.com/nba/player/_/id/6312/james-harden
-6316,Jrue Holiday,06-12-1990,Portland Trail Blazers,2024-2027,Veteran Extension,"$32,400,000",https://www.spotrac.com/nba/player/_/id/6316/jrue-holiday
-6322,Patty Mills,08-11-1988,LA Clippers,2024-2024,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/6322/patty-mills
 6327,DeMar DeRozan,08-07-1989,Sacramento Kings,2024-2026,sign-and-trade,"$24,750,000",https://www.spotrac.com/nba/player/_/id/6327/demar-derozan
+6316,Jrue Holiday,06-12-1990,Portland Trail Blazers,2024-2027,Veteran Extension,"$32,400,000",https://www.spotrac.com/nba/player/_/id/6316/jrue-holiday
 6492,Garrett Temple,05-08-1986,Toronto Raptors,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/6492/garrett-temple
-6892,Paul George,05-02-1990,Philadelphia 76ers,2024-2027,maximum,"$51,666,090",https://www.spotrac.com/nba/player/_/id/6892/paul-george
-70643,Anthony Edwards,08-05-2001,Minnesota Timberwolves,2024-2028,Designated Rookie Extension,"$45,550,512",https://www.spotrac.com/nba/player/_/id/70643/anthony-edwards
+6279,James Johnson,02-20-1987,Indiana Pacers,2024-2024,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/6279/james-johnson
+6278,Taj Gibson,06-24-1985,Charlotte Hornets,2024-2024,Free Agent,,https://www.spotrac.com/nba/player/_/id/6278/taj-gibson
+6322,Patty Mills,08-11-1988,LA Clippers,2024-2024,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/6322/patty-mills
 70645,LaMelo Ball,08-22-2001,Charlotte Hornets,2024-2028,Designated Rookie Extension,"$37,958,760",https://www.spotrac.com/nba/player/_/id/70645/lamelo-ball
-70646,Patrick Williams,08-26-2001,Chicago Bulls,2024-2028,Free Agent,"$18,000,000",https://www.spotrac.com/nba/player/_/id/70646/patrick-williams
-70647,Isaac Okoro,01-26-2001,Chicago Bulls,2024-2026,Free Agent,"$11,000,000",https://www.spotrac.com/nba/player/_/id/70647/isaac-okoro
+6892,Paul George,05-02-1990,Philadelphia 76ers,2024-2027,maximum,"$51,666,090",https://www.spotrac.com/nba/player/_/id/6892/paul-george
 70648,Onyeka Okongwu,12-11-2000,Atlanta Hawks,2024-2027,Rookie Extension,"$15,000,000",https://www.spotrac.com/nba/player/_/id/70648/onyeka-okongwu
-70650,Obi Toppin,03-04-1998,Indiana Pacers,2024-2027,Free Agent,"$14,000,000",https://www.spotrac.com/nba/player/_/id/70650/obi-toppin
+70646,Patrick Williams,08-26-2001,Chicago Bulls,2024-2028,Free Agent,"$18,000,000",https://www.spotrac.com/nba/player/_/id/70646/patrick-williams
 70651,Deni Avdija,01-03-2001,Portland Trail Blazers,2024-2027,Rookie Extension,"$14,375,000",https://www.spotrac.com/nba/player/_/id/70651/deni-avdija
 70652,Jalen Smith,03-16-2000,Chicago Bulls,2024-2026,Free Agent,"$9,000,000",https://www.spotrac.com/nba/player/_/id/70652/jalen-smith
+70650,Obi Toppin,03-04-1998,Indiana Pacers,2024-2027,Free Agent,"$14,000,000",https://www.spotrac.com/nba/player/_/id/70650/obi-toppin
 70653,Devin Vassell,08-23-2000,San Antonio Spurs,2024-2028,Rookie Extension,"$27,000,000",https://www.spotrac.com/nba/player/_/id/70653/devin-vassell
-70654,Tyrese Haliburton,02-29-2000,Indiana Pacers,2024-2028,Designated Rookie Extension,"$45,550,512",https://www.spotrac.com/nba/player/_/id/70654/tyrese-haliburton
 70656,Aaron Nesmith,10-16-1999,Indiana Pacers,2024-2026,Rookie Extension,"$11,000,000",https://www.spotrac.com/nba/player/_/id/70656/aaron-nesmith
-70657,Cole Anthony,05-15-2000,Milwaukee Bucks,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/70657/cole-anthony
+70654,Tyrese Haliburton,02-29-2000,Indiana Pacers,2024-2028,Designated Rookie Extension,"$45,550,512",https://www.spotrac.com/nba/player/_/id/70654/tyrese-haliburton
 70658,Isaiah Stewart,02-22-2001,Detroit Pistons,2024-2027,Rookie Extension,"$15,000,000",https://www.spotrac.com/nba/player/_/id/70658/isaiah-stewart
+70657,Cole Anthony,05-15-2000,Milwaukee Bucks,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/70657/cole-anthony
+70643,Anthony Edwards,08-05-2001,Minnesota Timberwolves,2024-2028,Designated Rookie Extension,"$45,550,512",https://www.spotrac.com/nba/player/_/id/70643/anthony-edwards
 70660,Josh Green,11-16-2000,Charlotte Hornets,2024-2026,Rookie Extension,"$13,666,667",https://www.spotrac.com/nba/player/_/id/70660/josh-green
-70661,Saddiq Bey,04-09-1999,New Orleans Pelicans,2024-2026,Free Agent,"$6,118,644",https://www.spotrac.com/nba/player/_/id/70661/saddiq-bey
-70662,Precious Achiuwa,09-19-1999,New York Knicks,2024-2024,Free Agent,,https://www.spotrac.com/nba/player/_/id/70662/precious-achiuwa
+70647,Isaac Okoro,01-26-2001,Chicago Bulls,2024-2026,Free Agent,"$11,000,000",https://www.spotrac.com/nba/player/_/id/70647/isaac-okoro
+70677,Xavier Tillman,01-12-1999,Boston Celtics,2024-2025,Free Agent,"$2,546,675",https://www.spotrac.com/nba/player/_/id/70677/xavier-tillman
 70663,Tyrese Maxey,11-04-2000,Philadelphia 76ers,2024-2028,maximum,"$37,958,760",https://www.spotrac.com/nba/player/_/id/70663/tyrese-maxey
-70664,Zeke Nnaji,01-09-2001,Denver Nuggets,2024-2027,Rookie Extension,"$8,177,778",https://www.spotrac.com/nba/player/_/id/70664/zeke-nnaji
-70667,Immanuel Quickley,06-17-1999,Toronto Raptors,2024-2028,Free Agent,"$32,500,000",https://www.spotrac.com/nba/player/_/id/70667/immanuel-quickley
-70668,Payton Pritchard,01-28-1998,Boston Celtics,2024-2027,Rookie Extension,"$7,232,143",https://www.spotrac.com/nba/player/_/id/70668/payton-pritchard
 70670,Jaden McDaniels,09-29-2000,Minnesota Timberwolves,2024-2028,Rookie Extension,"$24,393,103",https://www.spotrac.com/nba/player/_/id/70670/jaden-mcdaniels
 70672,Desmond Bane,06-25-1998,Orlando Magic,2024-2028,Rookie Extension,"$36,725,670",https://www.spotrac.com/nba/player/_/id/70672/desmond-bane
-70677,Xavier Tillman,01-12-1999,Boston Celtics,2024-2025,Free Agent,"$2,546,675",https://www.spotrac.com/nba/player/_/id/70677/xavier-tillman
+70661,Saddiq Bey,04-09-1999,New Orleans Pelicans,2024-2026,Free Agent,"$6,118,644",https://www.spotrac.com/nba/player/_/id/70661/saddiq-bey
+70668,Payton Pritchard,01-28-1998,Boston Celtics,2024-2027,Rookie Extension,"$7,232,143",https://www.spotrac.com/nba/player/_/id/70668/payton-pritchard
+70662,Precious Achiuwa,09-19-1999,New York Knicks,2024-2024,Free Agent,,https://www.spotrac.com/nba/player/_/id/70662/precious-achiuwa
 70679,Vit Krejci,06-19-2000,Atlanta Hawks,2024-2027,Free Agent,"$2,349,578",https://www.spotrac.com/nba/player/_/id/70679/vit-krejci
-70683,Tre Jones,01-08-2000,Chicago Bulls,2025-2027,Free Agent,"$8,000,000",https://www.spotrac.com/nba/player/_/id/70683/tre-jones
 70684,Nick Richards,11-29-1997,Phoenix Suns,2023-2025,Veteran Extension,"$5,000,000",https://www.spotrac.com/nba/player/_/id/70684/nick-richards
 70691,Isaiah Joe,07-02-1999,Oklahoma City Thunder,2024-2027,Free Agent,"$12,362,338",https://www.spotrac.com/nba/player/_/id/70691/isaiah-joe
 70694,Kenyon Martin Jr.,01-06-2001,Utah Jazz,2024-2025,Free Agent,"$8,025,000",https://www.spotrac.com/nba/player/_/id/70694/kenyon-martin-jr
 70700,Paul Reed,06-14-1999,Detroit Pistons,2025-2026,Free Agent,"$5,335,894",https://www.spotrac.com/nba/player/_/id/70700/paul-reed
-70702,Sam Merrill,05-15-1996,Cleveland Cavaliers,2025-2028,Free Agent,"$8,482,144",https://www.spotrac.com/nba/player/_/id/70702/sam-merrill
-70704,Naji Marshall,01-24-1998,Dallas Mavericks,2024-2026,Free Agent,"$9,000,000",https://www.spotrac.com/nba/player/_/id/70704/naji-marshall
+70667,Immanuel Quickley,06-17-1999,Toronto Raptors,2024-2028,Free Agent,"$32,500,000",https://www.spotrac.com/nba/player/_/id/70667/immanuel-quickley
 70713,Mason Jones,07-21-1998,Sacramento Kings,2023-2024,two-way,,https://www.spotrac.com/nba/player/_/id/70713/mason-jones
-70716,Lamar Stevens,07-09-1997,Memphis Grizzlies,2024-2024,rest-of-season,,https://www.spotrac.com/nba/player/_/id/70716/lamar-stevens
+70664,Zeke Nnaji,01-09-2001,Denver Nuggets,2024-2027,Rookie Extension,"$8,177,778",https://www.spotrac.com/nba/player/_/id/70664/zeke-nnaji
 70720,Trevelin Queen,02-25-1997,Orlando Magic,2024-2024,two-way,,https://www.spotrac.com/nba/player/_/id/70720/trevelin-queen
-70741,Anthony Gill,10-17-1992,Washington Wizards,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/70741/anthony-gill
-70758,Jae’Sean Tate,10-28-1995,Houston Rockets,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/70758/jaesean-tate
 70872,Jeff Dowtin,05-10-1997,Philadelphia 76ers,2024-2024,two-way,,https://www.spotrac.com/nba/player/_/id/70872/jeff-dowtin
+70758,Jae’Sean Tate,10-28-1995,Houston Rockets,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/70758/jaesean-tate
 74108,Cade Cunningham,09-25-2001,Detroit Pistons,2025-2029,Designated Rookie Extension,"$46,394,100",https://www.spotrac.com/nba/player/_/id/74108/cade-cunningham
-74109,Jalen Green,02-09-2002,Phoenix Suns,2025-2027,Rookie Extension,"$33,584,499",https://www.spotrac.com/nba/player/_/id/74109/jalen-green
 74110,Evan Mobley,06-18-2001,Cleveland Cavaliers,2025-2029,Designated Rookie Extension,"$46,394,100",https://www.spotrac.com/nba/player/_/id/74110/evan-mobley
-74111,Scottie Barnes,08-01-2001,Toronto Raptors,2025-2029,Designated Rookie Extension,"$38,661,750",https://www.spotrac.com/nba/player/_/id/74111/scottie-barnes
-74112,Jalen Suggs,06-03-2001,Orlando Magic,2025-2029,Rookie Extension,"$35,000,000",https://www.spotrac.com/nba/player/_/id/74112/jalen-suggs
-74113,Josh Giddey,10-10-2002,Chicago Bulls,2021-2024,Rookie,"$25,057,101",https://www.spotrac.com/nba/player/_/id/74113/josh-giddey
+70716,Lamar Stevens,07-09-1997,Memphis Grizzlies,2024-2024,rest-of-season,,https://www.spotrac.com/nba/player/_/id/70716/lamar-stevens
+70683,Tre Jones,01-08-2000,Chicago Bulls,2025-2027,Free Agent,"$8,000,000",https://www.spotrac.com/nba/player/_/id/70683/tre-jones
+70702,Sam Merrill,05-15-1996,Cleveland Cavaliers,2025-2028,Free Agent,"$8,482,144",https://www.spotrac.com/nba/player/_/id/70702/sam-merrill
+70741,Anthony Gill,10-17-1992,Washington Wizards,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/70741/anthony-gill
 74114,Jonathan Kuminga,10-06-2002,Golden State Warriors,2021-2024,Rookie,"$22,908,921",https://www.spotrac.com/nba/player/_/id/74114/jonathan-kuminga
+74109,Jalen Green,02-09-2002,Phoenix Suns,2025-2027,Rookie Extension,"$33,584,499",https://www.spotrac.com/nba/player/_/id/74109/jalen-green
+74113,Josh Giddey,10-10-2002,Chicago Bulls,2021-2024,Rookie,"$25,057,101",https://www.spotrac.com/nba/player/_/id/74113/josh-giddey
+70704,Naji Marshall,01-24-1998,Dallas Mavericks,2024-2026,Free Agent,"$9,000,000",https://www.spotrac.com/nba/player/_/id/70704/naji-marshall
+74111,Scottie Barnes,08-01-2001,Toronto Raptors,2025-2029,Designated Rookie Extension,"$38,661,750",https://www.spotrac.com/nba/player/_/id/74111/scottie-barnes
 74115,Franz Wagner,08-27-2001,Orlando Magic,2025-2029,Designated Rookie Extension,"$38,661,750",https://www.spotrac.com/nba/player/_/id/74115/franz-wagner
-74116,Davion Mitchell,09-05-1998,Miami Heat,2025-2026,Free Agent,"$11,600,000",https://www.spotrac.com/nba/player/_/id/74116/davion-mitchell
-74117,Ziaire Williams,09-12-2001,Brooklyn Nets,2025-2026,Free Agent,,https://www.spotrac.com/nba/player/_/id/74117/ziaire-williams
-74121,Moses Moody,05-31-2002,Golden State Warriors,2025-2027,Rookie Extension,"$11,574,075",https://www.spotrac.com/nba/player/_/id/74121/moses-moody
-74122,Corey Kispert,03-03-1999,Washington Wizards,2025-2028,Rookie Extension,"$13,975,000",https://www.spotrac.com/nba/player/_/id/74122/corey-kispert
-74123,Alperen Sengun,06-25-2002,Houston Rockets,2025-2029,Rookie Extension,"$33,944,954",https://www.spotrac.com/nba/player/_/id/74123/alperen-sengun
 74124,Trey Murphy III,06-18-2000,New Orleans Pelicans,2025-2028,Rookie Extension,"$25,000,000",https://www.spotrac.com/nba/player/_/id/74124/trey-murphy-iii
-74125,Tre Mann,02-03-2001,Charlotte Hornets,2025-2027,Free Agent,"$8,000,000",https://www.spotrac.com/nba/player/_/id/74125/tre-mann
+74123,Alperen Sengun,06-25-2002,Houston Rockets,2025-2029,Rookie Extension,"$33,944,954",https://www.spotrac.com/nba/player/_/id/74123/alperen-sengun
+74121,Moses Moody,05-31-2002,Golden State Warriors,2025-2027,Rookie Extension,"$11,574,075",https://www.spotrac.com/nba/player/_/id/74121/moses-moody
+74116,Davion Mitchell,09-05-1998,Miami Heat,2025-2026,Free Agent,"$11,600,000",https://www.spotrac.com/nba/player/_/id/74116/davion-mitchell
 74126,Kai Jones,01-19-2001,Dallas Mavericks,2024-2024,two-way,,https://www.spotrac.com/nba/player/_/id/74126/kai-jones
-74127,Jalen Johnson,12-08-2001,Atlanta Hawks,2025-2029,Rookie Extension,"$30,000,000",https://www.spotrac.com/nba/player/_/id/74127/jalen-johnson
 74128,Keon Johnson,03-10-2002,Brooklyn Nets,2024-2025,Free Agent,"$2,349,578",https://www.spotrac.com/nba/player/_/id/74128/keon-johnson
-74129,Isaiah Jackson,01-10-2002,Indiana Pacers,2025-2027,Free Agent,"$7,600,000",https://www.spotrac.com/nba/player/_/id/74129/isaiah-jackson
+74117,Ziaire Williams,09-12-2001,Brooklyn Nets,2025-2026,Free Agent,,https://www.spotrac.com/nba/player/_/id/74117/ziaire-williams
+74127,Jalen Johnson,12-08-2001,Atlanta Hawks,2025-2029,Rookie Extension,"$30,000,000",https://www.spotrac.com/nba/player/_/id/74127/jalen-johnson
+74112,Jalen Suggs,06-03-2001,Orlando Magic,2025-2029,Rookie Extension,"$35,000,000",https://www.spotrac.com/nba/player/_/id/74112/jalen-suggs
 74131,Josh Christopher,12-08-2001,Miami Heat,2024-2024,two-way,,https://www.spotrac.com/nba/player/_/id/74131/josh-christopher
-74132,Quentin Grimes,05-08-2000,Philadelphia 76ers,2021-2024,Rookie,,https://www.spotrac.com/nba/player/_/id/74132/quentin-grimes
-74133,Nah'Shon Hyland,09-14-2000,Minnesota Timberwolves,2024-2024,two-way,,https://www.spotrac.com/nba/player/_/id/74133/nahshon-hyland
+74125,Tre Mann,02-03-2001,Charlotte Hornets,2025-2027,Free Agent,"$8,000,000",https://www.spotrac.com/nba/player/_/id/74125/tre-mann
+74129,Isaiah Jackson,01-10-2002,Indiana Pacers,2025-2027,Free Agent,"$7,600,000",https://www.spotrac.com/nba/player/_/id/74129/isaiah-jackson
 74134,Cameron Thomas,10-13-2001,Brooklyn Nets,2021-2024,Rookie,,https://www.spotrac.com/nba/player/_/id/74134/cameron-thomas
-74135,Jaden Springer,09-25-2002,New Orleans Pelicans,2025-2025,exhibit-9,$0,https://www.spotrac.com/nba/player/_/id/74135/jaden-springer
+74122,Corey Kispert,03-03-1999,Washington Wizards,2025-2028,Rookie Extension,"$13,975,000",https://www.spotrac.com/nba/player/_/id/74122/corey-kispert
 74136,Day'Ron Sharpe,11-06-2001,Brooklyn Nets,2025-2026,Free Agent,,https://www.spotrac.com/nba/player/_/id/74136/dayron-sharpe
-74137,Santi Aldama,01-10-2001,Memphis Grizzlies,2025-2027,Free Agent,"$18,485,916",https://www.spotrac.com/nba/player/_/id/74137/santi-aldama
-74139,Jeremiah Robinson-Earl,11-03-2000,New Orleans Pelicans,2023-2024,rest-of-season,,https://www.spotrac.com/nba/player/_/id/74139/jeremiah-robinson-earl
+74133,Nah'Shon Hyland,09-14-2000,Minnesota Timberwolves,2024-2024,two-way,,https://www.spotrac.com/nba/player/_/id/74133/nahshon-hyland
 74142,Herb Jones,10-06-1998,New Orleans Pelicans,2027-2029,Veteran Extension,"$13,937,574",https://www.spotrac.com/nba/player/_/id/74142/herb-jones
-74143,Miles McBride,09-08-2000,New York Knicks,2024-2026,Veteran Extension,"$4,333,333",https://www.spotrac.com/nba/player/_/id/74143/miles-mcbride
+74139,Jeremiah Robinson-Earl,11-03-2000,New Orleans Pelicans,2023-2024,rest-of-season,,https://www.spotrac.com/nba/player/_/id/74139/jeremiah-robinson-earl
 74144,JT Thor,08-26-2002,Washington Wizards,2024-2024,two-way,,https://www.spotrac.com/nba/player/_/id/74144/jt-thor
-74145,Ayo Dosunmu,01-17-2000,Chicago Bulls,2023-2025,Free Agent,"$7,518,518",https://www.spotrac.com/nba/player/_/id/74145/ayo-dosunmu
+74137,Santi Aldama,01-10-2001,Memphis Grizzlies,2025-2027,Free Agent,"$18,485,916",https://www.spotrac.com/nba/player/_/id/74137/santi-aldama
+74135,Jaden Springer,09-25-2002,New Orleans Pelicans,2025-2025,exhibit-9,$0,https://www.spotrac.com/nba/player/_/id/74135/jaden-springer
 74146,Neemias Queta,07-13-1999,Boston Celtics,2024-2026,Free Agent,"$2,349,578",https://www.spotrac.com/nba/player/_/id/74146/neemias-queta
-74147,Jared Butler,08-25-2000,Phoenix Suns,2025-2025,exhibit-9,$0,https://www.spotrac.com/nba/player/_/id/74147/jared-butler
 74151,Kessler Edwards,08-09-2000,Denver Nuggets,2025-2025,exhibit-10,$0,https://www.spotrac.com/nba/player/_/id/74151/kessler-edwards
-74153,Dalano Banton,11-07-1999,Portland Trail Blazers,2023-2024,Free Agent,,https://www.spotrac.com/nba/player/_/id/74153/dalano-banton
-74158,Brandon Boston Jr,11-28-2001,New Orleans Pelicans,2024-2025,rest-of-season,,https://www.spotrac.com/nba/player/_/id/74158/brandon-boston-jr
 74159,Luka Garza,12-27-1998,Minnesota Timberwolves,2025-2026,Free Agent,"$2,461,463",https://www.spotrac.com/nba/player/_/id/74159/luka-garza
-74160,Charles Bassey,10-28-2000,San Antonio Spurs,2024-2024,Free Agent,,https://www.spotrac.com/nba/player/_/id/74160/charles-bassey
-74161,Sandro Mamukelashvili,05-23-1999,San Antonio Spurs,2025-2026,Free Agent,"$2,461,463",https://www.spotrac.com/nba/player/_/id/74161/sandro-mamukelashvili
-74162,Aaron Wiggins,01-02-1999,Oklahoma City Thunder,2024-2028,Free Agent,"$10,102,803",https://www.spotrac.com/nba/player/_/id/74162/aaron-wiggins
+74158,Brandon Boston Jr,11-28-2001,New Orleans Pelicans,2024-2025,rest-of-season,,https://www.spotrac.com/nba/player/_/id/74158/brandon-boston-jr
+74145,Ayo Dosunmu,01-17-2000,Chicago Bulls,2023-2025,Free Agent,"$7,518,518",https://www.spotrac.com/nba/player/_/id/74145/ayo-dosunmu
+74153,Dalano Banton,11-07-1999,Portland Trail Blazers,2023-2024,Free Agent,,https://www.spotrac.com/nba/player/_/id/74153/dalano-banton
+74147,Jared Butler,08-25-2000,Phoenix Suns,2025-2025,exhibit-9,$0,https://www.spotrac.com/nba/player/_/id/74147/jared-butler
+74132,Quentin Grimes,05-08-2000,Philadelphia 76ers,2021-2024,Rookie,,https://www.spotrac.com/nba/player/_/id/74132/quentin-grimes
 74166,Jericho Sims,10-20-1998,Milwaukee Bucks,2025-2026,Free Agent,"$2,461,463",https://www.spotrac.com/nba/player/_/id/74166/jericho-sims
-74215,Jock Landale,10-25-1995,Memphis Grizzlies,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/74215/jock-landale
-74218,Austin Reaves,05-29-1998,Los Angeles Lakers,2023-2026,Free Agent,"$13,937,574",https://www.spotrac.com/nba/player/_/id/74218/austin-reaves
 74232,Trendon Watford,11-09-2000,Brooklyn Nets,2025-2026,Free Agent,"$2,461,463",https://www.spotrac.com/nba/player/_/id/74232/trendon-watford
-74239,David Duke Jr.,10-13-1999,San Antonio Spurs,2024-2024,two-way,,https://www.spotrac.com/nba/player/_/id/74239/david-duke-jr
+74215,Jock Landale,10-25-1995,Memphis Grizzlies,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/74215/jock-landale
+74162,Aaron Wiggins,01-02-1999,Oklahoma City Thunder,2024-2028,Free Agent,"$10,102,803",https://www.spotrac.com/nba/player/_/id/74162/aaron-wiggins
 74240,Justin Champagnie,06-29-2001,Washington Wizards,2024-2027,rest-of-season,"$2,349,578",https://www.spotrac.com/nba/player/_/id/74240/justin-champagnie
-74262,Jay Huff,08-25-1998,Indiana Pacers,2024-2027,,"$2,349,578",https://www.spotrac.com/nba/player/_/id/74262/jay-huff
-74267,Mac McClung,01-06-1999,Orlando Magic,2024-2024,two-way,,https://www.spotrac.com/nba/player/_/id/74267/mac-mcclung
+74161,Sandro Mamukelashvili,05-23-1999,San Antonio Spurs,2025-2026,Free Agent,"$2,461,463",https://www.spotrac.com/nba/player/_/id/74161/sandro-mamukelashvili
+74160,Charles Bassey,10-28-2000,San Antonio Spurs,2024-2024,Free Agent,,https://www.spotrac.com/nba/player/_/id/74160/charles-bassey
 74311,Sam Hauser,12-08-1997,Boston Celtics,2025-2028,Veteran Extension,"$10,044,644",https://www.spotrac.com/nba/player/_/id/74311/sam-hauser
-74329,A.J. Lawson,07-15-2000,Toronto Raptors,2024-2025,rest-of-season,"$2,270,735",https://www.spotrac.com/nba/player/_/id/74329/aj-lawson
-74331,Jose Alvarado,04-12-1998,New Orleans Pelicans,2025-2026,Veteran Extension,"$4,500,000",https://www.spotrac.com/nba/player/_/id/74331/jose-alvarado
+74218,Austin Reaves,05-29-1998,Los Angeles Lakers,2023-2026,Free Agent,"$13,937,574",https://www.spotrac.com/nba/player/_/id/74218/austin-reaves
 74333,Jordan Goodwin,10-23-1998,Phoenix Suns,2024-2025,rest-of-season,"$2,349,578",https://www.spotrac.com/nba/player/_/id/74333/jordan-goodwin
+74267,Mac McClung,01-06-1999,Orlando Magic,2024-2024,two-way,,https://www.spotrac.com/nba/player/_/id/74267/mac-mcclung
+74331,Jose Alvarado,04-12-1998,New Orleans Pelicans,2025-2026,Veteran Extension,"$4,500,000",https://www.spotrac.com/nba/player/_/id/74331/jose-alvarado
+74262,Jay Huff,08-25-1998,Indiana Pacers,2024-2027,,"$2,349,578",https://www.spotrac.com/nba/player/_/id/74262/jay-huff
+74143,Miles McBride,09-08-2000,New York Knicks,2024-2026,Veteran Extension,"$4,333,333",https://www.spotrac.com/nba/player/_/id/74143/miles-mcbride
 74384,Marcus Garrett,11-09-1998,Charlotte Hornets,2024-2024,ten-day,,https://www.spotrac.com/nba/player/_/id/74384/marcus-garrett
-74413,Ethan Thompson,05-04-1999,Miami Heat,2025-2025,exhibit-10,$0,https://www.spotrac.com/nba/player/_/id/74413/ethan-thompson
-74418,Micah Potter,04-06-1998,San Antonio Spurs,2025-2025,exhibit-10,$0,https://www.spotrac.com/nba/player/_/id/74418/micah-potter
 74420,Dru Smith,12-30-1997,Miami Heat,2025-2027,Free Agent,"$2,378,870",https://www.spotrac.com/nba/player/_/id/74420/dru-smith
-74580,Jalen Crutcher,07-18-1999,New Orleans Pelicans,2024-2024,two-way,,https://www.spotrac.com/nba/player/_/id/74580/jalen-crutcher
+74239,David Duke Jr.,10-13-1999,San Antonio Spurs,2024-2024,two-way,,https://www.spotrac.com/nba/player/_/id/74239/david-duke-jr
 74592,Braxton Key,02-14-1997,Golden State Warriors,2024-2024,rest-of-season,,https://www.spotrac.com/nba/player/_/id/74592/braxton-key
-75136,Brandon Williams,11-22-1999,Dallas Mavericks,2024-2025,rest-of-season,"$2,270,735",https://www.spotrac.com/nba/player/_/id/75136/brandon-williams
+74418,Micah Potter,04-06-1998,San Antonio Spurs,2025-2025,exhibit-10,$0,https://www.spotrac.com/nba/player/_/id/74418/micah-potter
+74413,Ethan Thompson,05-04-1999,Miami Heat,2025-2025,exhibit-10,$0,https://www.spotrac.com/nba/player/_/id/74413/ethan-thompson
+74580,Jalen Crutcher,07-18-1999,New Orleans Pelicans,2024-2024,two-way,,https://www.spotrac.com/nba/player/_/id/74580/jalen-crutcher
 75746,Lindy Waters III,07-28-1997,San Antonio Spurs,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/75746/lindy-waters-iii
-78108,Chet Holmgren,05-01-2002,Oklahoma City Thunder,2026-2030,rookie-maximum-extension,"$13,731,368",https://www.spotrac.com/nba/player/_/id/78108/chet-holmgren
-78109,Jabari Smith Jr.,05-13-2003,Houston Rockets,2026-2030,Rookie Extension,"$12,350,392",https://www.spotrac.com/nba/player/_/id/78109/jabari-smith-jr
+75136,Brandon Williams,11-22-1999,Dallas Mavericks,2024-2025,rest-of-season,"$2,270,735",https://www.spotrac.com/nba/player/_/id/75136/brandon-williams
 78110,Paolo Banchero,11-12-2002,Orlando Magic,2026-2030,Designated Rookie Extension,"$15,334,769",https://www.spotrac.com/nba/player/_/id/78110/paolo-banchero
-78111,Jaden Ivey,02-13-2002,Detroit Pistons,2022-2025,Rookie,"$10,107,163",https://www.spotrac.com/nba/player/_/id/78111/jaden-ivey
+78109,Jabari Smith Jr.,05-13-2003,Houston Rockets,2026-2030,Rookie Extension,"$12,350,392",https://www.spotrac.com/nba/player/_/id/78109/jabari-smith-jr
 78112,Keegan Murray,08-19-2000,Sacramento Kings,2022-2025,Rookie,"$11,144,093",https://www.spotrac.com/nba/player/_/id/78112/keegan-murray
+78108,Chet Holmgren,05-01-2002,Oklahoma City Thunder,2026-2030,rookie-maximum-extension,"$13,731,368",https://www.spotrac.com/nba/player/_/id/78108/chet-holmgren
+78116,Jalen Duren,11-18-2003,Detroit Pistons,2022-2025,Rookie,"$6,483,144",https://www.spotrac.com/nba/player/_/id/78116/jalen-duren
 78113,Shaedon Sharpe,05-30-2003,Portland Trail Blazers,2022-2025,Rookie,"$8,399,983",https://www.spotrac.com/nba/player/_/id/78113/shaedon-sharpe
 78114,Dyson Daniels,03-17-2003,Atlanta Hawks,2022-2025,Rookie,"$7,707,709",https://www.spotrac.com/nba/player/_/id/78114/dyson-daniels
-78115,Bennedict Mathurin,06-19-2002,Indiana Pacers,2022-2025,Rookie,"$9,187,573",https://www.spotrac.com/nba/player/_/id/78115/bennedict-mathurin
-78116,Jalen Duren,11-18-2003,Detroit Pistons,2022-2025,Rookie,"$6,483,144",https://www.spotrac.com/nba/player/_/id/78116/jalen-duren
-78118,Ousmane Dieng,05-21-2003,Oklahoma City Thunder,2022-2025,Rookie,"$6,670,882",https://www.spotrac.com/nba/player/_/id/78118/ousmane-dieng
 78120,Malaki Branham,05-12-2003,Washington Wizards,2022-2025,Rookie,"$4,962,033",https://www.spotrac.com/nba/player/_/id/78120/malaki-branham
+78115,Bennedict Mathurin,06-19-2002,Indiana Pacers,2022-2025,Rookie,"$9,187,573",https://www.spotrac.com/nba/player/_/id/78115/bennedict-mathurin
+78118,Ousmane Dieng,05-21-2003,Oklahoma City Thunder,2022-2025,Rookie,"$6,670,882",https://www.spotrac.com/nba/player/_/id/78118/ousmane-dieng
 78121,Mark Williams,12-16-2001,Phoenix Suns,2022-2025,Rookie,"$6,276,531",https://www.spotrac.com/nba/player/_/id/78121/mark-williams
-78122,Jeremy Sochan,05-20-2003,San Antonio Spurs,2022-2025,Rookie,"$7,096,231",https://www.spotrac.com/nba/player/_/id/78122/jeremy-sochan
+78111,Jaden Ivey,02-13-2002,Detroit Pistons,2022-2025,Rookie,"$10,107,163",https://www.spotrac.com/nba/player/_/id/78111/jaden-ivey
+78125,TyTy Washington Jr.,11-15-2001,LA Clippers,2025-2025,exhibit-10,$0,https://www.spotrac.com/nba/player/_/id/78125/tyty-washington-jr
 78123,Tari Eason,05-10-2001,Houston Rockets,2022-2025,Rookie,"$5,675,766",https://www.spotrac.com/nba/player/_/id/78123/tari-eason
 78124,Ochai Agbaji,04-20-2000,Toronto Raptors,2022-2025,Rookie,"$6,383,525",https://www.spotrac.com/nba/player/_/id/78124/ochai-agbaji
-78125,TyTy Washington Jr.,11-15-2001,LA Clippers,2025-2025,exhibit-10,$0,https://www.spotrac.com/nba/player/_/id/78125/tyty-washington-jr
-78126,Jalen Williams,04-14-2001,Oklahoma City Thunder,2026-2030,Designated Rookie Extension,"$6,580,997",https://www.spotrac.com/nba/player/_/id/78126/jalen-williams
 78128,Dalen Terry,07-12-2002,Chicago Bulls,2022-2025,Rookie,"$5,399,118",https://www.spotrac.com/nba/player/_/id/78128/dalen-terry
-78129,E.J. Liddell,12-18-2000,Chicago Bulls,2024-2024,two-way,,https://www.spotrac.com/nba/player/_/id/78129/ej-liddell
 78130,Jaden Hardy,07-05-2002,Dallas Mavericks,2025-2027,Veteran Extension,"$6,000,000",https://www.spotrac.com/nba/player/_/id/78130/jaden-hardy
-78131,Christian Koloko,06-20-2000,Los Angeles Lakers,2025-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/78131/christian-koloko
 78132,Blake Wesley,03-16-2003,Portland Trail Blazers,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/78132/blake-wesley
 78133,Walker Kessler,07-26-2001,Utah Jazz,2022-2025,Rookie,"$4,878,938",https://www.spotrac.com/nba/player/_/id/78133/walker-kessler
-78134,MarJon Beauchamp,10-12-2000,New York Knicks,2024-2024,two-way,,https://www.spotrac.com/nba/player/_/id/78134/marjon-beauchamp
-78135,Nikola Jovic,06-09-2003,Miami Heat,2022-2025,Rookie,"$4,445,417",https://www.spotrac.com/nba/player/_/id/78135/nikola-jovic
-78136,Max Christie,02-10-2003,Dallas Mavericks,2024-2027,Free Agent,"$7,714,286",https://www.spotrac.com/nba/player/_/id/78136/max-christie
-78137,Andrew Nembhard,01-16-2000,Indiana Pacers,2025-2027,Veteran Extension,"$18,102,000",https://www.spotrac.com/nba/player/_/id/78137/andrew-nembhard
+78129,E.J. Liddell,12-18-2000,Chicago Bulls,2024-2024,two-way,,https://www.spotrac.com/nba/player/_/id/78129/ej-liddell
+78131,Christian Koloko,06-20-2000,Los Angeles Lakers,2025-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/78131/christian-koloko
+74329,A.J. Lawson,07-15-2000,Toronto Raptors,2024-2025,rest-of-season,"$2,270,735",https://www.spotrac.com/nba/player/_/id/74329/aj-lawson
+78126,Jalen Williams,04-14-2001,Oklahoma City Thunder,2026-2030,Designated Rookie Extension,"$6,580,997",https://www.spotrac.com/nba/player/_/id/78126/jalen-williams
 78138,Peyton Watson,09-11-2002,Denver Nuggets,2022-2025,Rookie,"$4,356,476",https://www.spotrac.com/nba/player/_/id/78138/peyton-watson
-78139,Patrick Baldwin Jr.,11-18-2002,LA Clippers,2025-2025,exhibit-10,$0,https://www.spotrac.com/nba/player/_/id/78139/patrick-baldwin-jr
-78140,Bryce McGowens,11-08-2002,New Orleans Pelicans,2025-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/78140/bryce-mcgowens
+78134,MarJon Beauchamp,10-12-2000,New York Knicks,2024-2024,two-way,,https://www.spotrac.com/nba/player/_/id/78134/marjon-beauchamp
 78141,Jake LaRavia,11-03-2001,Los Angeles Lakers,2025-2026,Free Agent,"$6,000,000",https://www.spotrac.com/nba/player/_/id/78141/jake-laravia
-78142,Caleb Houstan,01-09-2003,Atlanta Hawks,2025-2025,exhibit-10,,https://www.spotrac.com/nba/player/_/id/78142/caleb-houstan
-78144,Karlo Matkovic,03-30-2001,New Orleans Pelicans,2024-2026,Rookie,"$1,955,377",https://www.spotrac.com/nba/player/_/id/78144/karlo-matkovic
+78140,Bryce McGowens,11-08-2002,New Orleans Pelicans,2025-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/78140/bryce-mcgowens
+78137,Andrew Nembhard,01-16-2000,Indiana Pacers,2025-2027,Veteran Extension,"$18,102,000",https://www.spotrac.com/nba/player/_/id/78137/andrew-nembhard
+78136,Max Christie,02-10-2003,Dallas Mavericks,2024-2027,Free Agent,"$7,714,286",https://www.spotrac.com/nba/player/_/id/78136/max-christie
 78145,Wendell Moore Jr.,07-18-2001,Charlotte Hornets,2024-2024,two-way,,https://www.spotrac.com/nba/player/_/id/78145/wendell-moore-jr
-78148,Christian Braun,04-17-2001,Denver Nuggets,2022-2025,Rookie,"$4,921,797",https://www.spotrac.com/nba/player/_/id/78148/christian-braun
+78122,Jeremy Sochan,05-20-2003,San Antonio Spurs,2022-2025,Rookie,"$7,096,231",https://www.spotrac.com/nba/player/_/id/78122/jeremy-sochan
+78142,Caleb Houstan,01-09-2003,Atlanta Hawks,2025-2025,exhibit-10,,https://www.spotrac.com/nba/player/_/id/78142/caleb-houstan
 78149,David Roddy,03-27-2001,Toronto Raptors,2025-2025,exhibit-10,$0,https://www.spotrac.com/nba/player/_/id/78149/david-roddy
 78150,Jaylin Williams,06-29-2002,Oklahoma City Thunder,2025-2027,Veteran Extension,"$8,450,704",https://www.spotrac.com/nba/player/_/id/78150/jaylin-williams
-78154,Moussa Diabate,01-21-2002,Charlotte Hornets,2024-2026,rest-of-season,"$2,270,735",https://www.spotrac.com/nba/player/_/id/78154/moussa-diabate
-78155,Ryan Rollins,07-03-2002,Milwaukee Bucks,2025-2027,Free Agent,"$4,000,000",https://www.spotrac.com/nba/player/_/id/78155/ryan-rollins
+78148,Christian Braun,04-17-2001,Denver Nuggets,2022-2025,Rookie,"$4,921,797",https://www.spotrac.com/nba/player/_/id/78148/christian-braun
+78144,Karlo Matkovic,03-30-2001,New Orleans Pelicans,2024-2026,Rookie,"$1,955,377",https://www.spotrac.com/nba/player/_/id/78144/karlo-matkovic
+78135,Nikola Jovic,06-09-2003,Miami Heat,2022-2025,Rookie,"$4,445,417",https://www.spotrac.com/nba/player/_/id/78135/nikola-jovic
 78156,Josh Minott,11-25-2002,Minnesota Timberwolves,2025-2026,Free Agent,"$2,378,870",https://www.spotrac.com/nba/player/_/id/78156/josh-minott
-78158,Vincent Williams Jr.,08-30-2000,Memphis Grizzlies,2023-2026,rest-of-season,"$2,301,587",https://www.spotrac.com/nba/player/_/id/78158/vincent-williams-jr
 78162,Tyrese Martin,03-07-1999,Brooklyn Nets,2024-2025,rest-of-season,"$2,191,897",https://www.spotrac.com/nba/player/_/id/78162/tyrese-martin
-78163,J.D. Davison,10-03-2002,Houston Rockets,2025-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/78163/jd-davison
+78154,Moussa Diabate,01-21-2002,Charlotte Hornets,2024-2026,rest-of-season,"$2,270,735",https://www.spotrac.com/nba/player/_/id/78154/moussa-diabate
 78165,Gui Santos,06-22-2002,Golden State Warriors,2023-2025,Rookie,"$2,221,677",https://www.spotrac.com/nba/player/_/id/78165/gui-santos
 78166,Luke Travers,09-03-2001,Cleveland Cavaliers,2025-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/78166/luke-travers
+78158,Vincent Williams Jr.,08-30-2000,Memphis Grizzlies,2023-2026,rest-of-season,"$2,301,587",https://www.spotrac.com/nba/player/_/id/78158/vincent-williams-jr
+78155,Ryan Rollins,07-03-2002,Milwaukee Bucks,2025-2027,Free Agent,"$4,000,000",https://www.spotrac.com/nba/player/_/id/78155/ryan-rollins
+78139,Patrick Baldwin Jr.,11-18-2002,LA Clippers,2025-2025,exhibit-10,$0,https://www.spotrac.com/nba/player/_/id/78139/patrick-baldwin-jr
 78167,Jabari Walker,07-30-2002,Philadelphia 76ers,2025-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/78167/jabari-walker
-78250,AJ Green,09-27-1999,Milwaukee Bucks,2023-2025,Free Agent,"$2,301,587",https://www.spotrac.com/nba/player/_/id/78250/aj-green
-78256,Scotty Pippen Jr.,11-10-2000,Memphis Grizzlies,2024-2027,,"$2,270,735",https://www.spotrac.com/nba/player/_/id/78256/scotty-pippen-jr
 78267,Keon Ellis,01-08-2000,Sacramento Kings,2023-2025,rest-of-season,"$2,301,587",https://www.spotrac.com/nba/player/_/id/78267/keon-ellis
+78256,Scotty Pippen Jr.,11-10-2000,Memphis Grizzlies,2024-2027,,"$2,270,735",https://www.spotrac.com/nba/player/_/id/78256/scotty-pippen-jr
 78268,Julian Champagnie,06-29-2001,San Antonio Spurs,2023-2026,Free Agent,"$3,000,000",https://www.spotrac.com/nba/player/_/id/78268/julian-champagnie
-78276,Collin Gillespie,06-25-1999,Phoenix Suns,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/78276/collin-gillespie
+78163,J.D. Davison,10-03-2002,Houston Rockets,2025-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/78163/jd-davison
 78288,Lester Quinones,11-16-2000,New Orleans Pelicans,2024-2025,two-way,,https://www.spotrac.com/nba/player/_/id/78288/lester-quinones
-78565,Dominick Barlow,05-26-2003,Philadelphia 76ers,2025-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/78565/dominick-barlow
-78577,Ron Harper Jr.,04-12-2000,Detroit Pistons,2024-2025,two-way,,https://www.spotrac.com/nba/player/_/id/78577/ron-harper-jr
-78578,Jamaree Bouyea,06-27-1999,Milwaukee Bucks,2024-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/78578/jamaree-bouyea
+78276,Collin Gillespie,06-25-1999,Phoenix Suns,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/78276/collin-gillespie
 78583,Johnny Juzang,03-17-2001,Utah Jazz,2024-2027,Free Agent,,https://www.spotrac.com/nba/player/_/id/78583/johnny-juzang
+78577,Ron Harper Jr.,04-12-2000,Detroit Pistons,2024-2025,two-way,,https://www.spotrac.com/nba/player/_/id/78577/ron-harper-jr
 78584,Jamal Cain,03-20-1999,Orlando Magic,2025-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/78584/jamal-cain
 78654,Simone Fontecchio,12-09-1995,Miami Heat,2024-2025,Free Agent,"$8,307,692",https://www.spotrac.com/nba/player/_/id/78654/simone-fontecchio
-79256,Pat Spencer,07-04-1996,Golden State Warriors,2024-2024,rest-of-season,,https://www.spotrac.com/nba/player/_/id/79256/pat-spencer
-79316,Jared Rhoden,08-27-1999,Toronto Raptors,2024-2025,two-way,,https://www.spotrac.com/nba/player/_/id/79316/jared-rhoden
-79693,Tyson Etienne,09-17-1999,Brooklyn Nets,2025-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/79693/tyson-etienne
-79950,Daeqwon Plowden,08-29-1998,Sacramento Kings,2025-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/79950/daeqwon-plowden
 79955,Quenton Jackson,09-15-1998,Indiana Pacers,2025-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/79955/quenton-jackson
-79960,Keaton Wallace,02-26-1999,Atlanta Hawks,2025-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/79960/keaton-wallace
+79316,Jared Rhoden,08-27-1999,Toronto Raptors,2024-2025,two-way,,https://www.spotrac.com/nba/player/_/id/79316/jared-rhoden
+78250,AJ Green,09-27-1999,Milwaukee Bucks,2023-2025,Free Agent,"$2,301,587",https://www.spotrac.com/nba/player/_/id/78250/aj-green
+79950,Daeqwon Plowden,08-29-1998,Sacramento Kings,2025-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/79950/daeqwon-plowden
 79976,Stanley Umude,04-12-1999,Milwaukee Bucks,2024-2024,two-way,,https://www.spotrac.com/nba/player/_/id/79976/stanley-umude
+78565,Dominick Barlow,05-26-2003,Philadelphia 76ers,2025-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/78565/dominick-barlow
+79960,Keaton Wallace,02-26-1999,Atlanta Hawks,2025-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/79960/keaton-wallace
+79256,Pat Spencer,07-04-1996,Golden State Warriors,2024-2024,rest-of-season,,https://www.spotrac.com/nba/player/_/id/79256/pat-spencer
 80003,Jeenathan Williams,02-12-1999,Houston Rockets,2024-2027,rest-of-season,,https://www.spotrac.com/nba/player/_/id/80003/jeenathan-williams
 8051,Kyrie Irving,03-23-1992,Dallas Mavericks,2025-2027,Free Agent,"$36,566,002",https://www.spotrac.com/nba/player/_/id/8051/kyrie-irving
-8054,Tristan Thompson,03-13-1991,Cleveland Cavaliers,2024-2024,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/8054/tristan-thompson
 8055,Jonas Valanciunas,05-06-1992,Denver Nuggets,2024-2026,sign-and-trade,"$10,395,000",https://www.spotrac.com/nba/player/_/id/8055/jonas-valanciunas
-8057,Bismack Biyombo,08-28-1992,San Antonio Spurs,2024-2024,rest-of-season,,https://www.spotrac.com/nba/player/_/id/8057/bismack-biyombo
-8062,Klay Thompson,02-08-1990,Dallas Mavericks,2024-2026,sign-and-trade,"$16,666,667",https://www.spotrac.com/nba/player/_/id/8062/klay-thompson
+8054,Tristan Thompson,03-13-1991,Cleveland Cavaliers,2024-2024,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/8054/tristan-thompson
 8063,Alec Burks,07-20-1991,Miami Heat,2024-2024,Free Agent,,https://www.spotrac.com/nba/player/_/id/8063/alec-burks
+8062,Klay Thompson,02-08-1990,Dallas Mavericks,2024-2026,sign-and-trade,"$16,666,667",https://www.spotrac.com/nba/player/_/id/8062/klay-thompson
+79693,Tyson Etienne,09-17-1999,Brooklyn Nets,2025-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/79693/tyson-etienne
 8064,Markieff Morris,09-02-1989,Los Angeles Lakers,2024-2024,,,https://www.spotrac.com/nba/player/_/id/8064/markieff-morris
-8066,Kawhi Leonard,06-29-1991,LA Clippers,2024-2026,Maximum Veteran Extension,"$50,000,000",https://www.spotrac.com/nba/player/_/id/8066/kawhi-leonard
-8067,Nikola Vucevic,10-24-1990,Chicago Bulls,2023-2025,Veteran Extension,"$21,481,481",https://www.spotrac.com/nba/player/_/id/8067/nikola-vucevic
-8070,Tobias Harris,07-15-1992,Detroit Pistons,2024-2025,Free Agent,"$26,634,146",https://www.spotrac.com/nba/player/_/id/8070/tobias-harris
 8080,Cory Joseph,08-20-1991,Orlando Magic,2024-2025,Free Agent,,https://www.spotrac.com/nba/player/_/id/8080/cory-joseph
+8067,Nikola Vucevic,10-24-1990,Chicago Bulls,2023-2025,Veteran Extension,"$21,481,481",https://www.spotrac.com/nba/player/_/id/8067/nikola-vucevic
 8081,Jimmy Butler,09-14-1989,Golden State Warriors,2025-2026,Maximum Veteran Extension,"$54,126,450",https://www.spotrac.com/nba/player/_/id/8081/jimmy-butler
 82122,Justin Minaya,03-26-1999,Portland Trail Blazers,2024-2024,two-way,,https://www.spotrac.com/nba/player/_/id/82122/justin-minaya
-82196,Victor Wembanyama,01-04-2004,San Antonio Spurs,2023-2026,Rookie,"$13,376,880",https://www.spotrac.com/nba/player/_/id/82196/victor-wembanyama
+78578,Jamaree Bouyea,06-27-1999,Milwaukee Bucks,2024-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/78578/jamaree-bouyea
+8057,Bismack Biyombo,08-28-1992,San Antonio Spurs,2024-2024,rest-of-season,,https://www.spotrac.com/nba/player/_/id/8057/bismack-biyombo
+8066,Kawhi Leonard,06-29-1991,LA Clippers,2024-2026,Maximum Veteran Extension,"$50,000,000",https://www.spotrac.com/nba/player/_/id/8066/kawhi-leonard
 82197,Brandon Miller,11-22-2002,Charlotte Hornets,2023-2026,Rookie,"$11,968,800",https://www.spotrac.com/nba/player/_/id/82197/brandon-miller
-82198,Scoot Henderson,02-03-2004,Portland Trail Blazers,2023-2026,Rookie,"$10,748,040",https://www.spotrac.com/nba/player/_/id/82198/scoot-henderson
 82199,Amen Thompson,01-30-2003,Houston Rockets,2023-2026,Rookie,"$9,690,600",https://www.spotrac.com/nba/player/_/id/82199/amen-thompson
+82196,Victor Wembanyama,01-04-2004,San Antonio Spurs,2023-2026,Rookie,"$13,376,880",https://www.spotrac.com/nba/player/_/id/82196/victor-wembanyama
+82198,Scoot Henderson,02-03-2004,Portland Trail Blazers,2023-2026,Rookie,"$10,748,040",https://www.spotrac.com/nba/player/_/id/82198/scoot-henderson
 82200,Ausar Thompson,01-30-2003,Detroit Pistons,2023-2026,Rookie,"$8,775,000",https://www.spotrac.com/nba/player/_/id/82200/ausar-thompson
 82201,Jarace Walker,09-04-2003,Indiana Pacers,2023-2026,Rookie,"$6,665,520",https://www.spotrac.com/nba/player/_/id/82201/jarace-walker
 82202,Cam Whitmore,07-08-2004,Washington Wizards,2023-2026,Rookie,"$3,539,760",https://www.spotrac.com/nba/player/_/id/82202/cam-whitmore
-82203,Anthony Black,01-20-2004,Orlando Magic,2023-2026,Rookie,"$7,970,280",https://www.spotrac.com/nba/player/_/id/82203/anthony-black
-82204,Gradey Dick,11-20-2003,Toronto Raptors,2023-2026,Rookie,"$4,990,560",https://www.spotrac.com/nba/player/_/id/82204/gradey-dick
+8070,Tobias Harris,07-15-1992,Detroit Pistons,2024-2025,Free Agent,"$26,634,146",https://www.spotrac.com/nba/player/_/id/8070/tobias-harris
 82205,Taylor Hendricks,11-22-2003,Utah Jazz,2023-2026,Rookie,"$6,127,080",https://www.spotrac.com/nba/player/_/id/82205/taylor-hendricks
-82206,Nick Smith Jr.,04-18-2004,Charlotte Hornets,2023-2026,Rookie,"$2,710,680",https://www.spotrac.com/nba/player/_/id/82206/nick-smith-jr
+82209,Keyonte George,11-08-2003,Utah Jazz,2023-2026,Rookie,"$4,278,960",https://www.spotrac.com/nba/player/_/id/82209/keyonte-george
+82203,Anthony Black,01-20-2004,Orlando Magic,2023-2026,Rookie,"$7,970,280",https://www.spotrac.com/nba/player/_/id/82203/anthony-black
+82210,Jalen Hood-Schifino,06-19-2003,Philadelphia 76ers,2024-2024,two-way,,https://www.spotrac.com/nba/player/_/id/82210/jalen-hood-schifino
 82207,Cason Wallace,11-07-2003,Oklahoma City Thunder,2023-2026,Rookie,"$5,820,240",https://www.spotrac.com/nba/player/_/id/82207/cason-wallace
 82208,Jordan Hawkins,04-29-2002,New Orleans Pelicans,2023-2026,Rookie,"$4,741,320",https://www.spotrac.com/nba/player/_/id/82208/jordan-hawkins
-82209,Keyonte George,11-08-2003,Utah Jazz,2023-2026,Rookie,"$4,278,960",https://www.spotrac.com/nba/player/_/id/82209/keyonte-george
-82210,Jalen Hood-Schifino,06-19-2003,Philadelphia 76ers,2024-2024,two-way,,https://www.spotrac.com/nba/player/_/id/82210/jalen-hood-schifino
 82211,Jett Howard,09-14-2003,Orlando Magic,2023-2026,Rookie,"$5,529,720",https://www.spotrac.com/nba/player/_/id/82211/jett-howard
-82212,Rayan Rupert,05-31-2004,Portland Trail Blazers,2023-2025,Rookie,"$2,221,677",https://www.spotrac.com/nba/player/_/id/82212/rayan-rupert
 82213,Brice Sensabaugh,10-30-2003,Utah Jazz,2023-2026,Rookie,"$2,693,760",https://www.spotrac.com/nba/player/_/id/82213/brice-sensabaugh
-82214,Noah Clowney,07-14-2004,Brooklyn Nets,2023-2026,Rookie,"$3,398,640",https://www.spotrac.com/nba/player/_/id/82214/noah-clowney
-82215,Leonard Miller,11-26-2003,Minnesota Timberwolves,2023-2026,Rookie,"$2,221,677",https://www.spotrac.com/nba/player/_/id/82215/leonard-miller
 82271,Kobe Bufkin,09-21-2003,Atlanta Hawks,2023-2026,Rookie,"$4,503,720",https://www.spotrac.com/nba/player/_/id/82271/kobe-bufkin
-82272,Dereck Lively II,02-12-2004,Dallas Mavericks,2023-2026,Rookie,"$5,253,360",https://www.spotrac.com/nba/player/_/id/82272/dereck-lively-ii
-82273,Dariq Whitehead,08-01-2004,Brooklyn Nets,2023-2026,Rookie,"$3,262,560",https://www.spotrac.com/nba/player/_/id/82273/dariq-whitehead
+82204,Gradey Dick,11-20-2003,Toronto Raptors,2023-2026,Rookie,"$4,990,560",https://www.spotrac.com/nba/player/_/id/82204/gradey-dick
+82206,Nick Smith Jr.,04-18-2004,Charlotte Hornets,2023-2026,Rookie,"$2,710,680",https://www.spotrac.com/nba/player/_/id/82206/nick-smith-jr
+82214,Noah Clowney,07-14-2004,Brooklyn Nets,2023-2026,Rookie,"$3,398,640",https://www.spotrac.com/nba/player/_/id/82214/noah-clowney
 82275,Kris Murray,08-19-2000,Portland Trail Blazers,2023-2026,Rookie,"$3,132,000",https://www.spotrac.com/nba/player/_/id/82275/kris-murray
-82317,Bilal Coulibaly,07-26-2004,Washington Wizards,2023-2026,Rookie,"$7,275,600",https://www.spotrac.com/nba/player/_/id/82317/bilal-coulibaly
+82273,Dariq Whitehead,08-01-2004,Brooklyn Nets,2023-2026,Rookie,"$3,262,560",https://www.spotrac.com/nba/player/_/id/82273/dariq-whitehead
+82272,Dereck Lively II,02-12-2004,Dallas Mavericks,2023-2026,Rookie,"$5,253,360",https://www.spotrac.com/nba/player/_/id/82272/dereck-lively-ii
 82318,Maxwell Lewis,07-27-2002,Brooklyn Nets,2023-2026,Rookie,,https://www.spotrac.com/nba/player/_/id/82318/maxwell-lewis
+82212,Rayan Rupert,05-31-2004,Portland Trail Blazers,2023-2025,Rookie,"$2,221,677",https://www.spotrac.com/nba/player/_/id/82212/rayan-rupert
+82317,Bilal Coulibaly,07-26-2004,Washington Wizards,2023-2026,Rookie,"$7,275,600",https://www.spotrac.com/nba/player/_/id/82317/bilal-coulibaly
+82215,Leonard Miller,11-26-2003,Minnesota Timberwolves,2023-2026,Rookie,"$2,221,677",https://www.spotrac.com/nba/player/_/id/82215/leonard-miller
 82320,Colby Jones,05-28-2002,Detroit Pistons,2025-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/82320/colby-jones
 82321,Andre Jackson Jr.,11-13-2001,Milwaukee Bucks,2023-2026,Rookie,"$2,221,677",https://www.spotrac.com/nba/player/_/id/82321/andre-jackson-jr
 82323,Jaime Jaquez Jr.,02-16-2001,Miami Heat,2023-2026,Rookie,"$3,861,600",https://www.spotrac.com/nba/player/_/id/82323/jaime-jaquez-jr
-84438,Brandin Podziemski,02-25-2003,Golden State Warriors,2023-2026,Rookie,"$3,687,960",https://www.spotrac.com/nba/player/_/id/84438/brandin-podziemski
 84439,Olivier-Maxence Prosper,07-03-2002,Dallas Mavericks,2023-2026,Rookie,"$3,007,080",https://www.spotrac.com/nba/player/_/id/84439/olivier-maxence-prosper
-84440,Ben Sheppard,07-16-2001,Indiana Pacers,2023-2026,Rookie,"$2,790,720",https://www.spotrac.com/nba/player/_/id/84440/ben-sheppard
-84442,Marcus Sasser,09-21-2000,Detroit Pistons,2023-2026,Rookie,"$2,886,720",https://www.spotrac.com/nba/player/_/id/84442/marcus-sasser
 84443,Trayce Jackson-Davis,02-22-2000,Golden State Warriors,2023-2026,Rookie,"$2,221,677",https://www.spotrac.com/nba/player/_/id/84443/trayce-jackson-davis
-84444,Julian Phillips,11-05-2003,Chicago Bulls,2023-2026,Rookie,"$2,221,677",https://www.spotrac.com/nba/player/_/id/84444/julian-phillips
+84440,Ben Sheppard,07-16-2001,Indiana Pacers,2023-2026,Rookie,"$2,790,720",https://www.spotrac.com/nba/player/_/id/84440/ben-sheppard
+84438,Brandin Podziemski,02-25-2003,Golden State Warriors,2023-2026,Rookie,"$3,687,960",https://www.spotrac.com/nba/player/_/id/84438/brandin-podziemski
 84463,Julian Strawther,04-18-2002,Denver Nuggets,2023-2026,Rookie,"$2,674,200",https://www.spotrac.com/nba/player/_/id/84463/julian-strawther
-84464,Kobe Brown,01-01-2000,LA Clippers,2023-2026,Rookie,"$2,654,880",https://www.spotrac.com/nba/player/_/id/84464/kobe-brown
-84465,Jalen Pickett,10-22-1999,Denver Nuggets,2023-2026,Rookie,"$2,221,677",https://www.spotrac.com/nba/player/_/id/84465/jalen-pickett
-84466,Hunter Tyson,06-13-2000,Denver Nuggets,2023-2026,Rookie,"$2,221,677",https://www.spotrac.com/nba/player/_/id/84466/hunter-tyson
-84467,Jordan Walsh,03-03-2004,Boston Celtics,2023-2026,Rookie,"$2,221,677",https://www.spotrac.com/nba/player/_/id/84467/jordan-walsh
 84468,Mouhamed Gueye,11-09-2002,Atlanta Hawks,2023-2026,Rookie,"$2,221,677",https://www.spotrac.com/nba/player/_/id/84468/mouhamed-gueye
+84467,Jordan Walsh,03-03-2004,Boston Celtics,2023-2026,Rookie,"$2,221,677",https://www.spotrac.com/nba/player/_/id/84467/jordan-walsh
 84470,Tristan Vukcevic,03-11-2003,Washington Wizards,2025-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/84470/tristan-vukcevic
 84471,Sidy Cissoko,04-02-2004,Portland Trail Blazers,2024-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/84471/sidy-cissoko
+84444,Julian Phillips,11-05-2003,Chicago Bulls,2023-2026,Rookie,"$2,221,677",https://www.spotrac.com/nba/player/_/id/84444/julian-phillips
+84464,Kobe Brown,01-01-2000,LA Clippers,2023-2026,Rookie,"$2,654,880",https://www.spotrac.com/nba/player/_/id/84464/kobe-brown
+84442,Marcus Sasser,09-21-2000,Detroit Pistons,2023-2026,Rookie,"$2,886,720",https://www.spotrac.com/nba/player/_/id/84442/marcus-sasser
 84472,Seth Lundy,04-02-2000,LA Clippers,2024-2025,two-way,,https://www.spotrac.com/nba/player/_/id/84472/seth-lundy
+84465,Jalen Pickett,10-22-1999,Denver Nuggets,2023-2026,Rookie,"$2,221,677",https://www.spotrac.com/nba/player/_/id/84465/jalen-pickett
+84479,Jaylen Clark,10-13-2001,Minnesota Timberwolves,2024-2025,rest-of-season,"$2,191,897",https://www.spotrac.com/nba/player/_/id/84479/jaylen-clark
+84477,Jalen Wilson,11-04-2000,Brooklyn Nets,2023-2025,rest-of-season,"$2,221,677",https://www.spotrac.com/nba/player/_/id/84477/jalen-wilson
 84474,Jordan Miller,01-23-2000,LA Clippers,2025-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/84474/jordan-miller
 84475,Emoni Bates,01-28-2004,Cleveland Cavaliers,2024-2024,two-way,,https://www.spotrac.com/nba/player/_/id/84475/emoni-bates
-84477,Jalen Wilson,11-04-2000,Brooklyn Nets,2023-2025,rest-of-season,"$2,221,677",https://www.spotrac.com/nba/player/_/id/84477/jalen-wilson
 84478,Toumani Camara,05-08-2000,Portland Trail Blazers,2023-2026,Rookie,"$2,221,677",https://www.spotrac.com/nba/player/_/id/84478/toumani-camara
-84479,Jaylen Clark,10-13-2001,Minnesota Timberwolves,2024-2025,rest-of-season,"$2,191,897",https://www.spotrac.com/nba/player/_/id/84479/jaylen-clark
-84483,Chris Livingston,10-15-2003,Milwaukee Bucks,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/84483/chris-livingston
 84718,Ricky Council IV,08-03-2001,Philadelphia 76ers,2023-2026,rest-of-season,,https://www.spotrac.com/nba/player/_/id/84718/ricky-council-iv
-84732,Oscar Tshiebwe,11-27-1999,Utah Jazz,2025-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/84732/oscar-tshiebwe
+84466,Hunter Tyson,06-13-2000,Denver Nuggets,2023-2026,Rookie,"$2,221,677",https://www.spotrac.com/nba/player/_/id/84466/hunter-tyson
+84483,Chris Livingston,10-15-2003,Milwaukee Bucks,2025-2025,Free Agent,"$2,296,274",https://www.spotrac.com/nba/player/_/id/84483/chris-livingston
 84733,Jaylen Martin,01-28-2004,Washington Wizards,2024-2025,two-way,,https://www.spotrac.com/nba/player/_/id/84733/jaylen-martin
-84736,Colin Castleton,05-25-2000,Orlando Magic,2025-2025,exhibit-10,$0,https://www.spotrac.com/nba/player/_/id/84736/colin-castleton
+84732,Oscar Tshiebwe,11-27-1999,Utah Jazz,2025-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/84732/oscar-tshiebwe
 84768,Craig Porter Jr.,02-26-2000,Cleveland Cavaliers,2023-2026,rest-of-season,"$2,221,677",https://www.spotrac.com/nba/player/_/id/84768/craig-porter-jr
+84736,Colin Castleton,05-25-2000,Orlando Magic,2025-2025,exhibit-10,$0,https://www.spotrac.com/nba/player/_/id/84736/colin-castleton
 84769,Jacob Toppin,05-08-2000,Atlanta Hawks,2025-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/84769/jacob-toppin
 84770,Miles Norris,04-15-2000,Boston Celtics,2024-2025,two-way,,https://www.spotrac.com/nba/player/_/id/84770/miles-norris
-84939,Adama Sanogo,02-12-2002,Chicago Bulls,2024-2024,two-way,,https://www.spotrac.com/nba/player/_/id/84939/adama-sanogo
 85500,Tosan Evbuomwan,02-16-2001,Brooklyn Nets,2024-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/85500/tosan-evbuomwan
+84939,Adama Sanogo,02-12-2002,Chicago Bulls,2024-2024,two-way,,https://www.spotrac.com/nba/player/_/id/84939/adama-sanogo
+85973,Drew Timme,09-09-2000,Brooklyn Nets,2024-2025,rest-of-season,"$1,955,377",https://www.spotrac.com/nba/player/_/id/85973/drew-timme
 85837,Drew Peterson,11-09-1999,Charlotte Hornets,2025-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/85837/drew-peterson
 85972,G.G. Jackson,12-17-2004,Memphis Grizzlies,2023-2026,rest-of-season,"$2,221,677",https://www.spotrac.com/nba/player/_/id/85972/gg-jackson
-85973,Drew Timme,09-09-2000,Brooklyn Nets,2024-2025,rest-of-season,"$1,955,377",https://www.spotrac.com/nba/player/_/id/85973/drew-timme
-85975,Damion Baugh,08-03-2000,Charlotte Hornets,2024-2025,two-way,,https://www.spotrac.com/nba/player/_/id/85975/damion-baugh
-86006,Pete Nance,02-19-2000,Milwaukee Bucks,2024-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/86006/pete-nance
-86044,Trey Jemison,11-28-1999,Los Angeles Lakers,2024-2025,two-way,,https://www.spotrac.com/nba/player/_/id/86044/trey-jemison
 86051,Duop Reath,06-26-1996,Portland Trail Blazers,2023-2025,rest-of-season,"$2,221,677",https://www.spotrac.com/nba/player/_/id/86051/duop-reath
 86081,Adam Flagler,12-01-1999,San Antonio Spurs,2025-2025,exhibit-10,$0,https://www.spotrac.com/nba/player/_/id/86081/adam-flagler
-91733,Zaccharie Risacher,04-08-2005,Atlanta Hawks,2024-2027,Rookie,"$13,197,720",https://www.spotrac.com/nba/player/_/id/91733/zaccharie-risacher
 91734,Alex Sarr,04-26-2005,Washington Wizards,2024-2027,Rookie,"$11,808,240",https://www.spotrac.com/nba/player/_/id/91734/alex-sarr
+86044,Trey Jemison,11-28-1999,Los Angeles Lakers,2024-2025,two-way,,https://www.spotrac.com/nba/player/_/id/86044/trey-jemison
+85975,Damion Baugh,08-03-2000,Charlotte Hornets,2024-2025,two-way,,https://www.spotrac.com/nba/player/_/id/85975/damion-baugh
+91737,Nikola Topic,08-10-2005,Oklahoma City Thunder,2024-2027,Rookie,"$5,182,920",https://www.spotrac.com/nba/player/_/id/91737/nikola-topic
 91735,Donovan Clingan,02-23-2004,Portland Trail Blazers,2024-2027,Rookie,"$7,178,400",https://www.spotrac.com/nba/player/_/id/91735/donovan-clingan
 91736,Rob Dillingham,01-04-2005,Minnesota Timberwolves,2024-2027,Rookie,"$6,576,120",https://www.spotrac.com/nba/player/_/id/91736/rob-dillingham
-91737,Nikola Topic,08-10-2005,Oklahoma City Thunder,2024-2027,Rookie,"$5,182,920",https://www.spotrac.com/nba/player/_/id/91737/nikola-topic
-91738,Matas Buzelis,10-13-2004,Chicago Bulls,2024-2027,Rookie,"$5,455,560",https://www.spotrac.com/nba/player/_/id/91738/matas-buzelis
+86006,Pete Nance,02-19-2000,Milwaukee Bucks,2024-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/86006/pete-nance
 91739,Reed Sheppard,06-24-2004,Houston Rockets,2024-2027,Rookie,"$10,603,560",https://www.spotrac.com/nba/player/_/id/91739/reed-sheppard
 91749,Dalton Knecht,04-19-2001,Los Angeles Lakers,2024-2027,Rookie,"$4,010,160",https://www.spotrac.com/nba/player/_/id/91749/dalton-knecht
-91750,Stephon Castle,11-01-2004,San Antonio Spurs,2024-2027,Rookie,"$9,560,520",https://www.spotrac.com/nba/player/_/id/91750/stephon-castle
-91751,Ron Holland II,07-07-2005,Detroit Pistons,2024-2027,Rookie,"$8,657,280",https://www.spotrac.com/nba/player/_/id/91751/ron-holland-ii
 91752,Cody Williams,11-20-2004,Utah Jazz,2024-2027,Rookie,"$5,742,480",https://www.spotrac.com/nba/player/_/id/91752/cody-williams
-91753,Isaiah Collier,10-08-2004,Utah Jazz,2024-2027,Rookie,"$2,638,200",https://www.spotrac.com/nba/player/_/id/91753/isaiah-collier
+91751,Ron Holland II,07-07-2005,Detroit Pistons,2024-2027,Rookie,"$8,657,280",https://www.spotrac.com/nba/player/_/id/91751/ron-holland-ii
 91754,Ja'Kobe Walter,09-04-2004,Toronto Raptors,2024-2027,Rookie,"$3,638,160",https://www.spotrac.com/nba/player/_/id/91754/jakobe-walter
-91755,Zach Edey,05-14-2002,Memphis Grizzlies,2024-2027,Rookie,"$6,045,000",https://www.spotrac.com/nba/player/_/id/91755/zach-edey
-91756,Tidjane Salaun,08-10-2005,Charlotte Hornets,2024-2027,Rookie,"$7,863,240",https://www.spotrac.com/nba/player/_/id/91756/tidjane-salaun
 91757,Kyle Filipowski,11-07-2003,Utah Jazz,2024-2027,Rookie,"$3,000,000",https://www.spotrac.com/nba/player/_/id/91757/kyle-filipowski
+91755,Zach Edey,05-14-2002,Memphis Grizzlies,2024-2027,Rookie,"$6,045,000",https://www.spotrac.com/nba/player/_/id/91755/zach-edey
+91738,Matas Buzelis,10-13-2004,Chicago Bulls,2024-2027,Rookie,"$5,455,560",https://www.spotrac.com/nba/player/_/id/91738/matas-buzelis
 91758,Devin Carter,03-18-2002,Sacramento Kings,2024-2027,Rookie,"$4,923,720",https://www.spotrac.com/nba/player/_/id/91758/devin-carter
-91759,Tristan Da Silva,05-15-2001,Orlando Magic,2024-2027,Rookie,"$3,809,520",https://www.spotrac.com/nba/player/_/id/91759/tristan-da-silva
-91760,Jared McCain,02-20-2004,Philadelphia 76ers,2024-2027,Rookie,"$4,221,360",https://www.spotrac.com/nba/player/_/id/91760/jared-mccain
+91733,Zaccharie Risacher,04-08-2005,Atlanta Hawks,2024-2027,Rookie,"$13,197,720",https://www.spotrac.com/nba/player/_/id/91733/zaccharie-risacher
+91756,Tidjane Salaun,08-10-2005,Charlotte Hornets,2024-2027,Rookie,"$7,863,240",https://www.spotrac.com/nba/player/_/id/91756/tidjane-salaun
 91761,Yves Missi,05-14-2004,New Orleans Pelicans,2024-2027,Rookie,"$3,353,040",https://www.spotrac.com/nba/player/_/id/91761/yves-missi
+91760,Jared McCain,02-20-2004,Philadelphia 76ers,2024-2027,Rookie,"$4,221,360",https://www.spotrac.com/nba/player/_/id/91760/jared-mccain
+91753,Isaiah Collier,10-08-2004,Utah Jazz,2024-2027,Rookie,"$2,638,200",https://www.spotrac.com/nba/player/_/id/91753/isaiah-collier
 91762,Tyler Smith,11-02-2004,Milwaukee Bucks,2024-2027,Rookie,"$1,955,377",https://www.spotrac.com/nba/player/_/id/91762/tyler-smith
-91763,Kevin McCullar Jr.,03-15-2001,New York Knicks,2024-2024,two-way,,https://www.spotrac.com/nba/player/_/id/91763/kevin-mccullar-jr
 91764,Bobi Klintman,03-06-2003,Detroit Pistons,2024-2027,Rookie,"$1,955,377",https://www.spotrac.com/nba/player/_/id/91764/bobi-klintman
-91765,Kyshawn George,12-12-2003,Washington Wizards,2024-2027,Rookie,"$2,966,760",https://www.spotrac.com/nba/player/_/id/91765/kyshawn-george
-91766,Bub Carrington,07-21-2005,Washington Wizards,2024-2027,Rookie,"$4,677,600",https://www.spotrac.com/nba/player/_/id/91766/bub-carrington
+91750,Stephon Castle,11-01-2004,San Antonio Spurs,2024-2027,Rookie,"$9,560,520",https://www.spotrac.com/nba/player/_/id/91750/stephon-castle
 91767,Kel'el Ware,04-20-2004,Miami Heat,2024-2027,Rookie,"$4,443,360",https://www.spotrac.com/nba/player/_/id/91767/kelel-ware
-91768,Johnny Furphy,12-07-2004,Indiana Pacers,2024-2027,Rookie,"$1,955,377",https://www.spotrac.com/nba/player/_/id/91768/johnny-furphy
-91769,Tyler Kolek,03-27-2001,New York Knicks,2024-2027,Rookie,"$2,191,897",https://www.spotrac.com/nba/player/_/id/91769/tyler-kolek
-91770,Justin Edwards,12-16-2003,Philadelphia 76ers,2025-2027,Free Agent,"$2,048,494",https://www.spotrac.com/nba/player/_/id/91770/justin-edwards
+91759,Tristan Da Silva,05-15-2001,Orlando Magic,2024-2027,Rookie,"$3,809,520",https://www.spotrac.com/nba/player/_/id/91759/tristan-da-silva
+91766,Bub Carrington,07-21-2005,Washington Wizards,2024-2027,Rookie,"$4,677,600",https://www.spotrac.com/nba/player/_/id/91766/bub-carrington
+91763,Kevin McCullar Jr.,03-15-2001,New York Knicks,2024-2024,two-way,,https://www.spotrac.com/nba/player/_/id/91763/kevin-mccullar-jr
+91765,Kyshawn George,12-12-2003,Washington Wizards,2024-2027,Rookie,"$2,966,760",https://www.spotrac.com/nba/player/_/id/91765/kyshawn-george
 91771,Ryan Dunn,01-07-2003,Phoenix Suns,2024-2027,Rookie,"$2,657,760",https://www.spotrac.com/nba/player/_/id/91771/ryan-dunn
-91773,Jaylon Tyson,12-02-2002,Cleveland Cavaliers,2024-2027,Rookie,"$3,492,480",https://www.spotrac.com/nba/player/_/id/91773/jaylon-tyson
-91774,Terrence Shannon Jr.,07-30-2000,Minnesota Timberwolves,2024-2027,Rookie,"$2,674,080",https://www.spotrac.com/nba/player/_/id/91774/terrence-shannon-jr
+91770,Justin Edwards,12-16-2003,Philadelphia 76ers,2025-2027,Free Agent,"$2,048,494",https://www.spotrac.com/nba/player/_/id/91770/justin-edwards
 91775,Harrison Ingram,11-27-2002,San Antonio Spurs,2025-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/91775/harrison-ingram
+91774,Terrence Shannon Jr.,07-30-2000,Minnesota Timberwolves,2024-2027,Rookie,"$2,674,080",https://www.spotrac.com/nba/player/_/id/91774/terrence-shannon-jr
 91777,Cameron Christie,07-24-2005,LA Clippers,2024-2027,Rookie,"$1,955,377",https://www.spotrac.com/nba/player/_/id/91777/cameron-christie
 91778,Dillon Jones,10-29-2001,Washington Wizards,2024-2027,Rookie,"$2,753,280",https://www.spotrac.com/nba/player/_/id/91778/dillon-jones
 91780,Baylor Scheierman,09-26-2000,Boston Celtics,2024-2027,Rookie,"$2,619,000",https://www.spotrac.com/nba/player/_/id/91780/baylor-scheierman
-91781,Ulrich Chomche,12-30-2005,Toronto Raptors,2024-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/91781/ulrich-chomche
-91782,Pacome Dadiet,07-27-2005,New York Knicks,2024-2027,Rookie,"$2,847,600",https://www.spotrac.com/nba/player/_/id/91782/pacome-dadiet
+91773,Jaylon Tyson,12-02-2002,Cleveland Cavaliers,2024-2027,Rookie,"$3,492,480",https://www.spotrac.com/nba/player/_/id/91773/jaylon-tyson
+91768,Johnny Furphy,12-07-2004,Indiana Pacers,2024-2027,Rookie,"$1,955,377",https://www.spotrac.com/nba/player/_/id/91768/johnny-furphy
 91786,Keshad Johnson,06-23-2001,Miami Heat,2024-2025,rest-of-season,"$1,955,377",https://www.spotrac.com/nba/player/_/id/91786/keshad-johnson
-91787,Pelle Larsson,02-23-2001,Miami Heat,2024-2026,Rookie,"$1,955,378",https://www.spotrac.com/nba/player/_/id/91787/pelle-larsson
+91781,Ulrich Chomche,12-30-2005,Toronto Raptors,2024-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/91781/ulrich-chomche
+91769,Tyler Kolek,03-27-2001,New York Knicks,2024-2027,Rookie,"$2,191,897",https://www.spotrac.com/nba/player/_/id/91769/tyler-kolek
+91782,Pacome Dadiet,07-27-2005,New York Knicks,2024-2027,Rookie,"$2,847,600",https://www.spotrac.com/nba/player/_/id/91782/pacome-dadiet
 91788,K.J. Simpson,08-08-2002,Charlotte Hornets,2024-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/91788/kj-simpson
-91790,Adem Bona,03-28-2003,Philadelphia 76ers,2024-2027,Rookie,"$1,955,377",https://www.spotrac.com/nba/player/_/id/91790/adem-bona
-91791,DaRon Holmes II,08-15-2002,Denver Nuggets,2024-2027,Rookie,"$3,218,760",https://www.spotrac.com/nba/player/_/id/91791/daron-holmes-ii
 92952,AJ Johnson,12-01-2004,Washington Wizards,2024-2027,Rookie,"$3,090,480",https://www.spotrac.com/nba/player/_/id/92952/aj-johnson
-92956,Jonathan Mogbo,10-29-2001,Toronto Raptors,2024-2026,Rookie,"$1,955,377",https://www.spotrac.com/nba/player/_/id/92956/jonathan-mogbo
+91791,DaRon Holmes II,08-15-2002,Denver Nuggets,2024-2027,Rookie,"$3,218,760",https://www.spotrac.com/nba/player/_/id/91791/daron-holmes-ii
+91790,Adem Bona,03-28-2003,Philadelphia 76ers,2024-2027,Rookie,"$1,955,377",https://www.spotrac.com/nba/player/_/id/91790/adem-bona
 92958,Ajay Mitchell,06-25-2002,Oklahoma City Thunder,2025-2027,Free Agent,"$3,000,000",https://www.spotrac.com/nba/player/_/id/92958/ajay-mitchell
 92960,Bronny James,10-06-2004,Los Angeles Lakers,2024-2027,Rookie,"$1,955,377",https://www.spotrac.com/nba/player/_/id/92960/bronny-james
-93952,Jaylen Wells,08-26-2003,Memphis Grizzlies,2024-2027,Rookie,"$1,955,377",https://www.spotrac.com/nba/player/_/id/93952/jaylen-wells
-93953,Oso Ighodaro,07-14-2002,Phoenix Suns,2024-2027,Rookie,"$1,955,377",https://www.spotrac.com/nba/player/_/id/93953/oso-ighodaro
-93955,Jamal Shead,07-24-2002,Toronto Raptors,2024-2026,Rookie,"$1,955,377",https://www.spotrac.com/nba/player/_/id/93955/jamal-shead
 93956,Antonio Reeves,11-20-2000,Charlotte Hornets,2025-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/93956/antonio-reeves
-93957,Tristen Newton,04-26-2001,Minnesota Timberwolves,2024-2024,two-way,,https://www.spotrac.com/nba/player/_/id/93957/tristen-newton
-93958,Enrique Freeman,07-29-2000,Minnesota Timberwolves,2025-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/93958/enrique-freeman
-93959,Quinten Post,03-21-2000,Golden State Warriors,2024-2025,rest-of-season,"$1,955,377",https://www.spotrac.com/nba/player/_/id/93959/quinten-post
+93955,Jamal Shead,07-24-2002,Toronto Raptors,2024-2026,Rookie,"$1,955,377",https://www.spotrac.com/nba/player/_/id/93955/jamal-shead
+91787,Pelle Larsson,02-23-2001,Miami Heat,2024-2026,Rookie,"$1,955,378",https://www.spotrac.com/nba/player/_/id/91787/pelle-larsson
 93960,Cam Spencer,04-06-2000,Memphis Grizzlies,2025-2028,Free Agent,"$2,537,989",https://www.spotrac.com/nba/player/_/id/93960/cam-spencer
+93959,Quinten Post,03-21-2000,Golden State Warriors,2024-2025,rest-of-season,"$1,955,377",https://www.spotrac.com/nba/player/_/id/93959/quinten-post
+93952,Jaylen Wells,08-26-2003,Memphis Grizzlies,2024-2027,Rookie,"$1,955,377",https://www.spotrac.com/nba/player/_/id/93952/jaylen-wells
+93957,Tristen Newton,04-26-2001,Minnesota Timberwolves,2024-2024,two-way,,https://www.spotrac.com/nba/player/_/id/93957/tristen-newton
+92956,Jonathan Mogbo,10-29-2001,Toronto Raptors,2024-2026,Rookie,"$1,955,377",https://www.spotrac.com/nba/player/_/id/92956/jonathan-mogbo
 93961,Anton Watson,10-06-2000,New York Knicks,2024-2024,two-way,,https://www.spotrac.com/nba/player/_/id/93961/anton-watson
-93962,Ariel Hukporti,04-12-2002,New York Knicks,2024-2025,rest-of-season,"$1,955,377",https://www.spotrac.com/nba/player/_/id/93962/ariel-hukporti
-94457,Zyon Pullin,03-03-2001,Memphis Grizzlies,2024-2025,two-way,,https://www.spotrac.com/nba/player/_/id/94457/zyon-pullin
-94479,Jalen Bridges,05-14-2001,Phoenix Suns,2024-2024,two-way,,https://www.spotrac.com/nba/player/_/id/94479/jalen-bridges
+93958,Enrique Freeman,07-29-2000,Minnesota Timberwolves,2025-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/93958/enrique-freeman
 94481,Isaac Jones,07-11-2000,Sacramento Kings,2024-2025,rest-of-season,"$1,955,377",https://www.spotrac.com/nba/player/_/id/94481/isaac-jones
-94482,Isaiah Crawford,11-01-2001,Houston Rockets,2025-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/94482/isaiah-crawford
+93962,Ariel Hukporti,04-12-2002,New York Knicks,2024-2025,rest-of-season,"$1,955,377",https://www.spotrac.com/nba/player/_/id/93962/ariel-hukporti
 94483,Trey Alexander,05-02-2003,New Orleans Pelicans,2025-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/94483/trey-alexander
+94497,Isaiah Stevens,11-01-2000,Sacramento Kings,2025-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/94497/isaiah-stevens
 94484,Reece Beekman,10-08-2001,Brooklyn Nets,2024-2024,two-way,,https://www.spotrac.com/nba/player/_/id/94484/reece-beekman
 94490,Branden Carlson,06-14-1999,Oklahoma City Thunder,2025-2025,two-way,,https://www.spotrac.com/nba/player/_/id/94490/branden-carlson
-94497,Isaiah Stevens,11-01-2000,Sacramento Kings,2025-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/94497/isaiah-stevens
+93953,Oso Ighodaro,07-14-2002,Phoenix Suns,2024-2027,Rookie,"$1,955,377",https://www.spotrac.com/nba/player/_/id/93953/oso-ighodaro
 94498,Daniss Jenkins,08-17-2001,Detroit Pistons,2025-2025,two-way,,https://www.spotrac.com/nba/player/_/id/94498/daniss-jenkins
 94511,Jesse Edwards,03-18-2000,Minnesota Timberwolves,2025-2025,two-way,,https://www.spotrac.com/nba/player/_/id/94511/jesse-edwards
-94513,N'Faly Dante,10-19-2001,Atlanta Hawks,2025-2026,Free Agent,"$2,048,494",https://www.spotrac.com/nba/player/_/id/94513/nfaly-dante
 94515,P.J. Hall,02-21-2002,Memphis Grizzlies,2025-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/94515/pj-hall
+94482,Isaiah Crawford,11-01-2001,Houston Rockets,2025-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/94482/isaiah-crawford
 94538,Emanuel Miller,06-19-2000,Chicago Bulls,2025-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/94538/emanuel-miller
-94882,Alex Ducas,12-11-2000,Oklahoma City Thunder,2024-2024,two-way,,https://www.spotrac.com/nba/player/_/id/94882/alex-ducas
+94457,Zyon Pullin,03-03-2001,Memphis Grizzlies,2024-2025,two-way,,https://www.spotrac.com/nba/player/_/id/94457/zyon-pullin
+94479,Jalen Bridges,05-14-2001,Phoenix Suns,2024-2024,two-way,,https://www.spotrac.com/nba/player/_/id/94479/jalen-bridges
 95121,Jamison Battle,05-10-2001,Toronto Raptors,2024-2026,rest-of-season,"$1,955,377",https://www.spotrac.com/nba/player/_/id/95121/jamison-battle
-95269,Riley Minix,09-22-2000,San Antonio Spurs,2025-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/95269/riley-minix
+94513,N'Faly Dante,10-19-2001,Atlanta Hawks,2025-2026,Free Agent,"$2,048,494",https://www.spotrac.com/nba/player/_/id/94513/nfaly-dante
 95270,Jackson Rowe,01-04-1997,Golden State Warriors,2024-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/95270/jackson-rowe
 95276,Trentyn Flowers,03-08-2005,LA Clippers,2025-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/95276/trentyn-flowers
 95281,Jack McVeigh,06-27-1996,Houston Rockets,2024-2024,two-way,,https://www.spotrac.com/nba/player/_/id/95281/jack-mcveigh
+94882,Alex Ducas,12-11-2000,Oklahoma City Thunder,2024-2024,two-way,,https://www.spotrac.com/nba/player/_/id/94882/alex-ducas
 95361,Jahmir Young,10-07-2000,Chicago Bulls,2024-2025,two-way,,https://www.spotrac.com/nba/player/_/id/95361/jahmir-young
-95438,Spencer Jones,06-14-2001,Denver Nuggets,2025-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/95438/spencer-jones
-95564,Elijah Harkless,02-03-2000,Utah Jazz,2024-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/95564/elijah-harkless
 95565,Yuki Kawamura,05-02-2001,Chicago Bulls,2025-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/95565/yuki-kawamura
+95564,Elijah Harkless,02-03-2000,Utah Jazz,2024-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/95564/elijah-harkless
 95567,RayJ Dennis,03-30-2001,Indiana Pacers,2024-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/95567/rayj-dennis
-95591,Tolu Smith III,07-26-2000,Detroit Pistons,2024-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/95591/tolu-smith-iii
-95599,Nae'qwan Tomlin,12-10-2000,Cleveland Cavaliers,2024-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/95599/naeqwan-tomlin
-95602,Keion Brooks Jr.,07-31-7200,New Orleans Pelicans,2024-2024,two-way,,https://www.spotrac.com/nba/player/_/id/95602/keion-brooks-jr
 95612,Alex Reese,05-21-1999,Philadelphia 76ers,2024-2025,two-way,,https://www.spotrac.com/nba/player/_/id/95612/alex-reese
+95599,Nae'qwan Tomlin,12-10-2000,Cleveland Cavaliers,2024-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/95599/naeqwan-tomlin
+95438,Spencer Jones,06-14-2001,Denver Nuggets,2025-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/95438/spencer-jones
+95269,Riley Minix,09-22-2000,San Antonio Spurs,2025-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/95269/riley-minix
+95591,Tolu Smith III,07-26-2000,Detroit Pistons,2024-2025,two-way,$0,https://www.spotrac.com/nba/player/_/id/95591/tolu-smith-iii
 97480,Taran Armstrong,01-15-2002,Golden State Warriors,2024-2024,two-way,,https://www.spotrac.com/nba/player/_/id/97480/taran-armstrong
+95602,Keion Brooks Jr.,07-31-7200,New Orleans Pelicans,2024-2024,two-way,,https://www.spotrac.com/nba/player/_/id/95602/keion-brooks-jr
