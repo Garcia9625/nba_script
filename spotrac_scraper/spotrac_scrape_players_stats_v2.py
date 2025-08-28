@@ -184,8 +184,8 @@ def spotrac_all_players_stats() -> Tuple[int, int, float]:
 
 if __name__ == "__main__":
     succ, fail, secs = spotrac_all_players_stats()
-    mm, ss = divmod(int(secs), 60)
-    hh, mm = divmod(mm, 60)
-    print(f"\n✅ Successes: {succ}")
+    #mm, ss = divmod(int(secs), 60)
+    #hh, mm = divmod(mm, 60)
+    #print(f"\n✅ Successes: {succ}")
     print(f"💥 Failures : {fail}")
-    print(f"⏱  Total    : {hh:02d}:{mm:02d}:{ss:02d}")
+    #print(f"⏱  Total    : {hh:02d}:{mm:02d}:{ss:02d}")
