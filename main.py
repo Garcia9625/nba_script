@@ -8,6 +8,13 @@ from basketball_ref_scraper.bf_scrape_teams_standings import basketball_ref_team
 from spotrac_scraper.spotrac_scrape_teams_players import spotrac_players_urls
 from spotrac_scraper.spotrac_scrape_players_stats_v2 import spotrac_all_players_stats
 
+import sys
+try:
+    sys.stdout.reconfigure(encoding="utf-8")
+    sys.stderr.reconfigure(encoding="utf-8")
+except Exception:
+    pass
+
 
 def _fmt(secs: float) -> str:
     return str(timedelta(seconds=round(secs)))
